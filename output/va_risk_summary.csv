@@ -1,0 +1,83 @@
+VA Name,Total Check-ins,Critical Count,High Count,Medium Count,Low Count,Total Signals,Total Suggestions,Risk Score,Current Risk Level,Latest Check-in Date,Known Clients,Attention Required
+Zyra,4,2,0,1,1,16,15,206,CRITICAL,2025-12-11,Unknown,CRITICAL
+Michelle,7,1,2,4,0,33,27,170,HIGH,2025-11-27,Unknown,CRITICAL
+Cherie,3,1,2,0,0,23,13,150,CRITICAL,2025-12-03,of course,CRITICAL
+Kesha,2,1,1,0,0,13,8,125,HIGH,2026-01-07,to end your engagement due to ,CRITICAL
+Editha,2,1,1,0,0,16,11,125,HIGH,2025-11-27,Unknown,CRITICAL
+JL,2,1,0,1,0,8,7,105,CRITICAL,2025-12-12,Unknown,CRITICAL
+Dayanara,1,1,0,0,0,4,5,100,CRITICAL,2026-01-07,because it,CRITICAL
+Ivana,5,0,3,1,1,22,20,81,LOW,2026-01-07,Unknown,HIGH
+yam,5,0,3,2,0,26,22,85,HIGH,2026-01-07,so last time that you are goin,HIGH
+Dianna,4,0,2,2,0,15,15,60,MEDIUM,2025-12-10,to complete processes like the,HIGH
+Abby,6,0,2,3,1,17,22,66,MEDIUM,2026-01-07,you in the best way possible,HIGH
+Gen,2,0,2,0,0,13,9,50,HIGH,2025-12-23,Unknown,HIGH
+Dhoroty,6,0,2,4,0,28,26,70,HIGH,2026-01-07,and you are comfortable feedba; for documentation purposes and,HIGH
+Mufti,2,0,2,0,0,15,8,50,HIGH,2025-11-26,Unknown,HIGH
+Jocelyn,2,0,2,0,0,10,9,50,HIGH,2025-12-02,Unknown,HIGH
+Ann,6,0,1,0,5,12,19,30,LOW,2026-01-07,Unknown,HIGH
+Rudielyn,1,0,1,0,0,9,6,25,HIGH,2025-11-07,Unknown,HIGH
+Mitchie,1,0,1,0,0,7,5,25,HIGH,2025-11-12,me disappears suddenly,HIGH
+Ken,1,0,1,0,0,4,4,25,HIGH,2025-11-20,Unknown,HIGH
+Carla,5,0,1,3,1,15,17,41,MEDIUM,2026-01-07,Unknown,HIGH
+Sancha,1,0,1,0,0,4,3,25,HIGH,2025-12-11,Unknown,HIGH
+Stepha,1,0,1,0,0,6,5,25,HIGH,2025-12-15,for like part time then,HIGH
+Marie,3,0,1,2,0,11,11,35,MEDIUM,2025-12-22,them,HIGH
+Martin,1,0,1,0,0,7,4,25,HIGH,2025-12-16,side,HIGH
+Mary,3,0,0,3,0,15,13,15,MEDIUM,2026-01-07,Unknown,MONITOR
+Hilario,4,0,0,2,2,8,13,12,MEDIUM,2026-01-07,Melissa and Cheryl,OK
+Divine,3,0,0,2,1,7,11,11,MEDIUM,2026-01-07,Unknown,OK
+Katie,4,0,0,2,2,10,12,12,LOW,2026-01-07,Unknown,OK
+Trisha,2,0,0,2,0,6,6,10,MEDIUM,2026-01-07,has impacted you the most rece,OK
+Jamaica,4,0,0,4,0,13,14,20,MEDIUM,2026-01-07,has impacted you the most rece,MONITOR
+Catherine,3,0,0,2,1,9,12,11,MEDIUM,2026-01-07,Prime,OK
+Jep,6,0,0,6,0,23,23,30,MEDIUM,2026-01-07,Unknown,MONITOR
+Irvy,2,0,0,2,0,7,7,10,MEDIUM,2025-11-14,on a scale of one to; especially with Veronica as we,OK
+Crystal,1,0,0,1,0,5,5,5,MEDIUM,2025-11-06,Unknown,OK
+Roma,2,0,0,2,0,12,9,10,MEDIUM,2026-01-07,Unknown,OK
+Mon,1,0,0,1,0,8,5,5,MEDIUM,2025-11-07,and,OK
+Karen,3,0,0,3,0,11,12,15,MEDIUM,2025-12-10,Unknown,MONITOR
+Hannah,1,0,0,1,0,4,4,5,MEDIUM,2025-11-12,last week,OK
+Kathleen,1,0,0,0,1,3,3,1,LOW,2025-11-12,now,OK
+Merlinda,1,0,0,1,0,6,5,5,MEDIUM,2025-11-12,Unknown,OK
+Myla,1,0,0,1,0,5,4,5,MEDIUM,2025-11-12,anymore,OK
+Cyril,1,0,0,0,1,1,3,1,LOW,2025-11-13,Unknown,OK
+Gerlie,1,0,0,1,0,6,5,5,MEDIUM,2025-11-13,Unknown,OK
+Janet,1,0,0,1,0,5,4,5,MEDIUM,2025-11-13,Unknown,OK
+Herbert,1,0,0,1,0,5,5,5,MEDIUM,2025-11-14,me as an EP collections,OK
+Sergs,1,0,0,0,1,2,3,1,LOW,2025-11-14,Unknown,OK
+Stephanie,3,0,0,2,1,5,9,11,LOW,2025-12-04,Unknown,OK
+Irene,1,0,0,0,1,3,3,1,LOW,2025-11-18,Unknown,OK
+Solomon,1,0,0,1,0,3,3,5,MEDIUM,2025-11-19,Unknown,OK
+Joel,1,0,0,1,0,4,4,5,MEDIUM,2025-11-19,Unknown,OK
+Julienne,2,0,0,2,0,6,6,10,MEDIUM,2026-01-07,Unknown,OK
+Charish,2,0,0,2,0,10,8,10,MEDIUM,2026-01-07,Unknown,OK
+Shan,1,0,0,1,0,5,5,5,MEDIUM,2025-11-24,Unknown,OK
+Kristelle,1,0,0,1,0,3,4,5,MEDIUM,2025-11-25,Unknown,OK
+Zeska,2,0,0,2,0,14,9,10,MEDIUM,2025-11-25,Unknown,OK
+Jaz,2,0,0,1,1,5,6,6,MEDIUM,2025-11-26,Unknown,OK
+Alaiza,3,0,0,2,1,10,12,11,LOW,2025-12-17,Unknown,OK
+Paul,2,0,0,2,0,8,8,10,MEDIUM,2025-11-27,Unknown,OK
+Laura,2,0,0,2,0,8,6,10,MEDIUM,2025-11-27,Unknown,OK
+Verah,1,0,0,1,0,3,3,5,MEDIUM,2025-12-01,Unknown,OK
+TJ,1,0,0,1,0,3,3,5,MEDIUM,2025-12-01,comes to Namanian client,OK
+Ria,2,0,0,2,0,8,8,10,MEDIUM,2026-01-07,Unknown,OK
+Cookie,1,0,0,0,1,2,3,1,LOW,2025-12-02,Unknown,OK
+Rea,2,0,0,2,0,6,6,10,MEDIUM,2026-01-07,Unknown,OK
+Arjay,4,0,0,3,1,10,15,16,MEDIUM,2026-01-07,Unknown,MONITOR
+Jeanvic,2,0,0,2,0,6,8,10,MEDIUM,2025-12-03,Unknown,OK
+Joanne,1,0,0,1,0,6,4,5,MEDIUM,2025-12-03,Unknown,OK
+Eli,1,0,0,0,1,2,3,1,LOW,2025-12-04,Unknown,OK
+Natass,1,0,0,1,0,4,4,5,MEDIUM,2025-12-09,Unknown,OK
+Natassha,1,0,0,1,0,6,4,5,MEDIUM,2025-12-09,Unknown,OK
+Dhorot,1,0,0,1,0,2,4,5,MEDIUM,2025-12-09,and all the what you call deli,OK
+Rochel,1,0,0,0,1,1,3,1,LOW,2025-12-10,tapos,OK
+Zeus,3,0,0,3,0,11,11,15,MEDIUM,2025-12-10,Unknown,MONITOR
+Cynthia,3,0,0,2,1,8,12,11,LOW,2025-12-24,her,OK
+Oscar,1,0,0,1,0,4,4,5,MEDIUM,2025-12-16,Unknown,OK
+Precious,1,0,0,1,0,3,4,5,MEDIUM,2025-12-17,Unknown,OK
+Kim,1,0,0,1,0,5,5,5,MEDIUM,2025-12-17,Unknown,OK
+Wendy,1,0,0,1,0,2,3,5,MEDIUM,2025-12-17,Unknown,OK
+Joanna,1,0,0,1,0,2,4,5,MEDIUM,2025-12-18,Unknown,OK
+Rochelle,1,0,0,1,0,3,4,5,MEDIUM,2026-01-07,Unknown,OK
+Jane,1,0,0,1,0,2,3,5,MEDIUM,2026-01-07,Unknown,OK
+Zandra,1,0,0,1,0,5,4,5,MEDIUM,2026-01-07,Unknown,OK

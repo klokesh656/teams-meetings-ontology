@@ -1,0 +1,41 @@
+{
+  "processed": [
+    {
+      "va_name": "Trisha",
+      "client_name": "Unknown",
+      "date": "2025-08-18",
+      "risk_level": "medium",
+      "signals_count": 5,
+      "suggestions_count": 5
+    },
+    {
+      "va_name": "Katie",
+      "client_name": "Unknown",
+      "date": "2025-09-17",
+      "risk_level": "medium",
+      "signals_count": 5,
+      "suggestions_count": 4
+    },
+    {
+      "va_name": "Jamaica",
+      "client_name": "Unknown",
+      "date": "2025-09-25",
+      "risk_level": "medium",
+      "signals_count": 3,
+      "suggestions_count": 4
+    }
+  ],
+  "skipped": [
+    {
+      "file": "20250828_141657_Integration Team Check-in \u00a0Shey x\u00a0Ivana.vtt",
+      "reason": "No VA name"
+    },
+    {
+      "file": "20250912_165929_Integration Team Check-in \u00a0Shey x\u00a0Mary.vtt",
+      "reason": "No VA name"
+    }
+  ],
+  "failed": [],
+  "critical": [],
+  "high_risk": []
+}

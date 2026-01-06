@@ -1,0 +1,799 @@
+[
+  {
+    "meeting_summary": "The team discussed recent health and weather disruptions, reviewed the status of VAs previously marked as outliers, and evaluated feedback from the Atlas client. They addressed a VA's concerns about role expectations and compensation, client feedback on AI over-reliance, and outlined next steps for check-ins and reporting. Action plans were made to anonymize feedback and monitor communication and AI usage.",
+    "participants": [
+      "Crissy Santarin",
+      "Louise Alatraca",
+      "Isaac",
+      "Lady Heller",
+      "Andrea"
+    ],
+    "vas_discussed": [
+      {
+        "name": "No",
+        "client": "Atlas",
+        "status": "green",
+        "risk_signals": [
+          "VA002",
+          "VA003",
+          "VA009"
+        ],
+        "issues": "VA expressed concerns about scope creep, feeling overwhelmed due to additional tasks, and requested a review of compensation and role expectations.",
+        "actions_taken": "Louise conducted welfare check-ins, gathered feedback, and escalated the concern for anonymous reporting to the client. Awaiting client response for further action."
+      },
+      {
+        "name": "Atlas GTMs (group)",
+        "client": "Atlas",
+        "status": "green",
+        "risk_signals": [],
+        "issues": "Previously marked as orange/yellow for non-engagement, all have now responded positively to welfare check-ins.",
+        "actions_taken": "Randomized check-ins were conducted, resulting in improved engagement. Plan to continue varied, engaging outreach."
+      }
+    ],
+    "clients_discussed": [
+      {
+        "name": "Atlas",
+        "risk_signals": [
+          "CL003",
+          "CL010"
+        ],
+        "health_status": "at_risk",
+        "issues": "Client provided indirect feedback about VAs being overwhelmed, over-reliance on AI, and unclear communication. Requested anonymous feedback and closer monitoring of AI usage and communication."
+      }
+    ],
+    "key_insights": [
+      "Randomized, engaging welfare check-ins improved VA responsiveness and engagement.",
+      "VAs are experiencing scope creep and role ambiguity, leading to compensation concerns.",
+      "Clients are increasingly concerned about over-reliance on AI and want to monitor and coach for better sense-checking.",
+      "Anonymous feedback channels encourage more honest and actionable VA feedback."
+    ],
+    "action_items": [
+      "Continue randomized, engaging welfare check-ins for all VAs.",
+      "Draft and submit an anonymized weekly summary of VA feedback to Atlas, focusing on role expectations and AI usage.",
+      "Monitor and coach VAs on appropriate AI usage and encourage more proactive communication with clients.",
+      "Wait for Atlas client response on role alignment and compensation feedback before taking further action."
+    ],
+    "churn_risks_identified": [
+      {
+        "type": "va",
+        "name": "No",
+        "risk_level": "medium",
+        "signal": "Scope creep, feeling overwhelmed, and compensation misalignment (VA002, VA003, VA009).",
+        "recommended_action": "Escalate feedback anonymously to client, await response, and review role expectations and compensation if needed."
+      },
+      {
+        "type": "client",
+        "name": "Atlas",
+        "risk_level": "medium",
+        "signal": "Indirect feedback about dissatisfaction with VA performance and AI over-reliance (CL003, CL010).",
+        "recommended_action": "Increase check-ins, monitor AI usage, and provide coaching to VAs on communication and sense-checking."
+      }
+    ],
+    "kpis_mentioned": [
+      "Engagement/response rate to check-ins (improved from previous week)",
+      "Percentage of Atlas GTMs responding to outreach (at least 50%)"
+    ],
+    "best_practices_shared": [
+      "Randomizing check-in times and personalizing outreach questions to improve VA engagement.",
+      "Anonymizing feedback to encourage honest responses.",
+      "Coaching VAs to sense-check AI-generated work and maintain proactive communication with clients."
+    ],
+    "transcript_date": "2025-11-10",
+    "filename": "Outlier Discussion Transcripts 10 november 2025.txt",
+    "document_id": "84e114a2e2259bf1",
+    "processed_at": "2026-01-05T23:03:19.272028"
+  },
+  {
+    "meeting_summary": "The team discussed outlier VAs and clients, focusing on holiday schedules, performance issues, and part-time VAs seeking additional hours or clients. Key risks and improvement areas were identified, including communication gaps, onboarding weaknesses, and strategies to convert part-time VAs to full-time. Action items included follow-ups, SOP development, and exploring referral strategies to reduce churn.",
+    "participants": [
+      "Louise Alatraca",
+      "Crissy Santarin",
+      "Anne",
+      "Shek",
+      "Liza",
+      "Speaker 3",
+      "Jomar",
+      "Andrea",
+      "Isaac",
+      "Jay",
+      "Jason",
+      "Nathan",
+      "Steven"
+    ],
+    "vas_discussed": [
+      {
+        "name": "Atlas (VA under Atlas client)",
+        "client": "Atlas",
+        "status": "orange",
+        "risk_signals": [
+          "VA001",
+          "VA005",
+          "VA007"
+        ],
+        "issues": "Inconsistent check-ins, non-responsiveness, attendance concerns, and lack of visibility due to remote desktop setup.",
+        "actions_taken": "Plan for direct messaging before and after shifts, exploring WhatsApp as alternative communication channel, close monitoring."
+      },
+      {
+        "name": "Jen",
+        "client": "Atlas",
+        "status": "orange",
+        "risk_signals": [
+          "VA010",
+          "VA012",
+          "VA005"
+        ],
+        "issues": "Performance concerns, poor onboarding, lack of coaching progress, and attendance issues.",
+        "actions_taken": "Close monitoring similar to Jeff, increased check-ins during shifts."
+      },
+      {
+        "name": "Veronica",
+        "client": "Triple A",
+        "status": "yellow",
+        "risk_signals": [
+          "VA003"
+        ],
+        "issues": "Part-time, seeking additional client or hours, risk of disengagement if not converted to full-time.",
+        "actions_taken": "Share with client, consider referral or full-time conversion, monitor milestone check-ins."
+      },
+      {
+        "name": "Crystal",
+        "client": "Windermere / Rocky Point",
+        "status": "yellow",
+        "risk_signals": [
+          "VA003"
+        ],
+        "issues": "Part-time, seeking additional client or hours, risk of disengagement.",
+        "actions_taken": "Monitor milestone check-ins, consider referral or full-time conversion."
+      },
+      {
+        "name": "Dom",
+        "client": "Supreme Landing",
+        "status": "green",
+        "risk_signals": [],
+        "issues": "Requested update, no major issues.",
+        "actions_taken": "Recruitment to reach out when suitable client is available."
+      },
+      {
+        "name": "Irvine",
+        "client": "Triple A",
+        "status": "green",
+        "risk_signals": [],
+        "issues": "No issues mentioned, fully integrated.",
+        "actions_taken": "No action required."
+      }
+    ],
+    "clients_discussed": [
+      {
+        "name": "Atlas",
+        "risk_signals": [
+          "CL001",
+          "CL010"
+        ],
+        "health_status": "at_risk",
+        "issues": "Slow/inconsistent responses, lack of recent check-ins, VA performance concerns."
+      },
+      {
+        "name": "Triple A",
+        "risk_signals": [
+          "CL009"
+        ],
+        "health_status": "healthy",
+        "issues": "Multiple part-time VAs, potential for role expansion or replacement."
+      },
+      {
+        "name": "Windermere",
+        "risk_signals": [],
+        "health_status": "healthy",
+        "issues": "No major issues, part-time VA seeking more hours."
+      },
+      {
+        "name": "Rocky Point",
+        "risk_signals": [],
+        "health_status": "healthy",
+        "issues": "Part-time VA seeking more hours, possible role expansion."
+      },
+      {
+        "name": "Supreme Landing",
+        "risk_signals": [],
+        "health_status": "healthy",
+        "issues": "VA seeking client match, no major issues."
+      },
+      {
+        "name": "Endpoint Tracking",
+        "risk_signals": [],
+        "health_status": "healthy",
+        "issues": "Potential new billing/invoicing role, software expertise required."
+      },
+      {
+        "name": "River Roads",
+        "risk_signals": [],
+        "health_status": "healthy",
+        "issues": "Potential new intermodal dispatcher role."
+      }
+    ],
+    "key_insights": [
+      "Part-time VAs are at higher risk of churn unless converted to full-time or given additional clients.",
+      "Direct communication and milestone check-ins are critical for early detection of disengagement.",
+      "Referral strategies may help retain VAs and expand client base without aggressive pushing.",
+      "Onboarding and ongoing monitoring are essential to prevent performance and attendance issues."
+    ],
+    "action_items": [
+      "Send follow-up emails to Nicole and Joyce regarding replacement proposals.",
+      "Draft and send WhatsApp numbers for Atlas VAs to improve communication.",
+      "Develop SOP for converting part-time VAs to full-time within 1-2 months.",
+      "Frame referral offers to clients for VAs seeking additional hours.",
+      "Pause full-time push for Triple A until current hiring requests are resolved.",
+      "Draft client communication template for offering VAs additional hours or referrals."
+    ],
+    "churn_risks_identified": [
+      {
+        "type": "va",
+        "name": "Atlas VA",
+        "risk_level": "high",
+        "signal": "Inconsistent check-ins, non-responsiveness, attendance issues.",
+        "recommended_action": "Increase direct messaging, use WhatsApp, monitor closely before and after shifts."
+      },
+      {
+        "type": "va",
+        "name": "Jen",
+        "risk_level": "high",
+        "signal": "Performance concerns, poor onboarding, lack of coaching progress.",
+        "recommended_action": "Implement close monitoring, regular check-ins, and additional support."
+      },
+      {
+        "type": "va",
+        "name": "Veronica",
+        "risk_level": "medium",
+        "signal": "Seeking additional hours/client, risk of disengagement.",
+        "recommended_action": "Offer referral to client, monitor milestone check-ins, consider full-time conversion."
+      },
+      {
+        "type": "va",
+        "name": "Crystal",
+        "risk_level": "medium",
+        "signal": "Seeking additional hours/client, risk of disengagement.",
+        "recommended_action": "Monitor milestone check-ins, consider referral or full-time conversion."
+      },
+      {
+        "type": "client",
+        "name": "Atlas",
+        "risk_level": "medium",
+        "signal": "Slow/inconsistent responses, lack of recent check-ins.",
+        "recommended_action": "Increase proactive communication, schedule regular check-ins."
+      }
+    ],
+    "kpis_mentioned": [
+      "Task completion rates",
+      "Attendance consistency",
+      "Response times to messages",
+      "Milestone check-ins (30/60/90 days)"
+    ],
+    "best_practices_shared": [
+      "Use milestone check-ins to assess VA engagement and performance.",
+      "Frame referral offers to clients for VAs seeking more hours instead of aggressive full-time push.",
+      "Use WhatsApp with disappearing messages for secure, effective communication.",
+      "Monitor VAs closely during onboarding and initial months to prevent disengagement."
+    ],
+    "transcript_date": "2025-12-12",
+    "filename": "Outlier Discussion Transcripts 12 december 2025.txt",
+    "document_id": "c4c70b8319351c58",
+    "processed_at": "2026-01-05T23:03:29.542174"
+  },
+  {
+    "meeting_summary": "The team discussed their experiences during recent typhoons, focusing on the impact on work continuity, communication, and VA/client support. They reviewed contingency planning, feedback processes with clients, and highlighted the importance of resilience and proactive risk management. Specific VAs and clients were mentioned in the context of outlier conversations and forecasting churn risks.",
+    "participants": [
+      "Louise Alatraca",
+      "Crissy Santarin",
+      "Isaac",
+      "Marie",
+      "Mike",
+      "Andrea",
+      "Red",
+      "Harra"
+    ],
+    "vas_discussed": [
+      {
+        "name": "Luis",
+        "client": "Atlas",
+        "status": "green",
+        "risk_signals": [],
+        "issues": "Handled integration solo during crisis; experienced family bereavement but remained resilient and present.",
+        "actions_taken": "Provided feedback to client, maintained work continuity, supported team during typhoon disruptions."
+      },
+      {
+        "name": "Marie",
+        "client": "OA",
+        "status": "yellow",
+        "risk_signals": [
+          "VA006"
+        ],
+        "issues": "Was the only VA left standing during outages; backup had tech issues (Starlink/fiber down).",
+        "actions_taken": "Feedback gathered for contingency planning; plan to improve backup systems."
+      },
+      {
+        "name": "Red",
+        "client": "OA",
+        "status": "yellow",
+        "risk_signals": [
+          "VA006",
+          "VA011"
+        ],
+        "issues": "Went offline during crisis, raising concerns about communication and continuity.",
+        "actions_taken": "Monitored status, included in contingency planning."
+      },
+      {
+        "name": "Harra",
+        "client": "OA",
+        "status": "yellow",
+        "risk_signals": [
+          "VA006",
+          "VA011"
+        ],
+        "issues": "Went offline during crisis, similar to Red.",
+        "actions_taken": "Monitored status, included in contingency planning."
+      }
+    ],
+    "clients_discussed": [
+      {
+        "name": "Atlas",
+        "risk_signals": [
+          "CL003"
+        ],
+        "health_status": "healthy",
+        "issues": "Receiving filtered but honest feedback; client receptive to partnership approach.",
+        "actions_taken": "Initiated open feedback and forecasting conversations; improved confidence in proactive risk flagging."
+      },
+      {
+        "name": "OA",
+        "risk_signals": [
+          "CL001",
+          "CL005"
+        ],
+        "health_status": "at_risk",
+        "issues": "Communication and backup systems were stressed during typhoon; contingency planning needed.",
+        "actions_taken": "Drafting support plan for team connectivity and resilience."
+      }
+    ],
+    "key_insights": [
+      "Resilience and positive outlook among Filipino VAs despite crisis.",
+      "Importance of contingency planning for tech and communication outages.",
+      "Open, proactive feedback with clients builds trust and improves retention.",
+      "Forecasting outlier conversations helps anticipate churn risks."
+    ],
+    "action_items": [
+      "Crissy to draft a contingency support plan for team connectivity.",
+      "Evaluate and potentially implement Starlink or alternative backup systems for VAs.",
+      "Continue open feedback and forecasting conversations with Atlas and other clients.",
+      "Monitor VAs who went offline during crisis for ongoing risk signals."
+    ],
+    "churn_risks_identified": [
+      {
+        "type": "va",
+        "name": "Marie",
+        "risk_level": "medium",
+        "signal": "Tech problems and backup failure during crisis.",
+        "recommended_action": "Improve backup systems and contingency planning."
+      },
+      {
+        "type": "va",
+        "name": "Red",
+        "risk_level": "medium",
+        "signal": "Went offline during crisis, possible MIA pattern.",
+        "recommended_action": "Monitor attendance and ensure backup communication."
+      },
+      {
+        "type": "va",
+        "name": "Harra",
+        "risk_level": "medium",
+        "signal": "Went offline during crisis, possible MIA pattern.",
+        "recommended_action": "Monitor attendance and ensure backup communication."
+      },
+      {
+        "type": "client",
+        "name": "OA",
+        "risk_level": "medium",
+        "signal": "Internal instability and slow response during crisis.",
+        "recommended_action": "Implement contingency support plan and improve communication protocols."
+      }
+    ],
+    "kpis_mentioned": [
+      "Number of VAs handled by Louise (over 100)",
+      "VA attendance and online status during crisis",
+      "Client feedback responsiveness"
+    ],
+    "best_practices_shared": [
+      "Proactive, open feedback with clients, including flagging potential VA risks.",
+      "Contingency planning for communication and tech outages.",
+      "Maintaining positive team morale and resilience during crises."
+    ],
+    "transcript_date": "2025-11-15",
+    "filename": "Outlier Discussion Transcripts 15 november 2025.txt",
+    "document_id": "6469fafd9480ec0d",
+    "processed_at": "2026-01-05T23:03:39.288727"
+  },
+  {
+    "meeting_summary": "The team discussed several at-risk VAs and clients, focusing on recent replacements, performance issues, and technical problems. They reviewed the status of Roma as a replacement, Jericho's technical issues, and Mona's impending replacement. Action plans for monitoring, training, and communication with clients were formulated to mitigate churn risks.",
+    "participants": [
+      "Shey Geraldes",
+      "Crissy Santarin",
+      "KC Argente",
+      "Isaac",
+      "Rochelle",
+      "Steph",
+      "Roma",
+      "Jep",
+      "Cesar",
+      "Anne",
+      "Mona",
+      "Gabi",
+      "Bart"
+    ],
+    "vas_discussed": [
+      {
+        "name": "Roma",
+        "client": "KRB",
+        "status": "yellow",
+        "risk_signals": [
+          "VA012",
+          "VA003"
+        ],
+        "issues": "Previous placements had issues with reliability and comprehension; Roma has no attendance issues but some client concerns about comprehension/focus.",
+        "actions_taken": "Profiled Roma, communicated clear expectations, daily start/end-of-day check-ins planned, mentoring by Rochelle, client to meet Roma before finalizing replacement."
+      },
+      {
+        "name": "Jep",
+        "client": "Cesar",
+        "status": "orange",
+        "risk_signals": [
+          "VA008"
+        ],
+        "issues": "Client dissatisfied with Jep's email responses; needs to mirror another VA's SOP and improve communication.",
+        "actions_taken": "Training planned on leveraging AI for emails, Jep to mirror Anne's SOP, 4am Manila time upskilling session, client approved training period."
+      },
+      {
+        "name": "Mona",
+        "client": "Atlas",
+        "status": "red",
+        "risk_signals": [
+          "VA011"
+        ],
+        "issues": "Client indicated intent to let go; unclear if remediation is possible.",
+        "actions_taken": "Pending final decision; suggested reaching out to Gabi for specific feedback, but replacement interviews already scheduled."
+      },
+      {
+        "name": "Jericho",
+        "client": "Atlas",
+        "status": "red",
+        "risk_signals": [
+          "VA006"
+        ],
+        "issues": "Two technical issues in one week related to laptop; risk of client letting go due to recurring tech problems.",
+        "actions_taken": "Advised Jericho to replace laptop, follow-up scheduled to ensure action taken, monitoring for further incidents."
+      }
+    ],
+    "clients_discussed": [
+      {
+        "name": "KRB",
+        "risk_signals": [
+          "CL009",
+          "CL003"
+        ],
+        "health_status": "at_risk",
+        "issues": "Multiple replacements for the same role; client feedback about comprehension/focus issues with VAs."
+      },
+      {
+        "name": "Atlas",
+        "risk_signals": [
+          "CL009",
+          "CL006"
+        ],
+        "health_status": "critical",
+        "issues": "Frequent replacements, direct communication about letting go of VAs, technical issues leading to terminations."
+      },
+      {
+        "name": "Cesar",
+        "risk_signals": [
+          "CL003"
+        ],
+        "health_status": "at_risk",
+        "issues": "Indirect feedback about dissatisfaction with VA's email handling; need for process improvement."
+      }
+    ],
+    "key_insights": [
+      "Reliability and attendance are prioritized for high-turnover clients over perfect skills.",
+      "Technical issues are a leading indicator of potential churn, especially if unresolved.",
+      "Direct and frequent communication with both VAs and clients helps surface and address issues early.",
+      "Clients with a history of multiple replacements are less likely to accept remediation and prefer immediate replacement."
+    ],
+    "action_items": [
+      "KC to conduct daily check-ins with Roma and provide client updates.",
+      "KC to ensure Rochelle mentors Roma for smoother onboarding.",
+      "KC to follow up with Jericho about laptop replacement and confirm action.",
+      "Jep to undergo AI email training and mirror Anne's SOP.",
+      "Crissy to proceed with replacement interviews for Atlas client.",
+      "KC to check with Gabi for specific feedback on Mona only if greenlighted."
+    ],
+    "churn_risks_identified": [
+      {
+        "type": "va",
+        "name": "Mona",
+        "risk_level": "critical",
+        "signal": "Client has indicated intent to let go; replacement interviews scheduled.",
+        "recommended_action": "Proceed with replacement; confirm with client if any remediation is possible."
+      },
+      {
+        "type": "va",
+        "name": "Jericho",
+        "risk_level": "high",
+        "signal": "Recurring technical issues; client likely to terminate if unresolved.",
+        "recommended_action": "Ensure laptop is replaced and monitor closely for further incidents."
+      },
+      {
+        "type": "client",
+        "name": "Atlas",
+        "risk_level": "critical",
+        "signal": "Pattern of multiple replacements and direct terminations.",
+        "recommended_action": "Prioritize reliable VAs, streamline onboarding, and maintain close communication."
+      },
+      {
+        "type": "va",
+        "name": "Roma",
+        "risk_level": "medium",
+        "signal": "Client concerns about comprehension/focus, but strong reliability.",
+        "recommended_action": "Daily monitoring, mentoring, and clear feedback loop with client."
+      },
+      {
+        "type": "va",
+        "name": "Jep",
+        "risk_level": "medium",
+        "signal": "Client dissatisfaction with communication; needs process improvement.",
+        "recommended_action": "Upskill with AI email training and SOP mirroring."
+      }
+    ],
+    "kpis_mentioned": [
+      "Attendance",
+      "Number of replacements per client",
+      "Incidence of technical issues",
+      "Responsiveness to client feedback"
+    ],
+    "best_practices_shared": [
+      "Have a replacement candidate profiled before pitching to client.",
+      "Daily start and end-of-day check-ins for new/replacement VAs.",
+      "Mentoring by experienced team members to aid onboarding.",
+      "Mirroring high-performing VA SOPs for upskilling."
+    ],
+    "transcript_date": "2025-10-24",
+    "filename": "Outlier Discussion Transcripts 24 october 2025.txt",
+    "document_id": "ccd4b560386b9bf0",
+    "processed_at": "2026-01-05T23:04:03.090070"
+  },
+  {
+    "meeting_summary": "The team discussed upcoming holiday schedules, onboarding and data protection procedures, and focused on an outlier VA case involving Dianara's resignation and extension for client Jason. They reviewed internal communication processes, client feedback, and retention strategies, with particular attention to transparency and risk management.",
+    "participants": [
+      "Crissy Santarin",
+      "shey.geraldes@our-assistants.com",
+      "Isaac",
+      "louise.alatraca@our-assistants.com",
+      "Speaker 5"
+    ],
+    "vas_discussed": [
+      {
+        "name": "Dianara",
+        "client": "Jason",
+        "status": "orange",
+        "risk_signals": [
+          "VA004",
+          "VA003"
+        ],
+        "issues": "Dianara submitted her resignation effective end of November but was asked to extend until end of December due to client needs. Communication about her resignation timing was not immediately transparent to the client, creating potential trust issues.",
+        "actions_taken": "Team attempted to retain Dianara and delayed informing Jason until final confirmation. Dianara agreed to extend, and the team prepared for possible negative client reaction by planning honest communication if approached."
+      }
+    ],
+    "clients_discussed": [
+      {
+        "name": "Jason",
+        "risk_signals": [
+          "CL007",
+          "CL005"
+        ],
+        "health_status": "at_risk",
+        "issues": "Client may feel blindsided due to delayed notification of VA resignation. There is internal instability as the client struggles to find a replacement and relies on the VA for year-end accounting."
+      },
+      {
+        "name": "Atlas",
+        "risk_signals": [],
+        "health_status": "healthy",
+        "issues": "No specific issues mentioned; only referenced for feedback process follow-up."
+      }
+    ],
+    "key_insights": [
+      "Transparent communication with clients about VA status is critical to maintaining trust.",
+      "Retention attempts may delay client notification, but can create risk if not managed carefully.",
+      "Onboarding and data protection protocols are in place but may need formal acknowledgment/signatures."
+    ],
+    "action_items": [
+      "Consider requiring VAs to sign onboarding packets to formally acknowledge data protection and information sharing policies.",
+      "Potentially consolidate PTO, attendance, and onboarding guidelines into a single signable document.",
+      "Prepare honest messaging for Jason in case he expresses dissatisfaction about the resignation notification process.",
+      "Follow up with Louise about the recent Atlas meeting for feedback process review."
+    ],
+    "churn_risks_identified": [
+      {
+        "type": "va",
+        "name": "Dianara",
+        "risk_level": "high",
+        "signal": "Resignation submitted and only extended temporarily; risk of abrupt departure.",
+        "recommended_action": "Maintain proactive communication with client and ensure proper handover; continue retention efforts if possible."
+      },
+      {
+        "type": "client",
+        "name": "Jason",
+        "risk_level": "medium",
+        "signal": "Client may feel blindsided due to delayed notification and is experiencing internal instability.",
+        "recommended_action": "Be transparent with client about internal processes and reasons for delay; offer support in finding replacement VA."
+      }
+    ],
+    "kpis_mentioned": [
+      "Attendance policy compliance",
+      "Check-in frequency (day 1, within week, end of day)",
+      "Client feedback timing"
+    ],
+    "best_practices_shared": [
+      "Early and informal check-ins with VAs after onboarding to monitor adjustment and well-being.",
+      "Reminders to VAs not to share client-specific sensitive information in daily updates.",
+      "Providing video introductions for candidate 'vibe checks' to improve client selection process."
+    ],
+    "transcript_date": "2025-11-27",
+    "filename": "Outlier Discussion Transcripts 27 november 2025.txt",
+    "document_id": "fe10226dd1145cca",
+    "processed_at": "2026-01-05T23:04:08.502631"
+  },
+  {
+    "meeting_summary": "The team discussed preparations for the year-end party, including customized OA-branded merchandise for VAs. The main focus shifted to outlier VA churn risks, especially around communication and responsiveness, and the need to formalize root cause analysis and data tracking for offboarding events. Action items included developing a standardized reporting and tracking system for VA performance and exit reasons.",
+    "participants": [
+      "Louise Alatraca",
+      "Crissy Santarin",
+      "KC Argente",
+      "Shey Geraldes",
+      "Isaac"
+    ],
+    "vas_discussed": [
+      {
+        "name": "TJ",
+        "client": null,
+        "status": "orange",
+        "risk_signals": [
+          "VA001",
+          "VA007"
+        ],
+        "issues": "Not responsive to messages, lack of engagement during informal check-ins.",
+        "actions_taken": "Marked as orange; plans to address communication and seek ways to improve engagement."
+      },
+      {
+        "name": "Michelle",
+        "client": null,
+        "status": "orange",
+        "risk_signals": [
+          "VA001",
+          "VA007"
+        ],
+        "issues": "Limited response to communication, similar pattern to other recently offboarded VAs.",
+        "actions_taken": "Marked as orange; monitoring and considering targeted engagement."
+      },
+      {
+        "name": "Lea",
+        "client": null,
+        "status": "red",
+        "risk_signals": [
+          "VA001",
+          "VA012"
+        ],
+        "issues": "Scheduled for offboarding due to non-responsiveness and lack of coaching progress.",
+        "actions_taken": "Offboarding planned for later today."
+      },
+      {
+        "name": "Shane",
+        "client": null,
+        "status": "red",
+        "risk_signals": [
+          "VA001",
+          "VA012"
+        ],
+        "issues": "Recently offboarded; non-responsive and did not engage in coaching.",
+        "actions_taken": "Offboarded."
+      },
+      {
+        "name": "Charlene",
+        "client": null,
+        "status": "red",
+        "risk_signals": [
+          "VA001",
+          "VA012"
+        ],
+        "issues": "Recently offboarded; lack of communication and engagement.",
+        "actions_taken": "Offboarded."
+      }
+    ],
+    "clients_discussed": [
+      {
+        "name": "Atlas",
+        "risk_signals": [
+          "CL006"
+        ],
+        "health_status": "at_risk",
+        "issues": "Client straightforwardly communicated role elimination; surprise offboarding.",
+        "actions_taken": "Root cause investigation recommended; exit interview suggested."
+      }
+    ],
+    "key_insights": [
+      "Non-responsiveness and lack of engagement are early signals of VA churn risk.",
+      "Surprise offboarding by clients can occur even when VAs are perceived as performing well.",
+      "A formalized, data-driven approach to tracking VA performance and exit reasons is needed for continuous improvement."
+    ],
+    "action_items": [
+      "Develop a standardized root cause analysis report for VA offboarding events.",
+      "Create a spreadsheet or agent file to track VA attendance, coaching sessions, and performance signals.",
+      "Implement exit interviews for both VAs and clients to compare perspectives and identify gaps.",
+      "Organize VA data in folders for easier tracking and reporting."
+    ],
+    "churn_risks_identified": [
+      {
+        "type": "va",
+        "name": "TJ",
+        "risk_level": "medium",
+        "signal": "Non-responsiveness to communication and check-ins.",
+        "recommended_action": "Increase engagement efforts; monitor closely for further risk signals."
+      },
+      {
+        "type": "va",
+        "name": "Michelle",
+        "risk_level": "medium",
+        "signal": "Limited response and engagement.",
+        "recommended_action": "Targeted communication and relationship building."
+      },
+      {
+        "type": "va",
+        "name": "Lea",
+        "risk_level": "high",
+        "signal": "Scheduled offboarding due to persistent non-responsiveness.",
+        "recommended_action": "Complete offboarding; document root cause."
+      },
+      {
+        "type": "va",
+        "name": "Shane",
+        "risk_level": "high",
+        "signal": "Recently offboarded for non-responsiveness.",
+        "recommended_action": "Document lessons learned; include in churn analysis."
+      },
+      {
+        "type": "va",
+        "name": "Charlene",
+        "risk_level": "high",
+        "signal": "Recently offboarded for lack of communication.",
+        "recommended_action": "Include in churn analysis; review engagement strategies."
+      },
+      {
+        "type": "client",
+        "name": "Atlas",
+        "risk_level": "high",
+        "signal": "Surprise role elimination and offboarding.",
+        "recommended_action": "Conduct exit interview; compare VA and client perspectives."
+      }
+    ],
+    "kpis_mentioned": [
+      "VA responsiveness to daily check-ins",
+      "Attendance tracking",
+      "Number of coaching sessions per VA",
+      "Client check-in dates"
+    ],
+    "best_practices_shared": [
+      "Marking VAs with orange flags for non-responsiveness to enable early intervention.",
+      "Conducting exit interviews with both VAs and clients for root cause analysis.",
+      "Maintaining a spreadsheet or agent file for each VA to track performance and issues."
+    ],
+    "transcript_date": "2025-10-31",
+    "filename": "Outlier Discussion Transcripts 31 october 2025.txt",
+    "document_id": "f95723b085ddcbf6",
+    "processed_at": "2026-01-05T23:04:17.233405"
+  }
+]

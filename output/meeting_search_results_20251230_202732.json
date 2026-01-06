@@ -1,0 +1,1887 @@
+{
+  "search_date": "2025-12-30T20:26:05.720384",
+  "date_range": "Last 60 days",
+  "transcripts": [],
+  "calendar_events": [
+    {
+      "subject": "Integration Team Check-in || Shane & Charlene",
+      "start": "2025-10-31T08:00:00.0000000",
+      "end": "2025-10-31T08:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmRlMGYxYzAtNzhkYy00ZGI5LWIwNWItYTQ0OTIwYjNmOGVj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Merlinda",
+      "start": "2025-10-31T13:00:00.0000000",
+      "end": "2025-10-31T13:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODI2N2MzM2QtYWY5Ni00NTM0LTg4ZDAtNWQzOTc4OTY5NmUw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Roma x KC",
+      "start": "2025-10-31T13:30:00.0000000",
+      "end": "2025-10-31T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUyN2VjYTEtYWI0My00MjIyLWExYzQtODYzMzIwYjg1MTc4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2256a10195-dce6-433e-aa62-16c78e9d7d4f%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-10-31T15:45:00.0000000",
+      "end": "2025-10-31T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTAyMGM3ZTktYzRjZC00OTM3LWJkMTItYzFjZmE5M2I2MDVh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ana",
+      "start": "2025-10-31T20:30:00.0000000",
+      "end": "2025-10-31T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDVjNzQwNzctOGY0MC00ODYzLWJkZTUtNmZiOTdhY2JmNzIx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Hilario",
+      "start": "2025-11-03T13:45:00.0000000",
+      "end": "2025-11-03T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJhMmYxMDYtNTYzNy00ZDIxLWI0YWUtMmJlYzZjODExMzcx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Cookie",
+      "start": "2025-11-04T14:15:00.0000000",
+      "end": "2025-11-04T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhOTZjZmUtN2E1Yy00MTA4LTliZTktYThkZmI3NGVlMWE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Catherine",
+      "start": "2025-11-04T14:45:00.0000000",
+      "end": "2025-11-04T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmM5MjVhZDEtMWY3NS00YTU5LTk1ZWQtMjA1MjE1ZGRjMGMx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Arjay",
+      "start": "2025-11-04T18:30:00.0000000",
+      "end": "2025-11-04T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjA0NjRjNzUtNWIxOC00ZjRlLTg3ZGMtOTIxZGM5MTdkMmYy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Chris",
+      "start": "2025-11-04T19:30:00.0000000",
+      "end": "2025-11-04T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQxODIxNGQtMWM0OC00ZjEyLWI5OGQtMjEwYjJkY2FlZDBi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Divine",
+      "start": "2025-11-05T13:45:00.0000000",
+      "end": "2025-11-05T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDE2NjAwMWYtMWI0Ny00ZDg4LWEyZGEtMTJlNTRlZDU3YWFi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Stephanie",
+      "start": "2025-11-05T14:15:00.0000000",
+      "end": "2025-11-05T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzllZjJmNzUtYzBjNy00MmQ1LWFlMGEtYTEyNmExNDE1NzUz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jep",
+      "start": "2025-11-05T15:30:00.0000000",
+      "end": "2025-11-05T15:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JlZjA0MjEtYjRlNy00OTA5LTgyMzItN2Q4Yzk3NDBkMzNi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dianna",
+      "start": "2025-11-05T18:00:00.0000000",
+      "end": "2025-11-05T18:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ZmEzMTAtYjgyOC00MmIxLTg4NTMtZjJlMmFiYTA1ODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Check in with Cesar x PEM",
+      "start": "2025-11-05T19:00:00.0000000",
+      "end": "2025-11-05T19:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZlMzYxNjAtMjMzZi00OGQwLWJmOGMtNGM4ZWRlYWJiZTQ5%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Laurice",
+      "start": "2025-11-06T13:30:00.0000000",
+      "end": "2025-11-06T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTFiMzg4NmMtOWYwMS00NmEyLWIzMjctYjhkMzQ1ZTZjODZh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ann",
+      "start": "2025-11-06T15:45:00.0000000",
+      "end": "2025-11-06T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY3MDkxYWMtZTA2ZS00ODk3LWI4MDItMmEyNjljY2VlYTk2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-11-06T16:45:00.0000000",
+      "end": "2025-11-06T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTAyMGM3ZTktYzRjZC00OTM3LWJkMTItYzFjZmE5M2I2MDVh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Eli",
+      "start": "2025-11-07T13:25:00.0000000",
+      "end": "2025-11-07T13:40:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZiMThiMTgtYjQ5MC00MDc3LWI2ZGUtMTRiZjI4OTYwOTBj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Michelle",
+      "start": "2025-11-07T13:30:00.0000000",
+      "end": "2025-11-07T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTRkOWVhNzEtNjU1MS00ODI0LWFlMGItZTU0YzJmNDE1YTA4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Michelle",
+      "start": "2025-11-07T13:45:00.0000000",
+      "end": "2025-11-07T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTRkOWVhNzEtNjU1MS00ODI0LWFlMGItZTU0YzJmNDE1YTA4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Roma",
+      "start": "2025-11-07T14:45:00.0000000",
+      "end": "2025-11-07T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDVlNWIyNzktYTJiMy00NTE1LTkxMTgtMjQ5NTIxZTgzYjJm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Mon",
+      "start": "2025-11-07T17:30:00.0000000",
+      "end": "2025-11-07T18:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNhMmQ0NTctMTAyZi00YWExLTgzMGUtODFlY2Y0MWYwZDIw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Sancha",
+      "start": "2025-11-07T18:15:00.0000000",
+      "end": "2025-11-07T18:30:00.0000000",
+      "isOnlineMeeting": false,
+      "joinUrl": ""
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Abby",
+      "start": "2025-11-10T15:45:00.0000000",
+      "end": "2025-11-10T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmQ3OGJmYWUtYTQ0NS00NTQ4LWEwYjItZDkxMGZmZTM0MThi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Karen",
+      "start": "2025-11-11T13:45:00.0000000",
+      "end": "2025-11-11T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjU2ZWZmN2EtODNiYS00YTViLTgyMzUtZDczYWM3YjJhZmJk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Rochelle",
+      "start": "2025-11-11T14:45:00.0000000",
+      "end": "2025-11-11T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MwZWM3ZjktN2ZiYy00MjdhLTllYmMtOGYyNDlkNGQ0ZWZm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jep",
+      "start": "2025-11-11T15:30:00.0000000",
+      "end": "2025-11-11T15:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JlZjA0MjEtYjRlNy00OTA5LTgyMzItN2Q4Yzk3NDBkMzNi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Merlinda",
+      "start": "2025-11-12T13:00:00.0000000",
+      "end": "2025-11-12T13:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTVmNDQ4MGQtYzk4NC00NGUxLTgxOWUtNWY0MWFhOTQ0ZmQ5%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Hannah",
+      "start": "2025-11-12T15:30:00.0000000",
+      "end": "2025-11-12T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVlZjFiYjItYmFmOS00YTI2LTg3MmQtZTBhNjgxZGZmN2Qz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Mitchie",
+      "start": "2025-11-12T16:00:00.0000000",
+      "end": "2025-11-12T16:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmY3MDdmMjYtZmRhZi00ZTVkLTg3Y2YtOTI1ZWExMDNhNTI0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Kathleen",
+      "start": "2025-11-12T18:00:00.0000000",
+      "end": "2025-11-12T18:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQ4ODJiMDQtZDNjOC00YzkwLWI2NWItMTFhYTFlNzkyNjU4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Zyra",
+      "start": "2025-11-12T18:30:00.0000000",
+      "end": "2025-11-12T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTkwZTQxMDktNzlhNi00NWMxLThkZTgtMDc4Zjk0NTZhZWQ2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Myla",
+      "start": "2025-11-12T20:00:00.0000000",
+      "end": "2025-11-12T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzYzZWZkNDUtNzM3YS00MDcyLWFmNTUtZTA3YWQ5NzM4NWVj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Alaiza",
+      "start": "2025-11-12T22:00:00.0000000",
+      "end": "2025-11-12T22:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE5Njg2ZjUtYzgwZi00Y2VmLThjNmEtNGViNDE4OTU0MGMw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Canceled: PTO- Shey ",
+      "start": "2025-11-11T00:00:00.0000000",
+      "end": "2025-11-13T00:00:00.0000000",
+      "isOnlineMeeting": false,
+      "joinUrl": ""
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Gerlie",
+      "start": "2025-11-13T15:00:00.0000000",
+      "end": "2025-11-13T15:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTY1NGE2ZTAtYWMzMS00ZWIxLWJmMjItODMxZWExZTU1OWZj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Janet",
+      "start": "2025-11-13T15:30:00.0000000",
+      "end": "2025-11-13T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTEyODQxMmYtZDQ3Ni00NTNhLWFhNDUtZDkyMzc3YjBhNTAy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Cyril",
+      "start": "2025-11-13T22:00:00.0000000",
+      "end": "2025-11-13T22:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2JiZTdhZTUtMjBlMi00YmJhLWI4YzItMDQ1YWMyN2EyYWNj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Herbert",
+      "start": "2025-11-14T15:15:00.0000000",
+      "end": "2025-11-14T15:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzhjNGI5MTctZTE1ZS00YTNhLWExZjEtM2JkZTMwNWJmNzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Sergs",
+      "start": "2025-11-14T15:45:00.0000000",
+      "end": "2025-11-14T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmM2MTU0ZGYtYTRiNS00ZmRhLThlMzUtMDViMDFjN2UzOGE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Hilario",
+      "start": "2025-11-17T13:45:00.0000000",
+      "end": "2025-11-17T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJhMmYxMDYtNTYzNy00ZDIxLWI0YWUtMmJlYzZjODExMzcx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ivana",
+      "start": "2025-11-17T14:15:00.0000000",
+      "end": "2025-11-17T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzA2ZTExZTMtNGJkMy00N2M2LWFiMWUtZmUxNDYzN2M2NjEy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-11-17T15:45:00.0000000",
+      "end": "2025-11-17T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTAyMGM3ZTktYzRjZC00OTM3LWJkMTItYzFjZmE5M2I2MDVh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Zeska",
+      "start": "2025-11-17T15:45:00.0000000",
+      "end": "2025-11-17T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2FmYTk3YTQtYzRkMi00MjRmLWI1Y2QtMGZlNDdlZTAwZGIy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Stephanie E",
+      "start": "2025-11-17T16:00:00.0000000",
+      "end": "2025-11-17T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGYwODc0Y2UtNTg1Zi00ZmMyLWE1YWQtMjU1NzI1MmE1Nzgw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Joel",
+      "start": "2025-11-17T18:00:00.0000000",
+      "end": "2025-11-17T18:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAwYTE3MGItYjFlOC00MjZlLThkZmQtMjZlMGYyZTNiY2M3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x JL",
+      "start": "2025-11-18T13:45:00.0000000",
+      "end": "2025-11-18T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmU4M2NiY2YtOTk4Yy00ODJlLTg2NTctNjQ3Y2IwMGRkZWNi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Zandra",
+      "start": "2025-11-18T14:45:00.0000000",
+      "end": "2025-11-18T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDViYWNhNTgtMDAzYi00NDU4LWIxMTctMTZlMmI4ZDE3YzZl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Irene",
+      "start": "2025-11-18T15:45:00.0000000",
+      "end": "2025-11-18T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTUyOTA3MGItOTMxOS00YjEzLWI0MzAtMWZiMDlmZTI5ZDMy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Louise",
+      "start": "2025-11-18T20:00:00.0000000",
+      "end": "2025-11-18T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDkwZTFhOGUtMjMwNy00YjJhLTlkNjgtOWIxODc1ZDU1ZWU4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Ara",
+      "start": "2025-11-18T21:00:00.0000000",
+      "end": "2025-11-18T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmJmZDYxMmYtZWE0Ni00Nzk4LWJmMDktN2YzNmYzMjIzZWJh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Crystal",
+      "start": "2025-11-18T22:30:00.0000000",
+      "end": "2025-11-18T23:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWVmM2I5ZTItNmExYi00OTZhLTk1MTQtNWU3ODc2NTIzYzc3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ria",
+      "start": "2025-11-19T13:45:00.0000000",
+      "end": "2025-11-19T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBiZDY4MDUtY2U5MS00ZDViLWFkODktODYxYTljNjE4Y2Jj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ivy",
+      "start": "2025-11-19T15:45:00.0000000",
+      "end": "2025-11-19T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjFmZTJiNWYtNTg3YS00NWY1LTgyNjctY2E5M2Q4N2IyNTI3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Kathleen",
+      "start": "2025-11-19T18:30:00.0000000",
+      "end": "2025-11-19T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODBmNWQyMWItOWVkNy00MTc0LTlkYmUtY2RjMDJjZWNkNTEw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Katie G",
+      "start": "2025-11-19T19:00:00.0000000",
+      "end": "2025-11-19T19:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2Q5MjFiZWUtMmU2NC00YWJhLThmOWYtZjFmOGQxY2EzNDg0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Hazel Joy",
+      "start": "2025-11-19T19:30:00.0000000",
+      "end": "2025-11-19T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I1OTAwMzktZjlhZC00NDdlLWJkOTItZDAzMTA3YTYzYzcw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Laura",
+      "start": "2025-11-19T21:00:00.0000000",
+      "end": "2025-11-19T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUzOWE3MzgtYjEwNC00MDcyLTlkMzgtYmUxM2I5MWZmMjQy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Carla",
+      "start": "2025-11-20T13:15:00.0000000",
+      "end": "2025-11-20T13:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU1MTNhODktNjdmMi00ZDM3LWI0NjEtZTVmYTA2Yjg3OWM2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ken Mark",
+      "start": "2025-11-20T15:15:00.0000000",
+      "end": "2025-11-20T15:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjM1NTlmMjMtNWM3OS00MmFjLWJhNGYtZjgxZDM5MTExZDhi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Karla",
+      "start": "2025-11-20T15:45:00.0000000",
+      "end": "2025-11-20T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Y3ODdiOGEtYmU0ZS00YTM2LTlhYzItYWYzYjE5MTUzOGZj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0yam",
+      "start": "2025-11-20T16:00:00.0000000",
+      "end": "2025-11-20T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU3ZDM1M2ItMTY2Zi00NDdlLWJkNDgtOTY4MTI2MTIzYjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Julienne",
+      "start": "2025-11-20T17:00:00.0000000",
+      "end": "2025-11-20T17:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDlmN2RlZGYtYjc0ZC00NWRiLWI4ODAtYWM3NTJkOGQwOTg1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Alaiza",
+      "start": "2025-11-20T23:30:00.0000000",
+      "end": "2025-11-21T00:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE5Njg2ZjUtYzgwZi00Y2VmLThjNmEtNGViNDE4OTU0MGMw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Rhen",
+      "start": "2025-11-21T13:30:00.0000000",
+      "end": "2025-11-21T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODE5YWU1ZTAtYjdhNS00MDg1LWE4MjctODgyMTg4MTFiZTVk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Joelyn",
+      "start": "2025-11-24T13:00:00.0000000",
+      "end": "2025-11-24T13:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGI2MGQ0NzctNWNlOC00OTI4LThhNWEtYTA1YzBiZjUxNGFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Joelyn",
+      "start": "2025-11-24T13:15:00.0000000",
+      "end": "2025-11-24T13:30:00.0000000",
+      "isOnlineMeeting": false,
+      "joinUrl": ""
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Macey",
+      "start": "2025-11-24T13:30:00.0000000",
+      "end": "2025-11-24T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY2YjU4MmUtNWJiYi00YzMyLTgzZWQtZjgyZDY0MWQzOTEy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Angela",
+      "start": "2025-11-24T13:45:00.0000000",
+      "end": "2025-11-24T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2VkYTNlYjctNGZiNi00OGQwLWFjODgtODg0YzI1N2Y2OGFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-11-24T15:45:00.0000000",
+      "end": "2025-11-24T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTAyMGM3ZTktYzRjZC00OTM3LWJkMTItYzFjZmE5M2I2MDVh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Gen",
+      "start": "2025-11-24T15:45:00.0000000",
+      "end": "2025-11-24T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTZhYTEzNmMtYWJhNS00MmIzLWFhMmItYTBiNmM1ZTViNWRi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Shan",
+      "start": "2025-11-24T20:00:00.0000000",
+      "end": "2025-11-24T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUzYjM1NmMtNmQ5YS00YTI3LWE1NzgtM2MxNGMxYWY3NDM1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Aiza",
+      "start": "2025-11-24T21:00:00.0000000",
+      "end": "2025-11-24T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmRiODA2MWYtMmUyNi00MDZiLTljMWYtZDRhMmZlOGJlZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Trisha",
+      "start": "2025-11-25T13:15:00.0000000",
+      "end": "2025-11-25T13:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjNlMGM0MjQtM2VmZC00ZmUyLTliZWYtMWQ4MDhhNDY3NzA0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Roma",
+      "start": "2025-11-25T14:45:00.0000000",
+      "end": "2025-11-25T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDVlNWIyNzktYTJiMy00NTE1LTkxMTgtMjQ5NTIxZTgzYjJm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Kristelle",
+      "start": "2025-11-25T16:00:00.0000000",
+      "end": "2025-11-25T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDJhNmEyOTItMDMzNi00YmY1LWI4OWEtZGU5MGM0ZDAzMWMw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Mary",
+      "start": "2025-11-25T18:00:00.0000000",
+      "end": "2025-11-25T18:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUxYjUyZWMtMDdiZi00MDYyLTkyNTQtMmU2YmUwMmI3MDU5%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Raniliza",
+      "start": "2025-11-25T18:30:00.0000000",
+      "end": "2025-11-25T18:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzllMmE0MDAtZGFhYS00ZjllLWE2NDMtYzdkOTQyM2Y4ZjRj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dhoroty",
+      "start": "2025-11-25T18:45:00.0000000",
+      "end": "2025-11-25T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM4NjRmYmQtOTBkOC00YTUwLWE3NTItODEyMDg5NmI2NjY3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jamaica",
+      "start": "2025-11-26T13:15:00.0000000",
+      "end": "2025-11-26T13:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJiYjczZWEtOTE5Ni00OTM5LWI1ODAtN2Y2NjA1ZTAyOGZj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jaz",
+      "start": "2025-11-26T13:30:00.0000000",
+      "end": "2025-11-26T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTdlNTUwYmItYTJiNy00ZWNkLTk3OGQtZDZhOTk0OWFjZmFm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ross",
+      "start": "2025-11-26T14:15:00.0000000",
+      "end": "2025-11-26T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjUwZWRjZTktMGQ4ZC00OGM1LWE4NjEtNGRjZjVlMGNkYjhm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ara",
+      "start": "2025-11-26T21:00:00.0000000",
+      "end": "2025-11-26T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTUzMTFhZjItZTRkNC00YTVlLThkZjQtNWY1NmM1MjYxMmZi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Cherie",
+      "start": "2025-11-27T13:45:00.0000000",
+      "end": "2025-11-27T14:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2M3MWQ4OTQtOWEzNy00MDk3LTlkYjctODY1OWQ2MmRmZTRk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Michelle",
+      "start": "2025-11-27T14:45:00.0000000",
+      "end": "2025-11-27T15:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDY1MGYwNmYtMzhhZS00NWFmLWEzZDgtYjczMzA3NzZmOWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Paul",
+      "start": "2025-11-27T19:30:00.0000000",
+      "end": "2025-11-27T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYyMThiODctNDcwMi00ZDljLWFjNzAtMTNkODNkYTQ0YTEy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Editha",
+      "start": "2025-11-27T20:00:00.0000000",
+      "end": "2025-11-27T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzVhMWVlOWUtZjQ4ZC00YTE4LTk1ODQtMjFjZDZiNjE5ZmNm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Laura",
+      "start": "2025-11-27T21:00:00.0000000",
+      "end": "2025-11-27T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUzOWE3MzgtYjEwNC00MDcyLTlkMzgtYmUxM2I5MWZmMjQy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Verah",
+      "start": "2025-12-01T13:45:00.0000000",
+      "end": "2025-12-01T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmVmODllMzctNmFlYi00YzgzLThjNzktOTY0YWFhM2IwZTUy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Abby",
+      "start": "2025-12-01T15:45:00.0000000",
+      "end": "2025-12-01T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmQ3OGJmYWUtYTQ0NS00NTQ4LWEwYjItZDkxMGZmZTM0MThi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0yam",
+      "start": "2025-12-01T16:00:00.0000000",
+      "end": "2025-12-01T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU3ZDM1M2ItMTY2Zi00NDdlLWJkNDgtOTY4MTI2MTIzYjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x TJ",
+      "start": "2025-12-01T19:00:00.0000000",
+      "end": "2025-12-01T19:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWQyNWE4ZDUtOTM2OC00ODQzLWE5ZWQtZTkwMDFkODk1YWUx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ria",
+      "start": "2025-12-02T13:45:00.0000000",
+      "end": "2025-12-02T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBiZDY4MDUtY2U5MS00ZDViLWFkODktODYxYTljNjE4Y2Jj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Cookie",
+      "start": "2025-12-02T14:15:00.0000000",
+      "end": "2025-12-02T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhOTZjZmUtN2E1Yy00MTA4LTliZTktYThkZmI3NGVlMWE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Rea",
+      "start": "2025-12-02T16:30:00.0000000",
+      "end": "2025-12-02T16:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODI4MTk4ZjAtNDY1Zi00NzBlLWJjZjAtMTMwNGQ5Y2E4ZTEw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dianna",
+      "start": "2025-12-02T17:30:00.0000000",
+      "end": "2025-12-02T17:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ZmEzMTAtYjgyOC00MmIxLTg4NTMtZjJlMmFiYTA1ODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dhoroty",
+      "start": "2025-12-02T18:00:00.0000000",
+      "end": "2025-12-02T18:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM4NjRmYmQtOTBkOC00YTUwLWE3NTItODEyMDg5NmI2NjY3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Arjay",
+      "start": "2025-12-02T18:30:00.0000000",
+      "end": "2025-12-02T18:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTk2ZDk4NWYtOWEyZC00MjdlLWFkYWEtNmYyOTUzN2ZlYjAw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Jocelyn",
+      "start": "2025-12-02T20:00:00.0000000",
+      "end": "2025-12-02T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ4MGViYjktZTAzMC00NWU3LWE4NTYtNzc1MDg5Zjk0Yzhm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Mae",
+      "start": "2025-12-02T21:30:00.0000000",
+      "end": "2025-12-02T22:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGM4Y2UwNzktZGI4Ni00NjdmLTk3MGUtN2QwZDZhMmU2Zjdm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Sol",
+      "start": "2025-12-03T08:00:00.0000000",
+      "end": "2025-12-03T08:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdjNzFmYWUtMjc0NS00Mjg5LWIwMmEtOGVjMTI4ZWIyMTAy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Laurice",
+      "start": "2025-12-03T13:30:00.0000000",
+      "end": "2025-12-03T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTFiMzg4NmMtOWYwMS00NmEyLWIzMjctYjhkMzQ1ZTZjODZh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Michelle",
+      "start": "2025-12-03T14:45:00.0000000",
+      "end": "2025-12-03T15:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDY1MGYwNmYtMzhhZS00NWFmLWEzZDgtYjczMzA3NzZmOWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Zyra",
+      "start": "2025-12-03T19:00:00.0000000",
+      "end": "2025-12-03T19:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGFlMzIwYTAtNjY1MC00ZWIwLTk3ZDQtOTVjZDI4MDUyODYw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Jeanvic",
+      "start": "2025-12-03T21:00:00.0000000",
+      "end": "2025-12-03T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDFhNWVhMWMtZjcyOC00ZmUwLWJhMzQtOWYyZjA4YzQwMjVh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Joanne",
+      "start": "2025-12-03T22:30:00.0000000",
+      "end": "2025-12-03T23:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM3ZjY4MGEtZjE5My00ODBhLWI5MjgtYmUwOGQzMmNjZjc1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ching",
+      "start": "2025-12-04T12:45:00.0000000",
+      "end": "2025-12-04T13:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQwNzJlMmEtMWU5YS00ZjFkLTk2NGQtYTNiYTJmYTA3OGY4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Eli",
+      "start": "2025-12-04T13:30:00.0000000",
+      "end": "2025-12-04T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZiMThiMTgtYjQ5MC00MDc3LWI2ZGUtMTRiZjI4OTYwOTBj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Michelle",
+      "start": "2025-12-04T13:45:00.0000000",
+      "end": "2025-12-04T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTRkOWVhNzEtNjU1MS00ODI0LWFlMGItZTU0YzJmNDE1YTA4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Michelle",
+      "start": "2025-12-04T13:45:00.0000000",
+      "end": "2025-12-04T14:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDY1MGYwNmYtMzhhZS00NWFmLWEzZDgtYjczMzA3NzZmOWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Stephanie",
+      "start": "2025-12-04T14:15:00.0000000",
+      "end": "2025-12-04T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzllZjJmNzUtYzBjNy00MmQ1LWFlMGEtYTEyNmExNDE1NzUz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ann",
+      "start": "2025-12-04T15:45:00.0000000",
+      "end": "2025-12-04T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY3MDkxYWMtZTA2ZS00ODk3LWI4MDItMmEyNjljY2VlYTk2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Irvy",
+      "start": "2025-12-04T22:00:00.0000000",
+      "end": "2025-12-04T22:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWQ2MjNhZWQtYzIyMC00Y2VlLWFlODUtOWE1NjZmZDU5N2Zl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Veronica",
+      "start": "2025-12-04T23:00:00.0000000",
+      "end": "2025-12-04T23:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWQzNjJmMzctYTk5Zi00Y2E3LWIwOTAtYTkzZWRkZjkzYTI1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Carla",
+      "start": "2025-12-05T13:30:00.0000000",
+      "end": "2025-12-05T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU1MTNhODktNjdmMi00ZDM3LWI0NjEtZTVmYTA2Yjg3OWM2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Divine",
+      "start": "2025-12-05T13:45:00.0000000",
+      "end": "2025-12-05T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDE2NjAwMWYtMWI0Ny00ZDg4LWEyZGEtMTJlNTRlZDU3YWFi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jep",
+      "start": "2025-12-05T15:45:00.0000000",
+      "end": "2025-12-05T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JlZjA0MjEtYjRlNy00OTA5LTgyMzItN2Q4Yzk3NDBkMzNi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Cynthia",
+      "start": "2025-12-05T15:45:00.0000000",
+      "end": "2025-12-05T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjlmYzY5ZDAtYmJiZi00ZDI5LWE4ZDQtNTk0YzIzNGI1MzA3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Aiza",
+      "start": "2025-12-06T01:00:00.0000000",
+      "end": "2025-12-06T01:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmRiODA2MWYtMmUyNi00MDZiLTljMWYtZDRhMmZlOGJlZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Gen",
+      "start": "2025-12-08T15:30:00.0000000",
+      "end": "2025-12-08T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGI2ZjM4ZDQtMGEyNi00YTM1LWFmNDgtODhiMWI1ZTI3Njgz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jane",
+      "start": "2025-12-09T13:45:00.0000000",
+      "end": "2025-12-09T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzRiYzJhOTEtZTM2ZS00ZWI0LWE5MTktNmFlYjlhODdiNjZh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Natassha",
+      "start": "2025-12-09T14:15:00.0000000",
+      "end": "2025-12-09T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWMxZDk3MWYtZjYyYy00YjhjLTkwNGEtZmViNWJjNjIxNTNm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dhoroty",
+      "start": "2025-12-09T18:45:00.0000000",
+      "end": "2025-12-09T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM4NjRmYmQtOTBkOC00YTUwLWE3NTItODEyMDg5NmI2NjY3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Karen",
+      "start": "2025-12-10T13:45:00.0000000",
+      "end": "2025-12-10T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjU2ZWZmN2EtODNiYS00YTViLTgyMzUtZDczYWM3YjJhZmJk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Rochelle",
+      "start": "2025-12-10T14:45:00.0000000",
+      "end": "2025-12-10T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MwZWM3ZjktN2ZiYy00MjdhLTllYmMtOGYyNDlkNGQ0ZWZm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Zeus",
+      "start": "2025-12-10T15:15:00.0000000",
+      "end": "2025-12-10T15:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjYWUwMmYtOWEwZi00ZTk5LWJiNjEtYTcyOWJlNWMxNTE2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Abby",
+      "start": "2025-12-10T15:45:00.0000000",
+      "end": "2025-12-10T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmQ3OGJmYWUtYTQ0NS00NTQ4LWEwYjItZDkxMGZmZTM0MThi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Yam",
+      "start": "2025-12-10T16:00:00.0000000",
+      "end": "2025-12-10T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU3ZDM1M2ItMTY2Zi00NDdlLWJkNDgtOTY4MTI2MTIzYjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dianna",
+      "start": "2025-12-10T17:30:00.0000000",
+      "end": "2025-12-10T17:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ZmEzMTAtYjgyOC00MmIxLTg4NTMtZjJlMmFiYTA1ODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Rhen",
+      "start": "2025-12-11T13:30:00.0000000",
+      "end": "2025-12-11T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODE5YWU1ZTAtYjdhNS00MDg1LWE4MjctODgyMTg4MTFiZTVk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Sancha",
+      "start": "2025-12-11T13:45:00.0000000",
+      "end": "2025-12-11T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzkzM2M1OGQtMzRkYi00ZjcxLTg0YjUtNTYzOWFjODliMmVh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ivana",
+      "start": "2025-12-11T14:15:00.0000000",
+      "end": "2025-12-11T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzA2ZTExZTMtNGJkMy00N2M2LWFiMWUtZmUxNDYzN2M2NjEy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Zandra",
+      "start": "2025-12-11T14:45:00.0000000",
+      "end": "2025-12-11T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDViYWNhNTgtMDAzYi00NDU4LWIxMTctMTZlMmI4ZDE3YzZl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Catherine",
+      "start": "2025-12-11T15:45:00.0000000",
+      "end": "2025-12-11T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmM5MjVhZDEtMWY3NS00YTU5LTk1ZWQtMjA1MjE1ZGRjMGMx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Carla",
+      "start": "2025-12-12T13:30:00.0000000",
+      "end": "2025-12-12T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU1MTNhODktNjdmMi00ZDM3LWI0NjEtZTVmYTA2Yjg3OWM2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x JL",
+      "start": "2025-12-12T13:45:00.0000000",
+      "end": "2025-12-12T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmU4M2NiY2YtOTk4Yy00ODJlLTg2NTctNjQ3Y2IwMGRkZWNi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Cynthia",
+      "start": "2025-12-13T15:45:00.0000000",
+      "end": "2025-12-13T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjlmYzY5ZDAtYmJiZi00ZDI5LWE4ZDQtNTk0YzIzNGI1MzA3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Stephanie E",
+      "start": "2025-12-15T16:00:00.0000000",
+      "end": "2025-12-15T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGYwODc0Y2UtNTg1Zi00ZmMyLWE1YWQtMjU1NzI1MmE1Nzgw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Marie",
+      "start": "2025-12-15T16:45:00.0000000",
+      "end": "2025-12-15T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTdkMzFiYTQtMGUyYi00MGY2LTk1NTEtMDA5MGNmZWEzOTdk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Rea",
+      "start": "2025-12-16T13:45:00.0000000",
+      "end": "2025-12-16T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGU1ZDE1OGEtMTQ4ZC00Mjg2LTgxOTUtNmMzOWIyZGZhMTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Wendy",
+      "start": "2025-12-16T15:30:00.0000000",
+      "end": "2025-12-16T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTM0ZGZmODQtNWNkNy00MjBkLThmMWQtYjY1NjFmYTMxNTE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Oscar",
+      "start": "2025-12-16T18:00:00.0000000",
+      "end": "2025-12-16T18:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRkNWNiY2UtZTc2Ni00ZDdkLWEyNzAtYzc0NzRhMTQwYTVm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dhoroty",
+      "start": "2025-12-16T18:45:00.0000000",
+      "end": "2025-12-16T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGM4NjRmYmQtOTBkOC00YTUwLWE3NTItODEyMDg5NmI2NjY3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Chris",
+      "start": "2025-12-16T18:50:00.0000000",
+      "end": "2025-12-16T19:20:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQxODIxNGQtMWM0OC00ZjEyLWI5OGQtMjEwYjJkY2FlZDBi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Sheila",
+      "start": "2025-12-16T20:00:00.0000000",
+      "end": "2025-12-16T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmJhMzhlNzItYzM1OS00NjQ2LTljNzYtY2RjZjUyZjEyYzYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Martin",
+      "start": "2025-12-16T21:00:00.0000000",
+      "end": "2025-12-16T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGUwODg3NzMtZDU3OC00NmU4LTg4OTUtY2YzYjQyZmE2Yzk1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Hilario",
+      "start": "2025-12-17T13:45:00.0000000",
+      "end": "2025-12-17T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJhMmYxMDYtNTYzNy00ZDIxLWI0YWUtMmJlYzZjODExMzcx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dayanara",
+      "start": "2025-12-17T14:15:00.0000000",
+      "end": "2025-12-17T14:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRjMzA2MzYtY2NmNC00NzdhLWI2NGQtMzNhZTdlYWQwMTk1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Alaiza",
+      "start": "2025-12-17T14:15:00.0000000",
+      "end": "2025-12-17T14:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODM3OGEyMTctNjA5Mi00ZGQ1LTk3ZmQtMDBiZDA2YTEzOWEx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Roma",
+      "start": "2025-12-17T14:45:00.0000000",
+      "end": "2025-12-17T15:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDVlNWIyNzktYTJiMy00NTE1LTkxMTgtMjQ5NTIxZTgzYjJm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Zeus",
+      "start": "2025-12-17T15:15:00.0000000",
+      "end": "2025-12-17T15:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjYWUwMmYtOWEwZi00ZTk5LWJiNjEtYTcyOWJlNWMxNTE2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Yam",
+      "start": "2025-12-17T16:00:00.0000000",
+      "end": "2025-12-17T16:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU3ZDM1M2ItMTY2Zi00NDdlLWJkNDgtOTY4MTI2MTIzYjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Precious",
+      "start": "2025-12-17T16:45:00.0000000",
+      "end": "2025-12-17T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4M2NmNzMtNmRhYS00ODZmLThiZGEtZGU4MzE3ZjZmYWRj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dianna",
+      "start": "2025-12-17T17:30:00.0000000",
+      "end": "2025-12-17T17:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU5ZmEzMTAtYjgyOC00MmIxLTg4NTMtZjJlMmFiYTA1ODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Kim Paolo",
+      "start": "2025-12-17T18:00:00.0000000",
+      "end": "2025-12-17T18:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzdjMTY4ZmMtNTgyMi00ODljLThkMzktZjI5NzgzMzQ3MTMy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Editha",
+      "start": "2025-12-17T20:00:00.0000000",
+      "end": "2025-12-17T20:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGUyNjMyODQtMThjNS00OTg5LTkwMzUtN2M3NTc0NzJjNWI5%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Mae",
+      "start": "2025-12-17T21:30:00.0000000",
+      "end": "2025-12-17T22:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQxNGMxMTYtMTQ2ZC00OTNjLThlMmEtZWIxZmRkMWEyMTJj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Mufti",
+      "start": "2025-12-18T15:30:00.0000000",
+      "end": "2025-12-18T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE3MGUzOTYtZDE3Mi00MTg2LThlODItNWZlNDk4MmM3NmQy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Abby",
+      "start": "2025-12-18T15:45:00.0000000",
+      "end": "2025-12-18T16:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmQ3OGJmYWUtYTQ0NS00NTQ4LWEwYjItZDkxMGZmZTM0MThi%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Wincel",
+      "start": "2025-12-18T17:00:00.0000000",
+      "end": "2025-12-18T17:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmExMjQ3YTgtN2NhYi00ZGNmLWE4OTItNjgzOGZjNDVhZDhl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Joanna",
+      "start": "2025-12-18T19:30:00.0000000",
+      "end": "2025-12-18T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmFlNWU3YTUtN2Y3OS00OTUwLTg4NGUtNTc4YzBlNTVkOGQy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Michael",
+      "start": "2025-12-18T21:00:00.0000000",
+      "end": "2025-12-18T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JkY2U0M2EtZTZhOC00OWMwLWEzMjItMjBiYzJhYmU4ZjE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Crystal",
+      "start": "2025-12-18T22:30:00.0000000",
+      "end": "2025-12-18T23:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTcxY2NmZGEtZDRmOC00YjFmLWJkZjAtY2U4YmU4YmM1ZTE3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Alexandra",
+      "start": "2025-12-19T01:30:00.0000000",
+      "end": "2025-12-19T02:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTk0MjdhYjUtYmZkZi00NGMxLTgyNjItODNiNjE0MGFmZmRm%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Carla",
+      "start": "2025-12-19T13:30:00.0000000",
+      "end": "2025-12-19T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU1MTNhODktNjdmMi00ZDM3LWI0NjEtZTVmYTA2Yjg3OWM2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Rhen",
+      "start": "2025-12-19T18:00:00.0000000",
+      "end": "2025-12-19T18:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY2ZjE3MGQtNjE1MC00Zjc4LThjODEtZDZlMWJhYmU0MDcw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Rudielyn",
+      "start": "2025-12-19T22:30:00.0000000",
+      "end": "2025-12-19T23:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjA0NWJjMGEtYjAxMi00Njc1LWIyN2ItM2VkYzZmZDJhOGQy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Zeus",
+      "start": "2025-12-22T12:45:00.0000000",
+      "end": "2025-12-22T13:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjYWUwMmYtOWEwZi00ZTk5LWJiNjEtYTcyOWJlNWMxNTE2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Macey",
+      "start": "2025-12-22T13:30:00.0000000",
+      "end": "2025-12-22T13:45:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY2YjU4MmUtNWJiYi00YzMyLTgzZWQtZjgyZDY0MWQzOTEy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Marie",
+      "start": "2025-12-22T16:45:00.0000000",
+      "end": "2025-12-22T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTdkMzFiYTQtMGUyYi00MGY2LTk1NTEtMDA5MGNmZWEzOTdk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Kathleen",
+      "start": "2025-12-22T18:30:00.0000000",
+      "end": "2025-12-22T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODBmNWQyMWItOWVkNy00MTc0LTlkYmUtY2RjMDJjZWNkNTEw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Yannie",
+      "start": "2025-12-22T22:00:00.0000000",
+      "end": "2025-12-22T22:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjc0NWFmMGYtNzdjZS00NDcwLWJmYjgtNGJlZjQwYmM1ZmIx%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Joelyn",
+      "start": "2025-12-23T12:45:00.0000000",
+      "end": "2025-12-23T13:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGI2MGQ0NzctNWNlOC00OTI4LThhNWEtYTA1YzBiZjUxNGFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jamaica",
+      "start": "2025-12-23T13:00:00.0000000",
+      "end": "2025-12-23T13:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJiYjczZWEtOTE5Ni00OTM5LWI1ODAtN2Y2NjA1ZTAyOGZj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Trisha",
+      "start": "2025-12-23T13:15:00.0000000",
+      "end": "2025-12-23T13:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjNlMGM0MjQtM2VmZC00ZmUyLTliZWYtMWQ4MDhhNDY3NzA0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jhoana",
+      "start": "2025-12-23T13:45:00.0000000",
+      "end": "2025-12-23T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWUzZTgxMmYtNWU4NC00MzI4LTliYmMtYjczNTBlNDJlMjFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Ching",
+      "start": "2025-12-30T12:45:00.0000000",
+      "end": "2025-12-30T13:15:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2E0OWU4YmItMjVmNi00NDAwLTg2NTUtYjIyMzVjZWE1OTNh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Merlinda",
+      "start": "2025-12-30T13:30:00.0000000",
+      "end": "2025-12-30T14:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjVmY2I3ZWYtYTRkZC00ZGYwLWI0ZGYtMDU2MTliZjJmMTJh%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-10-31T19:00:00.0000000",
+      "end": "2025-10-31T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-11-07T20:00:00.0000000",
+      "end": "2025-11-07T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-11-14T20:00:00.0000000",
+      "end": "2025-11-14T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-11-21T20:00:00.0000000",
+      "end": "2025-11-21T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-11-28T20:00:00.0000000",
+      "end": "2025-11-28T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-12-05T20:00:00.0000000",
+      "end": "2025-12-05T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-12-12T20:00:00.0000000",
+      "end": "2025-12-12T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Integration EOW Team Meeting",
+      "start": "2025-10-31T20:30:00.0000000",
+      "end": "2025-10-31T21:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Integration EOW Team Meeting",
+      "start": "2025-11-07T19:00:00.0000000",
+      "end": "2025-11-07T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Integration EOW Team Meeting",
+      "start": "2025-11-14T19:00:00.0000000",
+      "end": "2025-11-14T20:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Integration EOW Team Meeting",
+      "start": "2025-11-21T18:00:00.0000000",
+      "end": "2025-11-21T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Integration EOW Team Meeting",
+      "start": "2025-11-26T18:00:00.0000000",
+      "end": "2025-11-26T19:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-12-05T18:30:00.0000000",
+      "end": "2025-12-05T19:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Integration EOW Team Meeting",
+      "start": "2025-12-12T16:00:00.0000000",
+      "end": "2025-12-12T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-12-19T20:00:00.0000000",
+      "end": "2025-12-19T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Canceled: Integration EOW Team Meeting",
+      "start": "2025-12-26T20:00:00.0000000",
+      "end": "2025-12-26T21:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmYzYzYWMtNDVkMC00ZjIyLWJiOWMtMjg3YTViMDdlY2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%220808d790-dbf4-4b45-bf01-360ac2082924%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-11-04T16:30:00.0000000",
+      "end": "2025-11-04T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-11-11T16:30:00.0000000",
+      "end": "2025-11-11T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-11-18T16:30:00.0000000",
+      "end": "2025-11-18T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-11-25T16:30:00.0000000",
+      "end": "2025-11-25T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-12-02T16:30:00.0000000",
+      "end": "2025-12-02T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-12-09T16:30:00.0000000",
+      "end": "2025-12-09T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-12-16T16:30:00.0000000",
+      "end": "2025-12-16T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-12-23T16:30:00.0000000",
+      "end": "2025-12-23T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Due Diligence: Integration Meeting to follow up on Feedback Survey completion",
+      "start": "2025-12-30T16:30:00.0000000",
+      "end": "2025-12-30T17:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I3ZTIwMWQtZWFlNS00Yjk5LTk4M2EtMjAxZTk2NWMzZjYz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Crystal",
+      "start": "2025-11-06T23:00:00.0000000",
+      "end": "2025-11-06T23:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWVmM2I5ZTItNmExYi00OTZhLTk1MTQtNWU3ODc2NTIzYzc3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Crystal",
+      "start": "2025-11-14T22:30:00.0000000",
+      "end": "2025-11-14T23:00:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWVmM2I5ZTItNmExYi00OTZhLTk1MTQtNWU3ODc2NTIzYzc3%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Wendy",
+      "start": "2025-12-17T22:00:00.0000000",
+      "end": "2025-12-17T22:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTM0ZGZmODQtNWNkNy00MjBkLThmMWQtYjY1NjFmYTMxNTE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Wendy",
+      "start": "2025-12-23T22:00:00.0000000",
+      "end": "2025-12-23T22:30:00.0000000",
+      "isOnlineMeeting": true,
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTM0ZGZmODQtNWNkNy00MjBkLThmMWQtYjY1NjFmYTMxNTE4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22c9a0d117-82fc-4539-a766-ce025c3d5783%22%7d"
+    }
+  ],
+  "online_meetings": [],
+  "local_recordings": [
+    {
+      "path": "recordings\\20251125_160503_Integration Team Check-in \u00a0Shey x\u00a0Kristelle-202511.mp4",
+      "name": "20251125_160503_Integration Team Check-in \u00a0Shey x\u00a0Kristelle-202511.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251125_175754_Integration Team Check-in \u00a0Shey x\u00a0Mary-20251126_04.mp4",
+      "name": "20251125_175754_Integration Team Check-in \u00a0Shey x\u00a0Mary-20251126_04.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251125_183553_Integration Team Check-in  Shey x Raniliza-2025112.mp4",
+      "name": "20251125_183553_Integration Team Check-in  Shey x Raniliza-2025112.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251125_184741_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251126.mp4",
+      "name": "20251125_184741_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251126.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251125_184815_Integration Team Check-in  Louise x Cherie-2025112.mp4",
+      "name": "20251125_184815_Integration Team Check-in  Louise x Cherie-2025112.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251125_210157_Integration Team Check-in  Louise x Zeska-20251126.mp4",
+      "name": "20251125_210157_Integration Team Check-in  Louise x Zeska-20251126.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251126_131254_Integration Team Check-in \u00a0Shey x\u00a0Jamaica-20251127.mp4",
+      "name": "20251126_131254_Integration Team Check-in \u00a0Shey x\u00a0Jamaica-20251127.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251126_133111_Integration Team Check-in \u00a0Shey x\u00a0Jaz-20251127_003.mp4",
+      "name": "20251126_133111_Integration Team Check-in \u00a0Shey x\u00a0Jaz-20251127_003.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251126_140024_Integration Team Check-in  Louise x Michelle-20251.mp4",
+      "name": "20251126_140024_Integration Team Check-in  Louise x Michelle-20251.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251126_141626_Integration Team Check-in  Louise x Alaiza-2025112.mp4",
+      "name": "20251126_141626_Integration Team Check-in  Louise x Alaiza-2025112.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251126_153141_Integration Team Check-in  Louise x Mufti-20251126.mp4",
+      "name": "20251126_153141_Integration Team Check-in  Louise x Mufti-20251126.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251127_134745_Integration Team Check-in  Louise x Michelle-20251.mp4",
+      "name": "20251127_134745_Integration Team Check-in  Louise x Michelle-20251.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251127_144623_Integration Team Check-in  Louise x Michelle-20251.mp4",
+      "name": "20251127_144623_Integration Team Check-in  Louise x Michelle-20251.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251127_193637_Integration Team Check-in  Louise x Paul-20251128_.mp4",
+      "name": "20251127_193637_Integration Team Check-in  Louise x Paul-20251128_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251127_200120_Integration Team Check-in  Louise x Editha-2025112.mp4",
+      "name": "20251127_200120_Integration Team Check-in  Louise x Editha-2025112.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251127_210042_Integration Team Check-in  Louise x Laura-20251128.mp4",
+      "name": "20251127_210042_Integration Team Check-in  Louise x Laura-20251128.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251201_135018_Integration Team Check-in  Shey x Verah-20251202_0.mp4",
+      "name": "20251201_135018_Integration Team Check-in  Shey x Verah-20251202_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251201_154945_Integration Team Check-in \u00a0Shey x\u00a0Abby-20251202_02.mp4",
+      "name": "20251201_154945_Integration Team Check-in \u00a0Shey x\u00a0Abby-20251202_02.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251201_160928_Integration Team Check-in \u00a0Shey x\u00a0yam-20251202_030.mp4",
+      "name": "20251201_160928_Integration Team Check-in \u00a0Shey x\u00a0yam-20251202_030.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251201_190329_Integration Team Check-in  Louise x TJ-20251202_03.mp4",
+      "name": "20251201_190329_Integration Team Check-in  Louise x TJ-20251202_03.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251201_202913_Interview  CHRISTY AILE BARRIENTO - Medical VA-202.mp4",
+      "name": "20251201_202913_Interview  CHRISTY AILE BARRIENTO - Medical VA-202.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_134652_Integration Team Check-in \u00a0Shey x\u00a0Ria-20251203_004.mp4",
+      "name": "20251202_134652_Integration Team Check-in \u00a0Shey x\u00a0Ria-20251203_004.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_141906_Integration Team Check-in  Shey x Cookie-20251203_.mp4",
+      "name": "20251202_141906_Integration Team Check-in  Shey x Cookie-20251203_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_163105_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251203_033.mp4",
+      "name": "20251202_163105_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251203_033.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_173052_Integration Team Check-in \u00a0Shey x\u00a0Dianna-20251203_.mp4",
+      "name": "20251202_173052_Integration Team Check-in \u00a0Shey x\u00a0Dianna-20251203_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_180607_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251203.mp4",
+      "name": "20251202_180607_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251203.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_183630_Integration Team Check-in \u00a0Shey x\u00a0Arjay-20251203_0",
+      "name": "20251202_183630_Integration Team Check-in \u00a0Shey x\u00a0Arjay-20251203_0",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_183630_Integration Team Check-in \u00a0Shey x\u00a0Arjay-20251203_0.mp4",
+      "name": "20251202_183630_Integration Team Check-in \u00a0Shey x\u00a0Arjay-20251203_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_201354_Integration Team Check-in  Louise x Jocelyn-202512",
+      "name": "20251202_201354_Integration Team Check-in  Louise x Jocelyn-202512",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251202_201354_Integration Team Check-in  Louise x Jocelyn-202512.mp4",
+      "name": "20251202_201354_Integration Team Check-in  Louise x Jocelyn-202512.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251203_190046_Integration Team Check-in  Louise x Zyra-20251204_",
+      "name": "20251203_190046_Integration Team Check-in  Louise x Zyra-20251204_",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251203_190046_Integration Team Check-in  Louise x Zyra-20251204_.mp4",
+      "name": "20251203_190046_Integration Team Check-in  Louise x Zyra-20251204_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251203_212035_Integration Team Check-in  Louise x Jeanvic-202512",
+      "name": "20251203_212035_Integration Team Check-in  Louise x Jeanvic-202512",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251203_212035_Integration Team Check-in  Louise x Jeanvic-202512.mp4",
+      "name": "20251203_212035_Integration Team Check-in  Louise x Jeanvic-202512.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251203_223612_Integration Team Check-in  Louise x Joanne-2025120",
+      "name": "20251203_223612_Integration Team Check-in  Louise x Joanne-2025120",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251203_223612_Integration Team Check-in  Louise x Joanne-2025120.mp4",
+      "name": "20251203_223612_Integration Team Check-in  Louise x Joanne-2025120.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_133037_Integration Team Check-in \u00a0Shey x\u00a0Eli-20251205_003",
+      "name": "20251204_133037_Integration Team Check-in \u00a0Shey x\u00a0Eli-20251205_003",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_133037_Integration Team Check-in \u00a0Shey x\u00a0Eli-20251205_003.mp4",
+      "name": "20251204_133037_Integration Team Check-in \u00a0Shey x\u00a0Eli-20251205_003.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_134425_Integration Team Check-in \u00a0Shey x\u00a0Michelle-2025120",
+      "name": "20251204_134425_Integration Team Check-in \u00a0Shey x\u00a0Michelle-2025120",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_134425_Integration Team Check-in \u00a0Shey x\u00a0Michelle-2025120.mp4",
+      "name": "20251204_134425_Integration Team Check-in \u00a0Shey x\u00a0Michelle-2025120.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_141626_Integration Team Check-in  Shey x Stephanie-202512",
+      "name": "20251204_141626_Integration Team Check-in  Shey x Stephanie-202512",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_141626_Integration Team Check-in  Shey x Stephanie-202512.mp4",
+      "name": "20251204_141626_Integration Team Check-in  Shey x Stephanie-202512.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_154716_Integration Team Check-in \u00a0Shey x\u00a0Ann-20251205_024",
+      "name": "20251204_154716_Integration Team Check-in \u00a0Shey x\u00a0Ann-20251205_024",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251204_154716_Integration Team Check-in \u00a0Shey x\u00a0Ann-20251205_024.mp4",
+      "name": "20251204_154716_Integration Team Check-in \u00a0Shey x\u00a0Ann-20251205_024.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_133551_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251206_0",
+      "name": "20251205_133551_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251206_0",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_133551_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251206_0.mp4",
+      "name": "20251205_133551_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251206_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_135043_Integration Team Check-in \u00a0Shey x\u00a0Divine-20251206_",
+      "name": "20251205_135043_Integration Team Check-in \u00a0Shey x\u00a0Divine-20251206_",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_135043_Integration Team Check-in \u00a0Shey x\u00a0Divine-20251206_.mp4",
+      "name": "20251205_135043_Integration Team Check-in \u00a0Shey x\u00a0Divine-20251206_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_153101_Christine O.  Interview- Bookkeeper-20251205_23305",
+      "name": "20251205_153101_Christine O.  Interview- Bookkeeper-20251205_23305",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_153101_Christine O.  Interview- Bookkeeper-20251205_23305.mp4",
+      "name": "20251205_153101_Christine O.  Interview- Bookkeeper-20251205_23305.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_154535_Integration Team Check-in \u00a0Shey x\u00a0Jep-20251206_024",
+      "name": "20251205_154535_Integration Team Check-in \u00a0Shey x\u00a0Jep-20251206_024",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251205_154535_Integration Team Check-in \u00a0Shey x\u00a0Jep-20251206_024.mp4",
+      "name": "20251205_154535_Integration Team Check-in \u00a0Shey x\u00a0Jep-20251206_024.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251209_141338_Integration Team Check-in  Shey x Natassha-2025121",
+      "name": "20251209_141338_Integration Team Check-in  Shey x Natassha-2025121",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251209_141338_Integration Team Check-in  Shey x Natassha-2025121.mp4",
+      "name": "20251209_141338_Integration Team Check-in  Shey x Natassha-2025121.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251209_184909_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251210",
+      "name": "20251209_184909_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251210",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251209_184909_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251210.mp4",
+      "name": "20251209_184909_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251210.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_135225_Integration Team Check-in \u00a0Shey x\u00a0Karen-20251211_0",
+      "name": "20251210_135225_Integration Team Check-in \u00a0Shey x\u00a0Karen-20251211_0",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_135225_Integration Team Check-in \u00a0Shey x\u00a0Karen-20251211_0.mp4",
+      "name": "20251210_135225_Integration Team Check-in \u00a0Shey x\u00a0Karen-20251211_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_144606_Integration Team Check-in \u00a0Shey x Rochelle-2025121",
+      "name": "20251210_144606_Integration Team Check-in \u00a0Shey x Rochelle-2025121",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_144606_Integration Team Check-in \u00a0Shey x Rochelle-2025121.mp4",
+      "name": "20251210_144606_Integration Team Check-in \u00a0Shey x Rochelle-2025121.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_152103_Integration Team Check-in \u00a0Shey x\u00a0Zeus-20251211_02",
+      "name": "20251210_152103_Integration Team Check-in \u00a0Shey x\u00a0Zeus-20251211_02",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_152103_Integration Team Check-in \u00a0Shey x\u00a0Zeus-20251211_02.mp4",
+      "name": "20251210_152103_Integration Team Check-in \u00a0Shey x\u00a0Zeus-20251211_02.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_154553_Integration Team Check-in \u00a0Shey x\u00a0Abby-20251211_02",
+      "name": "20251210_154553_Integration Team Check-in \u00a0Shey x\u00a0Abby-20251211_02",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_154553_Integration Team Check-in \u00a0Shey x\u00a0Abby-20251211_02.mp4",
+      "name": "20251210_154553_Integration Team Check-in \u00a0Shey x\u00a0Abby-20251211_02.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_162642_Integration Team Check-in \u00a0Shey x\u00a0yam-20251211_032",
+      "name": "20251210_162642_Integration Team Check-in \u00a0Shey x\u00a0yam-20251211_032",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_162642_Integration Team Check-in \u00a0Shey x\u00a0yam-20251211_032.mp4",
+      "name": "20251210_162642_Integration Team Check-in \u00a0Shey x\u00a0yam-20251211_032.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_172944_Integration Team Check-in \u00a0Shey x\u00a0Dianna-20251211_",
+      "name": "20251210_172944_Integration Team Check-in \u00a0Shey x\u00a0Dianna-20251211_",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251210_172944_Integration Team Check-in \u00a0Shey x\u00a0Dianna-20251211_.mp4",
+      "name": "20251210_172944_Integration Team Check-in \u00a0Shey x\u00a0Dianna-20251211_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251211_134434_Integration Team Check-in \u00a0Shey x\u00a0Sancha-20251212_.mp4",
+      "name": "20251211_134434_Integration Team Check-in \u00a0Shey x\u00a0Sancha-20251212_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251211_141247_Integration Team Check-in \u00a0Shey x\u00a0Ivana-20251212_0.mp4",
+      "name": "20251211_141247_Integration Team Check-in \u00a0Shey x\u00a0Ivana-20251212_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251211_144733_Integration Team Check-in \u00a0Shey x\u00a0Zandra-20251212_.mp4",
+      "name": "20251211_144733_Integration Team Check-in \u00a0Shey x\u00a0Zandra-20251212_.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251211_154620_Integration Team Check-in \u00a0Shey x\u00a0Catherine-202512.mp4",
+      "name": "20251211_154620_Integration Team Check-in \u00a0Shey x\u00a0Catherine-202512.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251212_133446_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251213_0",
+      "name": "20251212_133446_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251213_0",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251212_133446_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251213_0.mp4",
+      "name": "20251212_133446_Integration Team Check-in \u00a0Shey x\u00a0Carla-20251213_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251212_134517_Integration Team Check-in  Shey x JL-20251213_0045",
+      "name": "20251212_134517_Integration Team Check-in  Shey x JL-20251213_0045",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251212_134517_Integration Team Check-in  Shey x JL-20251213_0045.mp4",
+      "name": "20251212_134517_Integration Team Check-in  Shey x JL-20251213_0045.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251212_154555_Integration Team Check-in  Louise x Cynthia-202512.mp4",
+      "name": "20251212_154555_Integration Team Check-in  Louise x Cynthia-202512.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251215_155912_Integration Team Check-in \u00a0Shey x\u00a0Stephanie E-2025.mp4",
+      "name": "20251215_155912_Integration Team Check-in \u00a0Shey x\u00a0Stephanie E-2025.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251215_164739_Integration Team Check-in \u00a0Shey x\u00a0Marie-20251216_0.mp4",
+      "name": "20251215_164739_Integration Team Check-in \u00a0Shey x\u00a0Marie-20251216_0.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251216_134950_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251217_004",
+      "name": "20251216_134950_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251217_004",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251216_134950_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251217_004.mp4",
+      "name": "20251216_134950_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251217_004.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251216_180522_Integration Team Check-in  Louise x Oscar-20251217",
+      "name": "20251216_180522_Integration Team Check-in  Louise x Oscar-20251217",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251216_190405_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251217.mp4",
+      "name": "20251216_190405_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251217.mp4",
+      "is_dir": false
+    },
+    {
+      "path": "recordings\\20251216_190405_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251217.wav",
+      "name": "20251216_190405_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251217.wav",
+      "is_dir": false
+    }
+  ],
+  "new_downloads": []
+}

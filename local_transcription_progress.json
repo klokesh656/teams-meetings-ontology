@@ -1,0 +1,28 @@
+{
+  "completed": [
+    "20251203_190046_Integration Team Check-in  Louise x Zyra-20251204_",
+    "20251203_223612_Integration Team Check-in  Louise x Joanne-2025120",
+    "20251211_141247_Integration Team Check-in \u00a0Shey x\u00a0Ivana-20251212_0",
+    "20251211_154620_Integration Team Check-in \u00a0Shey x\u00a0Catherine-202512",
+    "20251216_134950_Integration Team Check-in \u00a0Shey x\u00a0Rea-20251217_004",
+    "20251216_190405_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty-20251217"
+  ],
+  "failed": [
+    {
+      "folder": "20251203_212035_Integration Team Check-in  Louise x Jeanvic-202512",
+      "error": "Transcription error: Connection was closed by the remote host. Error code: 1007. Error details: Quota exceeded. Cid:  SessionId: 08c406dc3aae4298b5f801de1f12e053"
+    },
+    {
+      "folder": "20251211_134434_Integration Team Check-in \u00a0Shey x\u00a0Sancha-20251212_",
+      "error": "Transcription error: Connection was closed by the remote host. Error code: 1007. Error details: Quota exceeded. Cid:  SessionId: 26d9a3888d36454787e0312c846b9281"
+    },
+    {
+      "folder": "20251211_144733_Integration Team Check-in \u00a0Shey x\u00a0Zandra-20251212_",
+      "error": "Transcription error: Connection was closed by the remote host. Error code: 1007. Error details: Quota exceeded. Cid:  SessionId: 43b5688b58964238a4546f435be879a6"
+    }
+  ],
+  "stats": {
+    "total_completed": 6,
+    "total_failed": 3
+  }
+}

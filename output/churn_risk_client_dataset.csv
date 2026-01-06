@@ -1,0 +1,23 @@
+document_id,meeting_date,client_name,health_status,risk_signals,risk_signal_count,issues,source_file
+76db6cbb562d7ab2,2025-11-10,Atlas,at_risk,"CL003,CL005,CL010",3,"Concerns about VAs feeling overwhelmed due to changing roles and added tasks, over-reliance on AI, and communication gaps. Client requested anonymous feedback and regular check-ins.",Outlier Discussion Transcripts 10 november 2025.txt
+24185754f00d8039,2025-12-12,Atlas,at_risk,"CL001,CL010",2,"Slow response from VAs, no recent check-in, inconsistent attendance.",Outlier Discussion Transcripts 12 december 2025.txt
+0c06fa494ff00c46,2025-12-12,Triple A,at_risk,CL009,1,"Multiple replacements requested, two part-time VAs seeking more hours.",Outlier Discussion Transcripts 12 december 2025.txt
+21f419a8b94d0cca,2025-12-12,Rocky Point,healthy,,0,"Part-time VA seeking more hours, possible new hire request.",Outlier Discussion Transcripts 12 december 2025.txt
+c7a8eaf50af72c12,2025-12-12,Supreme Landing,healthy,,0,"VA seeking client match, no major concerns.",Outlier Discussion Transcripts 12 december 2025.txt
+d325fb14206ae1ff,2025-12-12,Endpoint Tracking (Triple A related),healthy,,0,"New billing/invoicing role, software expertise required.",Outlier Discussion Transcripts 12 december 2025.txt
+bce37635c5015b30,2025-12-12,River Roads (Triple A related),healthy,,0,Intermodal dispatcher role open.,Outlier Discussion Transcripts 12 december 2025.txt
+f9ef0e635783e880,2025-11-15,Atlas,healthy,CL003,1,Receiving filtered but honest feedback; client receptive to partnership approach.,Outlier Discussion Transcripts 15 november 2025.txt
+3856ad423f1cd547,2025-11-15,OA (Our Assistants),healthy,,0,Operational disruptions due to typhoon; contingency planning underway.,Outlier Discussion Transcripts 15 november 2025.txt
+e0b8639d68e9db46,2025-11-22,Rachel,healthy,,0,Very satisfied with team; values communication and updates.,Outlier Discussion Transcripts 22 november 2025.txt
+312c0a1068113ce5,2025-11-22,HOA Property Manager,healthy,,0,Commended VA performance; no concerns.,Outlier Discussion Transcripts 22 november 2025.txt
+f441fe4519aeb56d,2025-11-22,GTM,healthy,,0,"Concern over VA's personal emergency, but supportive.",Outlier Discussion Transcripts 22 november 2025.txt
+5b9c126e5ae7b988,2025-11-22,H&A Assist,healthy,,0,No major concerns; team is stable.,Outlier Discussion Transcripts 22 november 2025.txt
+740d76aab53936dc,2025-11-22,Treetone,at_risk,CL001,1,Client slow to respond to emails; risk of losing VA seat due to resignation.,Outlier Discussion Transcripts 22 november 2025.txt
+ee4c9e3aa470b0b4,2025-11-22,IP Industries,healthy,,0,"New client, VAs are busy and happy.",Outlier Discussion Transcripts 22 november 2025.txt
+625467a8b7bf7a5f,2025-10-24,KRB,at_risk,CL009,1,Multiple replacements for the same role; reliability of VAs is a concern; client sensitive to performance and comprehension issues.,Outlier Discussion Transcripts 24 october 2025.txt
+37e4374da8b177bc,2025-10-24,Atlas,critical,"CL009,CL006",2,Frequent VA turnover; quick to terminate VAs with issues; upcoming terminations and replacements.,Outlier Discussion Transcripts 24 october 2025.txt
+0ceb62b27ebcfb98,2025-10-24,B.M.,healthy,,0,"Some dissatisfaction with VA email handling, but open to training and improvement.",Outlier Discussion Transcripts 24 october 2025.txt
+9d78550743b5ce54,2025-11-27,Jason,at_risk,"CL007,CL010",2,"Client was not informed promptly about VA resignation, potentially causing feelings of being blind-sided and disconnected. No recent feedback from client, making it hard to assess sentiment.",Outlier Discussion Transcripts 27 november 2025.txt
+00ea3852781f56e1,2025-11-27,Atlas,healthy,,0,No issues raised; only mentioned in context of feedback process and recent meeting.,Outlier Discussion Transcripts 27 november 2025.txt
+491f64f9fcbce7c3,2025-11-27,Wendy and David,healthy,,0,Positive communication noted regarding screenshot sharing and confidentiality.,Outlier Discussion Transcripts 27 november 2025.txt
+7acf574dcc27ac31,2025-10-31,Atlas,critical,CL006,1,"Client straightforwardly communicated role elimination, leading to VA offboarding.",Outlier Discussion Transcripts 31 october 2025.txt

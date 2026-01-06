@@ -1,0 +1,368 @@
+{
+  "searched_at": "2025-12-30T20:01:36.896633",
+  "date_range_days": 60,
+  "users_found": [
+    "hr",
+    "hr@our-assistants",
+    "kc argente",
+    "louise alatraca",
+    "shey  geraldes"
+  ],
+  "api_transcripts": [],
+  "calendar_events": [],
+  "checkin_meetings": [
+    {
+      "subject": "Integration Team Check-in || Shane & Charlene",
+      "start": "2025-10-31T08:00:00.0000000",
+      "organizer": "Louise Alatraca",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Merlinda",
+      "start": "2025-10-31T13:00:00.0000000",
+      "organizer": "Louise Alatraca",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Roma x KC",
+      "start": "2025-10-31T13:30:00.0000000",
+      "organizer": "KC argente",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-10-31T15:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ana",
+      "start": "2025-10-31T20:30:00.0000000",
+      "organizer": "Louise Alatraca",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Catch up with Kesha and Mona",
+      "start": "2025-11-01T00:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Hilario",
+      "start": "2025-11-03T13:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Cookie",
+      "start": "2025-11-04T14:15:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Catherine",
+      "start": "2025-11-04T14:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Arjay",
+      "start": "2025-11-04T18:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Chris",
+      "start": "2025-11-04T19:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Divine",
+      "start": "2025-11-05T13:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Stephanie",
+      "start": "2025-11-05T14:15:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jep",
+      "start": "2025-11-05T15:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dianna",
+      "start": "2025-11-05T18:00:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Check in with Cesar x PEM",
+      "start": "2025-11-05T19:00:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Laurice",
+      "start": "2025-11-06T13:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ann",
+      "start": "2025-11-06T15:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-11-06T16:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Eli",
+      "start": "2025-11-07T13:25:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Shane & Charlene",
+      "start": "2025-10-31T08:00:00.0000000",
+      "organizer": "Louise Alatraca",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Merlinda",
+      "start": "2025-10-31T13:00:00.0000000",
+      "organizer": "Louise Alatraca",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Roma x KC",
+      "start": "2025-10-31T13:30:00.0000000",
+      "organizer": "KC argente",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-10-31T15:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Louise x Ana",
+      "start": "2025-10-31T20:30:00.0000000",
+      "organizer": "Louise Alatraca",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Catch up with Kesha and Mona",
+      "start": "2025-11-01T00:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Hilario",
+      "start": "2025-11-03T13:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Cookie",
+      "start": "2025-11-04T14:15:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Catherine",
+      "start": "2025-11-04T14:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Arjay",
+      "start": "2025-11-04T18:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Chris",
+      "start": "2025-11-04T19:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Divine",
+      "start": "2025-11-05T13:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Stephanie",
+      "start": "2025-11-05T14:15:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Jep",
+      "start": "2025-11-05T15:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Dianna",
+      "start": "2025-11-05T18:00:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Check in with Cesar x PEM",
+      "start": "2025-11-05T19:00:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Laurice",
+      "start": "2025-11-06T13:30:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Ann",
+      "start": "2025-11-06T15:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x Charish",
+      "start": "2025-11-06T16:45:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    },
+    {
+      "subject": "Integration Team Check-in ||\u00a0Shey x\u00a0Eli",
+      "start": "2025-11-07T13:25:00.0000000",
+      "organizer": "HR@Our-Assistants",
+      "user": "hr@our-assistants",
+      "is_online": true
+    }
+  ],
+  "local_recordings": [],
+  "local_transcripts": [
+    "20251101_003311_Catch up with Kesha and Mona.vtt",
+    "20251103_135301_Integration Team Check-in \u00a0Shey x\u00a0Hilario.vtt",
+    "20251104_144106_Integration Team Check-in \u00a0Shey x\u00a0Catherine.vtt",
+    "20251105_153324_Integration Team Check-in \u00a0Shey x\u00a0Jep.vtt",
+    "20251105_175920_Integration Team Check-in \u00a0Shey x\u00a0Dianna.vtt",
+    "20251106_154537_Integration Team Check-in \u00a0Shey x\u00a0Ann.vtt",
+    "20251106_220053_Integration Team Check-in  Louise x Irvy.vtt",
+    "20251107_143113_Integration Team Check-in \u00a0Shey x\u00a0Roma.vtt",
+    "20251110_155004_Integration Team Check-in Shey xAbby.vtt",
+    "20251110_155004_Integration Team Check-in \u00a0Shey x\u00a0Abby.vtt",
+    "20251111_134829_Integration Team Check-in \u00a0Shey x\u00a0Karen.vtt",
+    "20251111_154754_Integration Team Check-in Shey xJep.vtt",
+    "20251111_154754_Integration Team Check-in \u00a0Shey x\u00a0Jep.vtt",
+    "20251114_151552_Integration Team Check-in  Louise x Herbert.vtt",
+    "20251117_160048_Integration Team Check-in Shey xStephanie E.vtt",
+    "20251117_160048_Integration Team Check-in \u00a0Shey x\u00a0Stephanie E.vtt",
+    "20251119_173147_Integration Team Check-in  Louise x Solomon.vtt",
+    "20251119_190400_Integration Team Check-in \u00a0Shey x\u00a0Katie G.vtt",
+    "20251120_170539_Integration Team Check-in \u00a0Shey x\u00a0Julienne.vtt",
+    "20251124_154511_Integration Team Check-in Shey x Charish.vtt",
+    "20251125_184746_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty.vtt",
+    "20251126_131259_Integration Team Check-in \u00a0Shey x\u00a0Jamaica.vtt",
+    "20251126_133115_Integration Team Check-in \u00a0Shey x\u00a0Jaz.vtt",
+    "20251127_210046_Integration Team Check-in  Louise x Laura.vtt",
+    "20251201_160933_Integration Team Check-in \u00a0Shey x\u00a0yam.vtt",
+    "20251202_183630_Integration Team Check-in \u00a0Shey x\u00a0Arjay-.vtt",
+    "20251202_183634_Integration Team Check-in \u00a0Shey x\u00a0Arjay.vtt",
+    "20251203_120509_Catch up with Cherie-20251203_200506-Mee.vtt",
+    "20251204_154716_Integration Team Check-in \u00a0Shey x\u00a0Ann-20.vtt",
+    "20251204_154721_Integration Team Check-in Shey xAnn.vtt",
+    "20251204_154721_Integration Team Check-in \u00a0Shey x\u00a0Ann.vtt",
+    "20251205_154535_Integration Team Check-in \u00a0Shey x\u00a0Jep-20.vtt",
+    "20251209_141338_Integration Team Check-in  Shey x Natass.vtt",
+    "20251209_184909_Integration Team Check-in \u00a0Shey x\u00a0Dhorot.vtt",
+    "20251209_184915_Integration Team Check-in \u00a0Shey x\u00a0Dhoroty.vtt",
+    "20251210_135225_Integration Team Check-in \u00a0Shey x\u00a0Karen-.vtt",
+    "20251210_144606_Integration Team Check-in \u00a0Shey x Rochel.vtt",
+    "20251210_152103_Integration Team Check-in \u00a0Shey x\u00a0Zeus-2.vtt",
+    "20251210_152107_Integration Team Check-in \u00a0Shey x\u00a0Zeus.vtt",
+    "20251210_154553_Integration Team Check-in \u00a0Shey x\u00a0Abby-2.vtt",
+    "20251210_162642_Integration Team Check-in \u00a0Shey x\u00a0yam-20.vtt",
+    "20251210_172944_Integration Team Check-in \u00a0Shey x\u00a0Dianna.vtt",
+    "20251211_201931_Quick Catch Up - Zyra.vtt",
+    "20251212_010807_Catch Up with Jep.vtt",
+    "20251212_133446_Integration Team Check-in \u00a0Shey x\u00a0Carla-.vtt",
+    "20251212_134517_Integration Team Check-in  Shey x JL-202.vtt",
+    "20251212_154600_Integration Team Check-in  Louise x Cynthia.vtt",
+    "20251215_155912_Integration Team Check-in \u00a0Shey x\u00a0Stepha.vtt",
+    "20251215_164739_Integration Team Check-in \u00a0Shey x\u00a0Marie-.vtt",
+    "20251217_135439_Integration Team Check-in \u00a0Shey x\u00a0Hilario.vtt",
+    "20251217_164547_Integration Team Check-in \u00a0Shey x\u00a0Precious.vtt",
+    "20251218_193050_Integration Team Check-in  Louise x Joanna.vtt",
+    "20251219_133127_Integration Team Check-in \u00a0Shey x\u00a0Carla.vtt",
+    "20251222_164815_Integration Team Check-in \u00a0Shey x\u00a0Marie.vtt",
+    "20251224_010251_Integration Team Check-in  Louise x Cynthia.vtt"
+  ],
+  "new_downloads": [],
+  "summary": {
+    "users_searched": [
+      "hr",
+      "hr@our-assistants",
+      "kc argente",
+      "louise alatraca",
+      "shey  geraldes"
+    ],
+    "calendar_checkins": 40,
+    "api_transcripts": 18,
+    "local_checkin_recordings": 0,
+    "local_checkin_transcripts": 55,
+    "new_downloads": 0
+  }
+}

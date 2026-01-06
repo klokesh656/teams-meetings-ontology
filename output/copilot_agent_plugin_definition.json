@@ -1,0 +1,180 @@
+{
+  "plugin": {
+    "name": "OurAssistants Meeting Intelligence",
+    "description": "Search and analyze meeting transcripts, VA check-ins, churn risks, and actionable suggestions for OurAssistants operations.",
+    "version": "2.0.0",
+    "capabilities": [
+      "meeting_search",
+      "churn_risk_analysis",
+      "va_status_tracking",
+      "client_health_monitoring",
+      "suggestion_management"
+    ]
+  },
+  "dataSource": {
+    "type": "AzureSearchIndex",
+    "indexName": "copilot-agent-comprehensive",
+    "semanticConfiguration": "semantic-config",
+    "queryType": "semantic",
+    "fieldsMapping": {
+      "titleField": "title",
+      "contentFields": ["content", "summary", "issues", "key_concerns"],
+      "keywordsFields": ["va_name", "client_name", "risk_signals", "tags"],
+      "urlField": "blob_url"
+    }
+  },
+  "searchScenarios": [
+    {
+      "name": "Find VA Status",
+      "description": "Search for current status and recent check-ins for a specific VA",
+      "exampleQueries": [
+        "What is the status of VA Jep?",
+        "Show me recent check-ins for Ivana",
+        "Find all issues with Catherine"
+      ],
+      "filter": "document_type eq 'va_status' or document_type eq 'va_checkin_analysis' or document_type eq 'meeting_transcript'",
+      "searchFields": "va_name,content,summary,issues",
+      "scoringProfile": "relevanceBoost"
+    },
+    {
+      "name": "Client Health Check",
+      "description": "Check health status and concerns for a specific client",
+      "exampleQueries": [
+        "How is Atlas doing?",
+        "What are the concerns with Prime Properties?",
+        "Show me client health for all at-risk accounts"
+      ],
+      "filter": "document_type eq 'client_status' or entity_type eq 'client'",
+      "searchFields": "client_name,content,summary,issues,health_status",
+      "scoringProfile": "riskFocused"
+    },
+    {
+      "name": "Churn Risk Analysis",
+      "description": "Identify and analyze churn risks for VAs and clients",
+      "exampleQueries": [
+        "Which VAs are at high churn risk?",
+        "What are the top churn risks this week?",
+        "Show me critical risk signals"
+      ],
+      "filter": "document_type eq 'churn_risk' or risk_level eq 'high' or risk_level eq 'critical'",
+      "searchFields": "content,summary,risk_signals,issues,recommended_action",
+      "orderBy": "risk_score desc",
+      "scoringProfile": "riskFocused"
+    },
+    {
+      "name": "Pending Actions",
+      "description": "Find pending suggestions and action items that need attention",
+      "exampleQueries": [
+        "What suggestions are pending review?",
+        "Show me urgent action items",
+        "What needs immediate attention?"
+      ],
+      "filter": "document_type eq 'suggestion' and status eq 'pending'",
+      "searchFields": "content,issues,va_name,client_name",
+      "orderBy": "urgency desc, date desc"
+    },
+    {
+      "name": "Meeting History",
+      "description": "Search through meeting transcripts and check-ins",
+      "exampleQueries": [
+        "What was discussed in the last check-in with Jep?",
+        "Show me all onboarding meetings this month",
+        "Find meetings where communication issues were raised"
+      ],
+      "filter": "document_type eq 'meeting_transcript' or document_type eq 'churn_analysis'",
+      "searchFields": "title,content,summary,key_concerns,key_positives,action_items",
+      "orderBy": "date desc"
+    },
+    {
+      "name": "Best Practices",
+      "description": "Find approved solutions and best practices from past cases",
+      "exampleQueries": [
+        "What worked for similar issues before?",
+        "Show me approved solutions for communication problems",
+        "What are the best practices for VA engagement?"
+      ],
+      "filter": "document_type eq 'approved_solution' or tags/any(t: t eq 'best_practice')",
+      "searchFields": "content,summary,rationale,stakeholder_notes"
+    }
+  ],
+  "entityTypes": {
+    "meeting": {
+      "description": "Meeting transcripts and check-in records",
+      "keyFields": ["subject", "date", "organizer", "participants"],
+      "analysisFields": ["sentiment_score", "risk_score", "events_detected"]
+    },
+    "va": {
+      "description": "Virtual Assistant records and status updates",
+      "keyFields": ["va_name", "client_name", "health_status"],
+      "analysisFields": ["risk_signals", "risk_level", "issues", "actions_taken"]
+    },
+    "client": {
+      "description": "Client account records and health status",
+      "keyFields": ["client_name", "health_status"],
+      "analysisFields": ["risk_signals", "risk_level", "issues"]
+    },
+    "suggestion": {
+      "description": "Actionable suggestions and recommendations",
+      "keyFields": ["va_name", "client_name", "category", "urgency", "status"],
+      "analysisFields": ["rationale", "recommended_action"]
+    },
+    "churn_risk": {
+      "description": "Identified churn risks with recommended actions",
+      "keyFields": ["va_name", "client_name", "risk_level"],
+      "analysisFields": ["risk_signals", "recommended_action"]
+    }
+  },
+  "filterOptions": {
+    "document_type": [
+      "meeting_transcript",
+      "churn_analysis",
+      "va_status",
+      "client_status",
+      "churn_risk",
+      "suggestion",
+      "approved_solution",
+      "va_checkin_analysis"
+    ],
+    "risk_level": ["critical", "high", "medium", "low", "none"],
+    "urgency": ["immediate", "within_48h", "this_week", "next_week"],
+    "status": ["pending", "approved", "rejected", "in_progress", "completed"],
+    "health_status": ["green", "yellow", "orange", "red", "at_risk"],
+    "meeting_type": [
+      "check_in",
+      "onboarding",
+      "interview",
+      "readiness_check",
+      "gtm_orientation",
+      "catch_up",
+      "performance_review",
+      "outlier_discussion",
+      "general"
+    ]
+  },
+  "aggregations": {
+    "riskSummary": {
+      "description": "Aggregate risk levels across VAs and clients",
+      "facets": ["risk_level", "health_status"],
+      "metrics": ["count", "risk_score"]
+    },
+    "suggestionStatus": {
+      "description": "Summary of suggestions by status and urgency",
+      "facets": ["status", "urgency", "suggestion_category"],
+      "metrics": ["count"]
+    },
+    "meetingTrends": {
+      "description": "Meeting activity trends over time",
+      "facets": ["meeting_type", "date"],
+      "metrics": ["count", "sentiment_score"]
+    }
+  },
+  "promptGuidance": {
+    "systemPrompt": "You are an AI assistant for OurAssistants operations team. You help analyze meeting transcripts, track VA and client health, identify churn risks, and surface actionable insights. When searching, prioritize recent data and high-risk items. Always include specific names, dates, and actionable recommendations in your responses.",
+    "responseFormat": {
+      "includeSourceLinks": true,
+      "highlightRisks": true,
+      "suggestNextSteps": true,
+      "summarizeKeyPoints": true
+    }
+  }
+}

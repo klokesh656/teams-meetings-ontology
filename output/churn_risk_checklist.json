@@ -1,0 +1,170 @@
+{
+  "va_risk_signals": [
+    {
+      "id": "VA001",
+      "signal": "Non-responsive to integration team",
+      "severity": "high",
+      "category": "communication"
+    },
+    {
+      "id": "VA002",
+      "signal": "Task scope expanded without acknowledgment",
+      "severity": "high",
+      "category": "workload"
+    },
+    {
+      "id": "VA003",
+      "signal": "Mentioned feeling overwhelmed",
+      "severity": "medium",
+      "category": "emotional"
+    },
+    {
+      "id": "VA004",
+      "signal": "Casual mention of resignation/leaving",
+      "severity": "critical",
+      "category": "retention"
+    },
+    {
+      "id": "VA005",
+      "signal": "Attendance issues (tardiness, absences)",
+      "severity": "medium",
+      "category": "reliability"
+    },
+    {
+      "id": "VA006",
+      "signal": "Technical/equipment problems unresolved",
+      "severity": "medium",
+      "category": "technical"
+    },
+    {
+      "id": "VA007",
+      "signal": "Not visible to client (lack of SOD/EOD)",
+      "severity": "high",
+      "category": "visibility"
+    },
+    {
+      "id": "VA008",
+      "signal": "Over-reliance on AI without sense-checking",
+      "severity": "medium",
+      "category": "performance"
+    },
+    {
+      "id": "VA009",
+      "signal": "Requested compensation review",
+      "severity": "medium",
+      "category": "compensation"
+    },
+    {
+      "id": "VA010",
+      "signal": "First 30 days - low engagement",
+      "severity": "high",
+      "category": "onboarding"
+    },
+    {
+      "id": "VA011",
+      "signal": "MIA (Missing in Action) pattern",
+      "severity": "critical",
+      "category": "reliability"
+    },
+    {
+      "id": "VA012",
+      "signal": "Coaching sessions with no progress",
+      "severity": "medium",
+      "category": "development"
+    }
+  ],
+  "client_risk_signals": [
+    {
+      "id": "CL001",
+      "signal": "Slow/no response to OA communications",
+      "severity": "high",
+      "category": "engagement"
+    },
+    {
+      "id": "CL002",
+      "signal": "Unilateral task changes without discussion",
+      "severity": "medium",
+      "category": "scope"
+    },
+    {
+      "id": "CL003",
+      "signal": "Negative feedback delivered indirectly",
+      "severity": "high",
+      "category": "communication"
+    },
+    {
+      "id": "CL004",
+      "signal": "Hired directly from another agency",
+      "severity": "critical",
+      "category": "competition"
+    },
+    {
+      "id": "CL005",
+      "signal": "Internal layoffs or restructuring",
+      "severity": "high",
+      "category": "stability"
+    },
+    {
+      "id": "CL006",
+      "signal": "Surprise cancellation after positive feedback",
+      "severity": "critical",
+      "category": "trust"
+    },
+    {
+      "id": "CL007",
+      "signal": "Information hidden from client (felt blind-sided)",
+      "severity": "high",
+      "category": "transparency"
+    },
+    {
+      "id": "CL008",
+      "signal": "Part-time client resistant to full-time",
+      "severity": "low",
+      "category": "growth"
+    },
+    {
+      "id": "CL009",
+      "signal": "Multiple VA replacements requested",
+      "severity": "high",
+      "category": "satisfaction"
+    },
+    {
+      "id": "CL010",
+      "signal": "No check-in for 30+ days",
+      "severity": "medium",
+      "category": "engagement"
+    }
+  ],
+  "relationship_health_signals": [
+    {
+      "id": "RH001",
+      "signal": "OA seen as vendor not partner",
+      "severity": "high",
+      "category": "perception"
+    },
+    {
+      "id": "RH002",
+      "signal": "Feedback loop broken (no response to surveys)",
+      "severity": "medium",
+      "category": "communication"
+    },
+    {
+      "id": "RH003",
+      "signal": "VA told client about issue before OA",
+      "severity": "high",
+      "category": "information_flow"
+    },
+    {
+      "id": "RH004",
+      "signal": "Client competing for VA time (second job)",
+      "severity": "medium",
+      "category": "loyalty"
+    },
+    {
+      "id": "RH005",
+      "signal": "Trust deficit - client verifying VA work",
+      "severity": "medium",
+      "category": "trust"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "downloaded": [
+    "2025-11-05_Zyra",
+    "2025-11-06_Crystal",
+    "2025-11-06_Michelle",
+    "2025-11-07_Mon",
+    "2025-11-07_Rudielyn",
+    "2025-11-12_Kathleen",
+    "2025-11-12_Merlinda",
+    "2025-11-13_Cyril",
+    "2025-11-13_Janet",
+    "2025-11-13_Gerlie",
+    "2025-11-14_Sergs",
+    "2025-11-14_Irvy",
+    "2025-11-18_Irene",
+    "2025-11-18_Michelle",
+    "2025-11-12_Myla",
+    "2025-11-12_Zyra",
+    "2025-11-12_Mitchie",
+    "2025-11-12_Hannah",
+    "2025-11-19_Joel",
+    "2025-11-20_Ken",
+    "2025-11-24_Shan",
+    "2025-11-24_Gen",
+    "2025-11-25_Cherie",
+    "2025-11-25_Zeska",
+    "2025-11-26_Alaiza",
+    "2025-11-26_Michelle",
+    "2025-11-26_Mufti",
+    "2025-11-27_Editha",
+    "2025-11-27_Paul",
+    "2025-11-27_Michelle",
+    "2025-12-01_TJ",
+    "2025-12-02_Jocelyn",
+    "2025-12-03_Jeanvic",
+    "2025-12-16_Martin",
+    "2025-12-16_Sheila",
+    "2025-12-16_Oscar",
+    "2025-12-17_Wendy",
+    "2025-12-17_Kim",
+    "2025-12-17_Alaiza",
+    "2025-12-23_Gen"
+  ],
+  "transcribed": [
+    "20251105_Integration_Team_Check-in_Louise_x_Zyra",
+    "20251106_Integration_Team_Check-in_Louise_x_Crystal",
+    "20251107_Integration_Team_Check-in_Louise_x_Mon",
+    "20251107_Integration_Team_Check-in_Louise_x_Rudielyn",
+    "20251112_Integration_Team_Check-in_Louise_x_Hannah",
+    "20251112_Integration_Team_Check-in_Louise_x_Kathleen",
+    "20251112_Integration_Team_Check-in_Louise_x_Merlinda",
+    "20251112_Integration_Team_Check-in_Louise_x_Mitchie",
+    "20251112_Integration_Team_Check-in_Louise_x_Myla",
+    "20251112_Integration_Team_Check-in_Louise_x_Zyra",
+    "20251113_Integration_Team_Check-in_Louise_x_Cyril",
+    "20251113_Integration_Team_Check-in_Louise_x_Gerlie",
+    "20251113_Integration_Team_Check-in_Louise_x_Janet",
+    "20251114_Integration_Team_Check-in_Louise_x_Irvy",
+    "20251114_Integration_Team_Check-in_Louise_x_Sergs",
+    "20251125_184815_Integration Team Check-in  Louise x Cherie-2025112",
+    "20251125_210157_Integration Team Check-in  Louise x Zeska-20251126",
+    "20251126_140024_Integration Team Check-in  Louise x Michelle-20251"
+  ],
+  "failed": [
+    {
+      "key": "2025-11-12_Myla",
+      "reason": "Download failed"
+    },
+    {
+      "key": "2025-11-12_Zyra",
+      "reason": "Download failed"
+    },
+    {
+      "key": "2025-11-12_Mitchie",
+      "reason": "Download failed"
+    },
+    {
+      "key": "2025-11-12_Hannah",
+      "reason": "Download failed"
+    },
+    {
+      "key": "20251106_Integration_Team_Check-in_Louise_x_Michelle",
+      "reason": "Transcription failed"
+    },
+    {
+      "key": "20251118_Integration_Team_Check-in_Louise_x_Irene",
+      "reason": "Transcription failed"
+    },
+    {
+      "key": "20251118_Integration_Team_Check-in_Louise_x_Michelle",
+      "reason": "Transcription failed"
+    },
+    {
+      "key": "20251126_141626_Integration Team Check-in  Louise x Alaiza-2025112",
+      "reason": "Transcription failed"
+    },
+    {
+      "key": "2025-11-19_Joel",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-20_Ken",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-24_Shan",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-24_Gen",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-25_Cherie",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-25_Zeska",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-26_Alaiza",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-26_Michelle",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-26_Mufti",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-27_Editha",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-27_Paul",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-11-27_Michelle",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-01_TJ",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-02_Jocelyn",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-03_Jeanvic",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-16_Martin",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-16_Sheila",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-16_Oscar",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-17_Wendy",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-17_Kim",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-17_Alaiza",
+      "reason": "No download URL"
+    },
+    {
+      "key": "2025-12-23_Gen",
+      "reason": "No download URL"
+    }
+  ]
+}

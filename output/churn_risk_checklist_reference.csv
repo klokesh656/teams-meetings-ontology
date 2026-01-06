@@ -1,0 +1,28 @@
+signal_id,signal_type,signal_description,severity,category
+VA001,va_risk,Non-responsive to integration team,high,communication
+VA002,va_risk,Task scope expanded without acknowledgment,high,workload
+VA003,va_risk,Mentioned feeling overwhelmed,medium,emotional
+VA004,va_risk,Casual mention of resignation/leaving,critical,retention
+VA005,va_risk,"Attendance issues (tardiness, absences)",medium,reliability
+VA006,va_risk,Technical/equipment problems unresolved,medium,technical
+VA007,va_risk,Not visible to client (lack of SOD/EOD),high,visibility
+VA008,va_risk,Over-reliance on AI without sense-checking,medium,performance
+VA009,va_risk,Requested compensation review,medium,compensation
+VA010,va_risk,First 30 days - low engagement,high,onboarding
+VA011,va_risk,MIA (Missing in Action) pattern,critical,reliability
+VA012,va_risk,Coaching sessions with no progress,medium,development
+CL001,client_risk,Slow/no response to OA communications,high,engagement
+CL002,client_risk,Unilateral task changes without discussion,medium,scope
+CL003,client_risk,Negative feedback delivered indirectly,high,communication
+CL004,client_risk,Hired directly from another agency,critical,competition
+CL005,client_risk,Internal layoffs or restructuring,high,stability
+CL006,client_risk,Surprise cancellation after positive feedback,critical,trust
+CL007,client_risk,Information hidden from client (felt blind-sided),high,transparency
+CL008,client_risk,Part-time client resistant to full-time,low,growth
+CL009,client_risk,Multiple VA replacements requested,high,satisfaction
+CL010,client_risk,No check-in for 30+ days,medium,engagement
+RH001,relationship_health,OA seen as vendor not partner,high,perception
+RH002,relationship_health,Feedback loop broken (no response to surveys),medium,communication
+RH003,relationship_health,VA told client about issue before OA,high,information_flow
+RH004,relationship_health,Client competing for VA time (second job),medium,loyalty
+RH005,relationship_health,Trust deficit - client verifying VA work,medium,trust

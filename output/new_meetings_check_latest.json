@@ -1,0 +1,643 @@
+{
+  "check_date": "2026-01-05T20:19:48.226189",
+  "last_check": "2026-01-02",
+  "new_calendar_meetings": [
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-27",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29ePAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ5NmE1MDYtZWQ2ZS00YTlhLTgwNjUtYjU1NThhYTYxMGIw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "luisa.porras96@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:34:47.6965026Z",
+      "modified": "2025-12-26T16:14:01.8674132Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-26",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eKAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmYzk2NjUtNDkyZi00YTliLTg5YzQtNGMxOTMxZjg3MmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "annejee05@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:14:01.0395349Z",
+      "modified": "2025-12-26T14:54:32.6577579Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Precious",
+      "date": "2026-01-20",
+      "time": "16:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NQHAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4M2NmNzMtNmRhYS00ODZmLThiZGEtZGU4MzE3ZjZmYWRj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "preciousgonzalesvaservices@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T17:23:44.3736235Z",
+      "modified": "2025-12-19T17:40:48.0935071Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-20",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eOAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ5NmE1MDYtZWQ2ZS00YTlhLTgwNjUtYjU1NThhYTYxMGIw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "luisa.porras96@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:34:33.0820611Z",
+      "modified": "2025-12-26T16:14:01.7692159Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2026-01-20",
+      "time": "13:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NQBAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWUzZTgxMmYtNWU4NC00MzI4LTliYmMtYjczNTBlNDJlMjFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "jjahzeelcamacho@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T16:56:44.2190305Z",
+      "modified": "2025-12-19T17:41:48.55034Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-19",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NQFAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmYzk2NjUtNDkyZi00YTliLTg5YzQtNGMxOTMxZjg3MmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "annejee05@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T17:00:08.1691929Z",
+      "modified": "2025-12-26T14:54:32.7539546Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Precious",
+      "date": "2026-01-13",
+      "time": "16:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXXAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4M2NmNzMtNmRhYS00ODZmLThiZGEtZGU4MzE3ZjZmYWRj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "preciousgonzalesvaservices@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-09T17:52:48.3255854Z",
+      "modified": "2025-12-19T17:40:49.2100853Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-13",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eNAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ5NmE1MDYtZWQ2ZS00YTlhLTgwNjUtYjU1NThhYTYxMGIw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "luisa.porras96@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:34:21.6178282Z",
+      "modified": "2025-12-26T16:14:01.6709691Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2026-01-13",
+      "time": "13:45:00",
+      "event_id": "AQMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2ADk0OWRlMWQ5ZjQARgAAA-WyZZ5VPLFCh4w4LAEczWkHAJO8NHb0vfNBsSV5vYw9Nn4AAAIBDQAAAJO8NHb0vfNBsSV5vYw9Nn4AAVTQ1AAAAQ==",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWUzZTgxMmYtNWU4NC00MzI4LTliYmMtYjczNTBlNDJlMjFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "jjahzeelcamacho@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T16:56:26.2922826Z",
+      "modified": "2025-12-19T17:41:48.7148897Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Marie",
+      "date": "2026-01-12",
+      "time": "16:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NQGAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTdkMzFiYTQtMGUyYi00MGY2LTk1NTEtMDA5MGNmZWEzOTdk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "automate.marie@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T17:19:28.0977819Z",
+      "modified": "2025-12-19T17:40:49.4198756Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-12",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NQEAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmYzk2NjUtNDkyZi00YTliLTg5YzQtNGMxOTMxZjg3MmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "annejee05@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T16:59:58.2711071Z",
+      "modified": "2025-12-26T14:54:32.8483431Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Mary",
+      "date": "2026-01-09",
+      "time": "18:00:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eRAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2ZmYjgxZDQtNDA5YS00NTcwLWFiMDgtMDg4MzMxOWUwNjgy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "Mary Ann",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:44:38.6139559Z",
+      "modified": "2025-12-26T14:54:32.4121089Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Kristelle",
+      "date": "2026-01-09",
+      "time": "13:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eUAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1MDYxMjEtMmQ2ZS00YjYyLTk3NGEtM2E0ZjI1OGU2ODVj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "Kim@HOA-Assist.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:51:12.6617535Z",
+      "modified": "2025-12-29T14:05:31.399894Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x [Jaz",
+      "date": "2026-01-09",
+      "time": "13:30:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eWAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2EyN2YyN2EtNWFiMi00ZTUzLTgwOWMtMTcyYTZjMTg2ZTcy%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "jazz.toyoken@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:58:30.2118822Z",
+      "modified": "2025-12-26T21:03:32.7668413Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Louise",
+      "date": "2026-01-08",
+      "time": "20:00:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eQAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODZiMmU3ODAtY2U2MC00YWRhLTgwYWYtNjE5Nzc1ZmQ1Y2Fl%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "louise@primepropertypm.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:41:54.4335414Z",
+      "modified": "2025-12-26T14:54:32.5627101Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Angela",
+      "date": "2026-01-08",
+      "time": "13:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eSAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzAxMGM1NjktNjg3Yy00MjVjLWIzOTQtMmEwM2U1NDBmMzRj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "angeladyanne@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:46:43.9886054Z",
+      "modified": "2025-12-26T14:54:32.3171314Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Charish",
+      "date": "2026-01-07",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eVAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmJkNGExZWItNmI0ZS00ZGUwLTgxZjQtZDY0ODBkNjZiMjMz%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "CharishA.OurAssistants@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:54:17.9352688Z",
+      "modified": "2025-12-26T14:54:32.0284355Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Raniliza",
+      "date": "2026-01-07",
+      "time": "13:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eLAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzQyOTJmYjQtMTczMS00YWY2LWI4ZGUtMTQ5ZGM0YjNlMDE5%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "ranilizairishclaireferrer@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:27:01.9564738Z",
+      "modified": "2025-12-26T14:54:33.3687485Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Precious",
+      "date": "2026-01-06",
+      "time": "16:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXYAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4M2NmNzMtNmRhYS00ODZmLThiZGEtZGU4MzE3ZjZmYWRj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "preciousgonzalesvaservices@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-09T17:52:55.2510917Z",
+      "modified": "2025-12-19T17:40:49.3168212Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Zeus",
+      "date": "2026-01-06",
+      "time": "16:30:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXfAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjYWUwMmYtOWEwZi00ZTk5LWJiNjEtYTcyOWJlNWMxNTE2%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "jesusjudeberlin@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-09T18:05:13.597177Z",
+      "modified": "2025-12-09T21:34:34.5041671Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-06",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eMAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ5NmE1MDYtZWQ2ZS00YTlhLTgwNjUtYjU1NThhYTYxMGIw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "luisa.porras96@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:33:15.9398418Z",
+      "modified": "2025-12-26T16:13:32.0773044Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Ross",
+      "date": "2026-01-06",
+      "time": "14:15:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFX29eTAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODQ2NDgzMDYtZThlNC00ZTFkLWIzYzEtYWUxMjI5MTY4NWI5%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "rossmangoba@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-26T13:48:42.1655685Z",
+      "modified": "2025-12-26T14:54:32.2047417Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2026-01-06",
+      "time": "13:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NP-AAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWUzZTgxMmYtNWU4NC00MzI4LTliYmMtYjczNTBlNDJlMjFj%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "jjahzeelcamacho@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T16:56:11.8037854Z",
+      "modified": "2025-12-19T17:41:48.8305056Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Katie G",
+      "date": "2026-01-05",
+      "time": "19:00:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFO_I5iAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2Q5MjFiZWUtMmU2NC00YWJhLThmOWYtZjFmOGQxY2EzNDg0%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "kathlgarcia24@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-12T15:25:25.305566Z",
+      "modified": "2025-12-26T21:49:31.9804281Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Julienne",
+      "date": "2026-01-05",
+      "time": "17:00:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFO_I5gAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDlmN2RlZGYtYjc0ZC00NWRiLWI4ODAtYWM3NTJkOGQwOTg1%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "Julienne Marie Guico",
+        "Julienne Marie Guico",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-12T15:20:36.3277837Z",
+      "modified": "2025-12-26T14:54:33.6254449Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Marie",
+      "date": "2026-01-05",
+      "time": "16:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXcAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTdkMzFiYTQtMGUyYi00MGY2LTk1NTEtMDA5MGNmZWEzOTdk%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "automate.marie@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-09T17:56:29.3270887Z",
+      "modified": "2025-12-11T17:55:14.6046036Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-05",
+      "time": "15:45:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFU0NQCAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmYzk2NjUtNDkyZi00YTliLTg5YzQtNGMxOTMxZjg3MmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%2281835016-79d5-4a15-91b1-c104e2cd9adb%22%7d",
+      "attendees": [
+        "annejee05@gmail.com",
+        "Shey  Geraldes"
+      ],
+      "created": "2025-12-19T16:59:31.2671671Z",
+      "modified": "2025-12-26T15:04:01.9381555Z",
+      "source": "calendar"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Hazel Joy",
+      "date": "2026-01-05",
+      "time": "13:30:00",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFO_I5jAAA=",
+      "is_online": true,
+      "join_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I1OTAwMzktZjlhZC00NDdlLWJkOTItZDAzMTA3YTYzYzcw%40thread.v2/0?context=%7b%22Tid%22%3a%22187b2af6-1bfb-490a-85dd-b720fe3d31bc%22%2c%22Oid%22%3a%22f4f82319-fa12-4c0c-8681-161c1633fa49%22%7d",
+      "attendees": [
+        "Shey  Geraldes",
+        "hazeljoypey1998@gmail.com",
+        "HR@Our-Assistants",
+        "Louise Alatraca"
+      ],
+      "created": "2025-12-12T15:26:13.9609404Z",
+      "modified": "2026-01-05T13:16:36.8458939Z",
+      "source": "calendar"
+    }
+  ],
+  "new_recordings": [],
+  "new_transcripts": [],
+  "summary": {
+    "calendar_meetings": 28,
+    "onedrive_recordings": 0,
+    "onedrive_transcripts": 0,
+    "local_recordings": 0,
+    "local_transcripts": 33,
+    "graph_transcripts": 0
+  },
+  "new_local_recordings": [],
+  "new_local_transcripts": [
+    {
+      "name": "20251125_160503_Integration Team Check-in  Shey x Kristelle-202511.vtt",
+      "path": "transcripts\\20251125_160503_Integration Team Check-in  Shey x Kristelle-202511.vtt",
+      "modified": "2026-01-02T02:59:26.731339",
+      "size": 7530
+    },
+    {
+      "name": "20251126_131254_Integration Team Check-in  Shey x Jamaica-20251127.vtt",
+      "path": "transcripts\\20251126_131254_Integration Team Check-in  Shey x Jamaica-20251127.vtt",
+      "modified": "2026-01-02T03:08:08.065164",
+      "size": 10755
+    },
+    {
+      "name": "20251126_133111_Integration Team Check-in  Shey x Jaz-20251127_003.vtt",
+      "path": "transcripts\\20251126_133111_Integration Team Check-in  Shey x Jaz-20251127_003.vtt",
+      "modified": "2026-01-02T03:11:14.725365",
+      "size": 3533
+    },
+    {
+      "name": "20251127_Integration_Team_Check-in_Louise_x_Paul.vtt",
+      "path": "transcripts\\20251127_Integration_Team_Check-in_Louise_x_Paul.vtt",
+      "modified": "2026-01-02T03:11:48.280880",
+      "size": 534
+    },
+    {
+      "name": "20251201_135018_Integration Team Check-in  Shey x Verah-20251202_0.vtt",
+      "path": "transcripts\\20251201_135018_Integration Team Check-in  Shey x Verah-20251202_0.vtt",
+      "modified": "2026-01-02T03:14:19.097873",
+      "size": 3815
+    },
+    {
+      "name": "20251201_154945_Integration Team Check-in  Shey x Abby-20251202_02.vtt",
+      "path": "transcripts\\20251201_154945_Integration Team Check-in  Shey x Abby-20251202_02.vtt",
+      "modified": "2026-01-02T03:17:09.736405",
+      "size": 3251
+    },
+    {
+      "name": "20251201_160928_Integration Team Check-in  Shey x yam-20251202_030.vtt",
+      "path": "transcripts\\20251201_160928_Integration Team Check-in  Shey x yam-20251202_030.vtt",
+      "modified": "2026-01-02T03:28:55.616838",
+      "size": 19284
+    },
+    {
+      "name": "20251202_134652_Integration Team Check-in  Shey x Ria-20251203_004.vtt",
+      "path": "transcripts\\20251202_134652_Integration Team Check-in  Shey x Ria-20251203_004.vtt",
+      "modified": "2026-01-02T03:33:16.316110",
+      "size": 6659
+    },
+    {
+      "name": "20251202_141906_Integration Team Check-in  Shey x Cookie-20251203_.vtt",
+      "path": "transcripts\\20251202_141906_Integration Team Check-in  Shey x Cookie-20251203_.vtt",
+      "modified": "2026-01-02T03:41:38.393209",
+      "size": 14267
+    },
+    {
+      "name": "20251202_163105_Integration Team Check-in  Shey x Rea-20251203_033.vtt",
+      "path": "transcripts\\20251202_163105_Integration Team Check-in  Shey x Rea-20251203_033.vtt",
+      "modified": "2026-01-02T03:48:20.858824",
+      "size": 6867
+    },
+    {
+      "name": "20251202_173052_Integration Team Check-in  Shey x Dianna-20251203_.vtt",
+      "path": "transcripts\\20251202_173052_Integration Team Check-in  Shey x Dianna-20251203_.vtt",
+      "modified": "2026-01-02T03:53:21.145587",
+      "size": 4627
+    },
+    {
+      "name": "20251202_180607_Integration Team Check-in  Shey x Dhoroty-20251203.vtt",
+      "path": "transcripts\\20251202_180607_Integration Team Check-in  Shey x Dhoroty-20251203.vtt",
+      "modified": "2026-01-02T03:54:00.293860",
+      "size": 429
+    },
+    {
+      "name": "20251202_183630_Integration Team Check-in  Shey x Arjay-20251203_0.vtt",
+      "path": "transcripts\\20251202_183630_Integration Team Check-in  Shey x Arjay-20251203_0.vtt",
+      "modified": "2026-01-02T04:05:09.766002",
+      "size": 12864
+    },
+    {
+      "name": "20251204_133037_Integration Team Check-in  Shey x Eli-20251205_003.vtt",
+      "path": "transcripts\\20251204_133037_Integration Team Check-in  Shey x Eli-20251205_003.vtt",
+      "modified": "2026-01-02T04:09:02.155642",
+      "size": 6161
+    },
+    {
+      "name": "20251204_141626_Integration Team Check-in  Shey x Stephanie-202512.vtt",
+      "path": "transcripts\\20251204_141626_Integration Team Check-in  Shey x Stephanie-202512.vtt",
+      "modified": "2026-01-02T04:13:01.533354",
+      "size": 5553
+    },
+    {
+      "name": "20251204_154716_Integration Team Check-in  Shey x Ann-20251205_024.vtt",
+      "path": "transcripts\\20251204_154716_Integration Team Check-in  Shey x Ann-20251205_024.vtt",
+      "modified": "2026-01-02T04:16:12.745299",
+      "size": 232
+    },
+    {
+      "name": "20251205_133551_Integration Team Check-in  Shey x Carla-20251206_0.vtt",
+      "path": "transcripts\\20251205_133551_Integration Team Check-in  Shey x Carla-20251206_0.vtt",
+      "modified": "2026-01-02T05:21:25.808440",
+      "size": 9337
+    },
+    {
+      "name": "20251205_135043_Integration Team Check-in  Shey x Divine-20251206_.vtt",
+      "path": "transcripts\\20251205_135043_Integration Team Check-in  Shey x Divine-20251206_.vtt",
+      "modified": "2026-01-02T05:24:53.927397",
+      "size": 5442
+    },
+    {
+      "name": "20251205_154535_Integration Team Check-in  Shey x Jep-20251206_024.vtt",
+      "path": "transcripts\\20251205_154535_Integration Team Check-in  Shey x Jep-20251206_024.vtt",
+      "modified": "2026-01-02T05:28:49.510906",
+      "size": 6272
+    },
+    {
+      "name": "20251209_141338_Integration Team Check-in  Shey x Natassha-2025121.vtt",
+      "path": "transcripts\\20251209_141338_Integration Team Check-in  Shey x Natassha-2025121.vtt",
+      "modified": "2026-01-02T15:33:43.942585",
+      "size": 13308
+    },
+    {
+      "name": "20251209_184909_Integration Team Check-in  Shey x Dhoroty-20251210.vtt",
+      "path": "transcripts\\20251209_184909_Integration Team Check-in  Shey x Dhoroty-20251210.vtt",
+      "modified": "2026-01-02T15:38:24.790724",
+      "size": 7193
+    },
+    {
+      "name": "20251210_135225_Integration Team Check-in  Shey x Karen-20251211_0.vtt",
+      "path": "transcripts\\20251210_135225_Integration Team Check-in  Shey x Karen-20251211_0.vtt",
+      "modified": "2026-01-02T15:43:13.754400",
+      "size": 7062
+    },
+    {
+      "name": "20251210_152103_Integration Team Check-in  Shey x Zeus-20251211_02.vtt",
+      "path": "transcripts\\20251210_152103_Integration Team Check-in  Shey x Zeus-20251211_02.vtt",
+      "modified": "2026-01-02T15:48:35.923577",
+      "size": 8923
+    },
+    {
+      "name": "20251210_154553_Integration Team Check-in  Shey x Abby-20251211_02.vtt",
+      "path": "transcripts\\20251210_154553_Integration Team Check-in  Shey x Abby-20251211_02.vtt",
+      "modified": "2026-01-02T15:54:42.346097",
+      "size": 535
+    },
+    {
+      "name": "20251210_162642_Integration Team Check-in  Shey x yam-20251211_032.vtt",
+      "path": "transcripts\\20251210_162642_Integration Team Check-in  Shey x yam-20251211_032.vtt",
+      "modified": "2026-01-02T16:05:05.760035",
+      "size": 16515
+    },
+    {
+      "name": "20251210_172944_Integration Team Check-in  Shey x Dianna-20251211_.vtt",
+      "path": "transcripts\\20251210_172944_Integration Team Check-in  Shey x Dianna-20251211_.vtt",
+      "modified": "2026-01-02T16:05:12.180210",
+      "size": 48
+    },
+    {
+      "name": "20251211_134434_Integration Team Check-in  Shey x Sancha-20251212_.vtt",
+      "path": "transcripts\\20251211_134434_Integration Team Check-in  Shey x Sancha-20251212_.vtt",
+      "modified": "2026-01-02T16:05:18.343438",
+      "size": 48
+    },
+    {
+      "name": "20251211_141247_Integration Team Check-in  Shey x Ivana-20251212_0.vtt",
+      "path": "transcripts\\20251211_141247_Integration Team Check-in  Shey x Ivana-20251212_0.vtt",
+      "modified": "2026-01-02T16:06:28.929758",
+      "size": 451
+    },
+    {
+      "name": "20251211_154620_Integration Team Check-in  Shey x Catherine-202512.vtt",
+      "path": "transcripts\\20251211_154620_Integration Team Check-in  Shey x Catherine-202512.vtt",
+      "modified": "2026-01-02T16:14:46.428573",
+      "size": 13315
+    },
+    {
+      "name": "20251212_133446_Integration Team Check-in  Shey x Carla-20251213_0.vtt",
+      "path": "transcripts\\20251212_133446_Integration Team Check-in  Shey x Carla-20251213_0.vtt",
+      "modified": "2026-01-02T16:14:54.844661",
+      "size": 48
+    },
+    {
+      "name": "20251212_134517_Integration Team Check-in  Shey x JL-20251213_0045.vtt",
+      "path": "transcripts\\20251212_134517_Integration Team Check-in  Shey x JL-20251213_0045.vtt",
+      "modified": "2026-01-02T16:15:17.607447",
+      "size": 48
+    },
+    {
+      "name": "20251215_164739_Integration Team Check-in  Shey x Marie-20251216_0.vtt",
+      "path": "transcripts\\20251215_164739_Integration Team Check-in  Shey x Marie-20251216_0.vtt",
+      "modified": "2026-01-02T16:15:26.275168",
+      "size": 48
+    },
+    {
+      "name": "20251216_190405_Integration Team Check-in  Shey x Dhoroty-20251217.vtt",
+      "path": "transcripts\\20251216_190405_Integration Team Check-in  Shey x Dhoroty-20251217.vtt",
+      "modified": "2026-01-02T16:21:38.908876",
+      "size": 5459
+    }
+  ],
+  "online_meeting_transcripts": [],
+  "need_download": [],
+  "need_transcription": []
+}

@@ -1,0 +1,15 @@
+KPI,Value,Category,Trend,Target,Status
+Total Check-ins Analyzed,176,Volume,↑,-,INFO
+Unique VAs Monitored,82,Coverage,→,-,INFO
+Unique Clients,26,Coverage,→,-,INFO
+Critical Risk Cases,8,Risk,↓,0,CRITICAL
+High Risk Cases,33,Risk,↓,< 5,WARNING
+Medium Risk Cases,108,Risk,→,-,MONITOR
+Low Risk Cases,27,Risk,↑,> 50%,INFO
+Total Signals Detected,693,Analysis,→,-,INFO
+Total Suggestions Generated,674,Action,→,-,INFO
+Escalations Required,120,Urgency,↓,0,CRITICAL
+Critical Risk Rate (%),4.5,Risk,↓,< 5%,OK
+High Risk Rate (%),18.8,Risk,↓,< 15%,WARNING
+Avg Signals per Check-in,3.9,Quality,→,-,INFO
+Report Generated,2026-01-07 01:57,Meta,-,-,INFO

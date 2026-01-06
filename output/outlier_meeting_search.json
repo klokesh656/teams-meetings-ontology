@@ -1,0 +1,759 @@
+{
+  "search_date": "2026-01-05T22:49:18.917066",
+  "outlier_meetings": [
+    {
+      "subject": "Performance Discussion | MJ X GoldKap",
+      "date": "2026-03-06",
+      "time": "15:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "marlyny.ourassistants@gmail.com",
+          "email": "marlyny.ourassistants@gmail.com"
+        },
+        {
+          "name": "wgoldman@goldkapconsulting.com",
+          "email": "wgoldman@goldkapconsulting.com"
+        },
+        {
+          "name": "emcclarnon@goldkapconsulting.com",
+          "email": "emcclarnon@goldkapconsulting.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXSAAA="
+    },
+    {
+      "subject": "Performance Discussion | Marie x Embark",
+      "date": "2026-03-05",
+      "time": "16:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "chapin@embarkpm.com",
+          "email": "chapin@embarkpm.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Isaac",
+          "email": "isaac.livne@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXiAAA="
+    },
+    {
+      "subject": "Performance Discussion | MJ X GoldKap",
+      "date": "2026-02-06",
+      "time": "15:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "marlyny.ourassistants@gmail.com",
+          "email": "marlyny.ourassistants@gmail.com"
+        },
+        {
+          "name": "wgoldman@goldkapconsulting.com",
+          "email": "wgoldman@goldkapconsulting.com"
+        },
+        {
+          "name": "emcclarnon@goldkapconsulting.com",
+          "email": "emcclarnon@goldkapconsulting.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXRAAA="
+    },
+    {
+      "subject": "Performance Discussion | Marie x Embark",
+      "date": "2026-02-05",
+      "time": "16:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "chapin@embarkpm.com",
+          "email": "chapin@embarkpm.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Isaac",
+          "email": "isaac.livne@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXhAAA="
+    },
+    {
+      "subject": "Performance Discussion | MJ X GoldKap",
+      "date": "2026-01-09",
+      "time": "15:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "marlyny.ourassistants@gmail.com",
+          "email": "marlyny.ourassistants@gmail.com"
+        },
+        {
+          "name": "wgoldman@goldkapconsulting.com",
+          "email": "wgoldman@goldkapconsulting.com"
+        },
+        {
+          "name": "emcclarnon@goldkapconsulting.com",
+          "email": "emcclarnon@goldkapconsulting.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXQAAA="
+    },
+    {
+      "subject": "Performance Discussion | Marie x Embark",
+      "date": "2026-01-08",
+      "time": "16:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "chapin@embarkpm.com",
+          "email": "chapin@embarkpm.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Isaac",
+          "email": "isaac.livne@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFMiLXgAAA="
+    },
+    {
+      "subject": "Performance Discussion with Dmitry (Rea)",
+      "date": "2025-12-23",
+      "time": "16:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "dmitry@brynson.com",
+          "email": "dmitry@brynson.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFTJvVqAAA="
+    },
+    {
+      "subject": "OurAssistants x MMG || Rudie Performance Discussion",
+      "date": "2025-12-22",
+      "time": "16:00:00",
+      "organizer": {
+        "name": "Crissy Santarin",
+        "email": "crissy.santarin@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "HR@Our-Assistants",
+          "email": "hr@our-assistants.com"
+        },
+        {
+          "name": "Isaac",
+          "email": "isaac.livne@our-assistants.com"
+        },
+        {
+          "name": "Daryll Chatman",
+          "email": "dchatman@mmgmgt.com"
+        },
+        {
+          "name": "Morgan Bowers",
+          "email": "mbowers@mmgmgt.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFTJvVnAAA="
+    },
+    {
+      "subject": "Performance Discussion with Chapin (Marie)",
+      "date": "2025-12-19",
+      "time": "19:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "chapin@embarkpm.com",
+          "email": "chapin@embarkpm.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFTJvVmAAA="
+    },
+    {
+      "subject": "Performance Discussion with Cesar x PEM",
+      "date": "2025-12-04",
+      "time": "19:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "Cesar Landa",
+          "email": "cesar@pacific-edge.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Isaac",
+          "email": "isaac.livne@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFJQv8zAAA="
+    },
+    {
+      "subject": "Performance Discussion x Zyra",
+      "date": "2025-11-11",
+      "time": "19:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "Joyce Tung",
+          "email": "joyce.t@rpm-assurance.com"
+        },
+        {
+          "name": "Nicole Miller",
+          "email": "nicole.m@rpm-assurance.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAE6WNYtAAA="
+    },
+    {
+      "subject": "Canceled: review Zyra’s performance",
+      "date": "2025-11-10",
+      "time": "08:07:02",
+      "organizer": {
+        "name": "Joyce Tung",
+        "email": "joyce.t@rpm-assurance.com"
+      },
+      "attendees": [
+        {
+          "name": "Joyce Tung",
+          "email": "joyce.t@rpm-assurance.com"
+        },
+        {
+          "name": "HR@Our-Assistants",
+          "email": "hr@our-assistants.com"
+        },
+        {
+          "name": "Nicole Miller",
+          "email": "nicole.m@rpm-assurance.com"
+        }
+      ],
+      "is_online": false,
+      "location": "",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAE22LjQAAA="
+    },
+    {
+      "subject": "EOW Discussion - Atlas x ECP",
+      "date": "2025-11-07",
+      "time": "21:20:00",
+      "organizer": {
+        "name": "Louise Alatraca",
+        "email": "Louise.Alatraca@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "HR@Our-Assistants",
+          "email": "hr@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAE22LjUAAA="
+    },
+    {
+      "subject": "Outlier Discussion ",
+      "date": "2025-11-07",
+      "time": "16:30:00",
+      "organizer": {
+        "name": "Crissy Santarin",
+        "email": "crissy.santarin@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        },
+        {
+          "name": "Isaac",
+          "email": "isaac.livne@our-assistants.com"
+        },
+        {
+          "name": "HR@Our-Assistants",
+          "email": "hr@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAE22LjJAAA="
+    },
+    {
+      "subject": "Performance Discussion | Kyle X GoldKap",
+      "date": "2025-11-07",
+      "time": "14:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "kylem.ourassistants@gmail.com",
+          "email": "kylem.ourassistants@gmail.com"
+        },
+        {
+          "name": "wgoldman@goldkapconsulting.com",
+          "email": "wgoldman@goldkapconsulting.com"
+        },
+        {
+          "name": "KC argente",
+          "email": "KC.argente@our-assistants.com"
+        },
+        {
+          "name": "LouiseA.ourassistants@gmail.com",
+          "email": "louisea.ourassistants@gmail.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Integration Admin",
+          "email": "IntegrationTeam@our-assistants.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "Louise.Alatraca@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFTJvVEAAA="
+    },
+    {
+      "subject": "OurAssistants //Readiness Check x Cherie (Performance Property Management)",
+      "date": "2025-11-03",
+      "time": "12:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Shey  Geraldes",
+          "email": "Shey.geraldes@our-assistants.com"
+        },
+        {
+          "name": "Louise Alatraca",
+          "email": "louisea.ourassistants@gmail.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAFTJvUfAAA="
+    },
+    {
+      "subject": "OurAssistants ll RPM 30/60/90 on boarding discussion ",
+      "date": "2025-10-07",
+      "time": "16:30:00",
+      "organizer": {
+        "name": "KC argente",
+        "email": "KC.argente@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "KC argente",
+          "email": "KC.argente@our-assistants.com"
+        },
+        {
+          "name": "HR@Our-Assistants",
+          "email": "hr@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAEjFjV0AAA="
+    },
+    {
+      "subject": "Performance Discussion | Kyle X GoldKap",
+      "date": "2025-10-03",
+      "time": "14:00:00",
+      "organizer": {
+        "name": "HR@Our-Assistants",
+        "email": "hr@our-assistants.com"
+      },
+      "attendees": [
+        {
+          "name": "kylem.ourassistants@gmail.com",
+          "email": "kylem.ourassistants@gmail.com"
+        },
+        {
+          "name": "wgoldman@goldkapconsulting.com",
+          "email": "wgoldman@goldkapconsulting.com"
+        },
+        {
+          "name": "KC argente",
+          "email": "KC.argente@our-assistants.com"
+        },
+        {
+          "name": "LouiseA.ourassistants@gmail.com",
+          "email": "louisea.ourassistants@gmail.com"
+        },
+        {
+          "name": "Crissy Santarin",
+          "email": "crissy.santarin@our-assistants.com"
+        },
+        {
+          "name": "Integration Admin",
+          "email": "IntegrationTeam@our-assistants.com"
+        }
+      ],
+      "is_online": true,
+      "location": "Microsoft Teams Meeting",
+      "event_id": "AAMkADYzYTU5ODlmLWFjNmItNGEzNi1iNTNhLTY2OTQ5ZGUxZDlmNABGAAAAAAD1smWeVTyxQoeMOCwBHM1pBwCTvDR29L3zQbEleb2MPTZ_AAAAAAENAACTvDR29L3zQbEleb2MPTZ_AAD95okYAAA="
+    }
+  ],
+  "meeting_sample": [
+    {
+      "subject": "Performance Discussion | MJ X GoldKap",
+      "date": "2026-03-06"
+    },
+    {
+      "subject": "Performance Discussion | Marie x Embark",
+      "date": "2026-03-05"
+    },
+    {
+      "subject": "Performance Discussion | MJ X GoldKap",
+      "date": "2026-02-06"
+    },
+    {
+      "subject": "Performance Discussion | Marie x Embark",
+      "date": "2026-02-05"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-27"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-26"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Precious",
+      "date": "2026-01-20"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-20"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2026-01-20"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-19"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Precious",
+      "date": "2026-01-13"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-13"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2026-01-13"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Marie",
+      "date": "2026-01-12"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-12"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Mary",
+      "date": "2026-01-09"
+    },
+    {
+      "subject": "Performance Discussion | MJ X GoldKap",
+      "date": "2026-01-09"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Kristelle",
+      "date": "2026-01-09"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x [Jaz",
+      "date": "2026-01-09"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Louise",
+      "date": "2026-01-08"
+    },
+    {
+      "subject": "Performance Discussion | Marie x Embark",
+      "date": "2026-01-08"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Angela",
+      "date": "2026-01-08"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Charish",
+      "date": "2026-01-07"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Raniliza",
+      "date": "2026-01-07"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Katie G",
+      "date": "2026-01-06"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Precious",
+      "date": "2026-01-06"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Zeus",
+      "date": "2026-01-06"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Luisa",
+      "date": "2026-01-06"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Ross",
+      "date": "2026-01-06"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2026-01-06"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Julienne",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Marie",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jee",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "OurAssistants x Gassen || Meet and Greet (Milbert & Cirilo)",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "OurAssistants x Gassen || Meet and Greet (Milbert & Cirilo)",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Hazel Joy",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "OurAssistants || Readiness Check Milbert & Cirilo x Gassen",
+      "date": "2026-01-05"
+    },
+    {
+      "subject": "Check In_Louise_Rudie_MMG",
+      "date": "2026-01-01"
+    },
+    {
+      "subject": "Canceled: Check In_Louise_Alaiza_Legacy",
+      "date": "2025-12-31"
+    },
+    {
+      "subject": "Check In_Louise_Wendy_TYA",
+      "date": "2025-12-31"
+    },
+    {
+      "subject": "Check In_Louise_Rudie_MMG",
+      "date": "2025-12-31"
+    },
+    {
+      "subject": "HNY! Crissy is OOO - Back on 01/05",
+      "date": "2025-12-31"
+    },
+    {
+      "subject": "Check In_Louise_Rudie_MMG",
+      "date": "2025-12-30"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Merlinda",
+      "date": "2025-12-30"
+    },
+    {
+      "subject": "Canceled: Integration Team Check-in || Louise x Ching",
+      "date": "2025-12-30"
+    },
+    {
+      "subject": "OOO: Crissy is out - Be back on the 29th",
+      "date": "2025-12-24"
+    },
+    {
+      "subject": "Performance Discussion with Dmitry (Rea)",
+      "date": "2025-12-23"
+    },
+    {
+      "subject": "OurAssistants || GTM Orientation Milbert & Cirilo x Gassen",
+      "date": "2025-12-23"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Jhoana",
+      "date": "2025-12-23"
+    },
+    {
+      "subject": "Integration Team Check-in || Shey x Trisha",
+      "date": "2025-12-23"
+    }
+  ]
+}

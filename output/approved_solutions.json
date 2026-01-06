@@ -1,0 +1,20 @@
+{
+  "solutions": [
+    {
+      "id": "b1bd0d01e1d1",
+      "timestamp": "2026-01-07T00:23:02.343169",
+      "issue_context": "Jep at Cesar (B.M.): Surprise cancellation and lack of transparency from client",
+      "ai_suggestion": "Conduct a post-mortem review of the last 60 days of client communications to identify missed signals or warning signs. Schedule a transparency call with the client to clarify expectations for future offboarding and communication protocols.",
+      "approval_status": "approved",
+      "stakeholder_notes": "Conduct a post-mortem review of the last 60 days of client communications to identify missed signals or warning signs. Schedule a transparency call with the client to clarify expectations for future offboarding and communication protocols.",
+      "final_solution": "Conduct a post-mortem review of the last 60 days of client communications to identify missed signals or warning signs. Schedule a transparency call with the client to clarify expectations for future offboarding and communication protocols."
+    }
+  ],
+  "learning_examples": [
+    {
+      "issue": "Jep at Cesar (B.M.): Surprise cancellation and lack of transparency from client",
+      "solution": "Conduct a post-mortem review of the last 60 days of client communications to identify missed signals or warning signs. Schedule a transparency call with the client to clarify expectations for future offboarding and communication protocols.",
+      "approved_date": "2026-01-07T00:23:02.343169"
+    }
+  ]
+}
