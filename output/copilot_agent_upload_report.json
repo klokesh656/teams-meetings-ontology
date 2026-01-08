@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-01-08T20:53:04.233576",
+  "index_name": "copilot-agent-comprehensive",
+  "endpoint": "https://aisearch-lokesg-2.search.windows.net",
+  "schema_file": "output\\copilot_agent_index_schema.json",
+  "data_source_file": "output\\copilot_agent_data_source.json",
+  "statistics": {
+    "meetings": 138,
+    "churn_analyses": 7,
+    "va_status_records": 33,
+    "client_status_records": 22,
+    "churn_risks": 25,
+    "suggestions": 691,
+    "approved_solutions": 1,
+    "va_checkin_analyses": 176
+  },
+  "total_documents": 1093
+}

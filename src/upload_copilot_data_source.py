@@ -45,81 +45,71 @@ def create_index_if_not_exists():
         from azure.search.documents.indexes import SearchIndexClient
         from azure.search.documents.indexes.models import (
             SearchIndex, SearchField, SearchFieldDataType,
-            SimpleField, SearchableField, ComplexField,
-            VectorSearch, HnswAlgorithmConfiguration, VectorSearchProfile,
+            SimpleField, SearchableField,
             SemanticConfiguration, SemanticField, SemanticPrioritizedFields,
-            SemanticSearch, ScoringProfile, TextWeights,
-            FreshnessScoringFunction, FreshnessScoringParameters,
-            MagnitudeScoringFunction, MagnitudeScoringParameters,
-            ScoringFunctionInterpolation
+            SemanticSearch
         )
-        
-        # Load schema
-        with open(INDEX_SCHEMA_FILE, 'r', encoding='utf-8') as f:
-            schema = json.load(f)
         
         # Create client
         credential = AzureKeyCredential(AZURE_SEARCH_KEY)
         index_client = SearchIndexClient(endpoint=AZURE_SEARCH_ENDPOINT, credential=credential)
         
-        # Build fields from schema
-        fields = []
-        for field_def in schema['fields']:
-            field_name = field_def['name']
-            field_type = field_def['type']
+        # Define fields explicitly for proper type handling
+        fields = [
+            # Key field
+            SimpleField(name="id", type=SearchFieldDataType.String, key=True, filterable=True),
             
-            # Skip vector fields for now (requires special handling)
-            if field_type == 'Collection(Edm.Single)':
-                continue
+            # Simple string fields (filterable/facetable)
+            SimpleField(name="document_type", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SimpleField(name="entity_type", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SimpleField(name="risk_level", type=SearchFieldDataType.String, filterable=True, facetable=True, sortable=True),
+            SimpleField(name="urgency", type=SearchFieldDataType.String, filterable=True, facetable=True, sortable=True),
+            SimpleField(name="status", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SimpleField(name="health_status", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SimpleField(name="suggestion_category", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SimpleField(name="meeting_type", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SimpleField(name="date_string", type=SearchFieldDataType.String, filterable=True, sortable=True),
+            SimpleField(name="transcript_file", type=SearchFieldDataType.String, filterable=True),
+            SimpleField(name="source_file", type=SearchFieldDataType.String, filterable=True),
+            SimpleField(name="blob_url", type=SearchFieldDataType.String),
+            SimpleField(name="reviewed_by", type=SearchFieldDataType.String, filterable=True, facetable=True),
             
-            if field_type == 'Collection(Edm.String)':
-                fields.append(SearchableField(
-                    name=field_name,
-                    type=SearchFieldDataType.Collection(SearchFieldDataType.String),
-                    filterable=field_def.get('filterable', False),
-                    facetable=field_def.get('facetable', False)
-                ))
-            elif field_type == 'Edm.String':
-                if field_def.get('key', False):
-                    fields.append(SimpleField(
-                        name=field_name,
-                        type=SearchFieldDataType.String,
-                        key=True,
-                        filterable=True
-                    ))
-                elif field_def.get('searchable', True):
-                    fields.append(SearchableField(
-                        name=field_name,
-                        type=SearchFieldDataType.String,
-                        filterable=field_def.get('filterable', False),
-                        sortable=field_def.get('sortable', False),
-                        facetable=field_def.get('facetable', False),
-                        analyzer_name=field_def.get('analyzer', 'en.microsoft')
-                    ))
-                else:
-                    fields.append(SimpleField(
-                        name=field_name,
-                        type=SearchFieldDataType.String,
-                        filterable=field_def.get('filterable', False),
-                        sortable=field_def.get('sortable', False),
-                        facetable=field_def.get('facetable', False)
-                    ))
-            elif field_type == 'Edm.DateTimeOffset':
-                fields.append(SimpleField(
-                    name=field_name,
-                    type=SearchFieldDataType.DateTimeOffset,
-                    filterable=field_def.get('filterable', True),
-                    sortable=field_def.get('sortable', True),
-                    facetable=field_def.get('facetable', False)
-                ))
-            elif field_type == 'Edm.Int32':
-                fields.append(SimpleField(
-                    name=field_name,
-                    type=SearchFieldDataType.Int32,
-                    filterable=field_def.get('filterable', True),
-                    sortable=field_def.get('sortable', True),
-                    facetable=field_def.get('facetable', False)
-                ))
+            # Searchable string fields
+            SearchableField(name="title", type=SearchFieldDataType.String, filterable=True, sortable=True, analyzer_name="en.microsoft"),
+            SearchableField(name="content", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="summary", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="va_name", type=SearchFieldDataType.String, filterable=True, facetable=True, sortable=True),
+            SearchableField(name="client_name", type=SearchFieldDataType.String, filterable=True, facetable=True, sortable=True),
+            SearchableField(name="organizer", type=SearchFieldDataType.String, filterable=True, facetable=True),
+            SearchableField(name="issues", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="key_concerns", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="key_positives", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="actions_taken", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="recommended_action", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="rationale", type=SearchFieldDataType.String, analyzer_name="en.microsoft"),
+            SearchableField(name="stakeholder_notes", type=SearchFieldDataType.String),
+            
+            # Collection (array) fields - use SearchField directly for proper Collection type
+            SearchField(name="participants", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True, filterable=True, facetable=True),
+            SearchField(name="risk_signals", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True, filterable=True, facetable=True),
+            SearchField(name="events_detected", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True, filterable=True, facetable=True),
+            SearchField(name="action_items", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True),
+            SearchField(name="suggestions", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True),
+            SearchField(name="key_insights", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True),
+            SearchField(name="best_practices", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True),
+            SearchField(name="kpis_mentioned", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True, filterable=True, facetable=True),
+            SearchField(name="tags", type=SearchFieldDataType.Collection(SearchFieldDataType.String), searchable=True, filterable=True, facetable=True),
+            
+            # Numeric fields
+            SimpleField(name="risk_score", type=SearchFieldDataType.Int32, filterable=True, sortable=True, facetable=True),
+            SimpleField(name="sentiment_score", type=SearchFieldDataType.Int32, filterable=True, sortable=True, facetable=True),
+            SimpleField(name="opportunity_score", type=SearchFieldDataType.Int32, filterable=True, sortable=True, facetable=True),
+            
+            # Date fields
+            SimpleField(name="date", type=SearchFieldDataType.DateTimeOffset, filterable=True, sortable=True, facetable=True),
+            SimpleField(name="created_at", type=SearchFieldDataType.DateTimeOffset, filterable=True, sortable=True),
+            SimpleField(name="updated_at", type=SearchFieldDataType.DateTimeOffset, filterable=True, sortable=True),
+        ]
         
         # Create semantic configuration
         semantic_config = SemanticConfiguration(
@@ -158,6 +148,8 @@ def create_index_if_not_exists():
         return False
     except Exception as e:
         print(f"❌ Error creating index: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 
@@ -188,20 +180,82 @@ def upload_documents():
         batch_size = 100
         total_uploaded = 0
         
+        # Fields that should be collections (arrays)
+        collection_fields = {
+            'participants', 'risk_signals', 'events_detected', 'action_items',
+            'suggestions', 'key_insights', 'best_practices', 'kpis_mentioned', 'tags'
+        }
+        
+        # Fields that should be strings (not arrays)
+        string_fields = {
+            'id', 'document_type', 'entity_type', 'title', 'content', 'summary',
+            'va_name', 'client_name', 'organizer', 'date_string', 'risk_level',
+            'issues', 'key_concerns', 'key_positives', 'actions_taken',
+            'suggestion_category', 'urgency', 'status', 'health_status',
+            'recommended_action', 'rationale', 'meeting_type', 'transcript_file',
+            'source_file', 'blob_url', 'reviewed_by', 'stakeholder_notes'
+        }
+        
+        # DateTime fields that need proper ISO 8601 format with Z suffix
+        datetime_fields = {'date', 'created_at', 'updated_at'}
+        
+        def fix_datetime(value):
+            """Convert datetime to proper ISO 8601 format with Z suffix for Azure Search."""
+            if not value:
+                return None
+            if isinstance(value, str):
+                # Remove any existing timezone info and add Z
+                if value.endswith('Z'):
+                    return value
+                # Handle formats like '2026-01-05T23:22:11.838381'
+                if 'T' in value:
+                    # Remove microseconds beyond 7 digits (Azure limit) and add Z
+                    parts = value.split('.')
+                    if len(parts) == 2:
+                        # Take first 7 digits of microseconds max
+                        micros = parts[1][:7] if len(parts[1]) > 7 else parts[1]
+                        return f"{parts[0]}.{micros}Z"
+                    return f"{value}Z"
+                return value
+            return str(value)
+        
         for i in range(0, len(documents), batch_size):
             batch = documents[i:i + batch_size]
             
-            # Clean documents for upload (remove None values and empty lists)
+            # Clean documents for upload
             cleaned_batch = []
             for doc in batch:
                 cleaned_doc = {}
                 for key, value in doc.items():
-                    if value is not None:
-                        if isinstance(value, list) and len(value) == 0:
-                            continue
-                        if isinstance(value, str) and value == '':
-                            continue
+                    if value is None:
+                        continue
+                    if isinstance(value, list) and len(value) == 0:
+                        continue
+                    if isinstance(value, str) and value == '':
+                        continue
+                    
+                    # Convert fields to proper types
+                    if key in collection_fields:
+                        # Ensure it's a list
+                        if isinstance(value, str):
+                            cleaned_doc[key] = [value] if value else []
+                        elif isinstance(value, list):
+                            cleaned_doc[key] = [str(v) for v in value if v]
+                        else:
+                            cleaned_doc[key] = [str(value)]
+                    elif key in datetime_fields:
+                        # Fix datetime format for Azure Search
+                        cleaned_doc[key] = fix_datetime(value)
+                    elif key in string_fields:
+                        # Ensure it's a string
+                        if isinstance(value, list):
+                            cleaned_doc[key] = ', '.join(str(v) for v in value if v)
+                        else:
+                            cleaned_doc[key] = str(value)
+                    else:
+                        # Keep as is (dates, numbers)
                         cleaned_doc[key] = value
+                        
                 cleaned_batch.append(cleaned_doc)
             
             try:
@@ -209,8 +263,19 @@ def upload_documents():
                 succeeded = sum(1 for r in result if r.succeeded)
                 total_uploaded += succeeded
                 print(f"  Batch {i//batch_size + 1}: {succeeded}/{len(batch)} documents uploaded")
+                
+                # Show errors for failed documents
+                for r in result:
+                    if not r.succeeded:
+                        print(f"    Doc {r.key}: {r.error_message}")
+                        break  # Only show first error
             except Exception as e:
                 print(f"  Batch {i//batch_size + 1}: Error - {e}")
+                # Debug: print first document structure
+                if cleaned_batch:
+                    print(f"    Sample doc keys: {list(cleaned_batch[0].keys())}")
+                    for k, v in cleaned_batch[0].items():
+                        print(f"      {k}: {type(v).__name__} = {str(v)[:50]}...")
         
         print(f"\n✅ Total documents uploaded: {total_uploaded}/{len(documents)}")
         return True
