@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AZURE_TENANT_ID": "187b2af6-1bfb-490a-85dd-b720fe3d31bc",
+    "AZURE_CLIENT_ID": "7b98108a-a799-45c1-aad6-93af90c1134c",
+    "AZURE_CLIENT_SECRET": "YOUR_CLIENT_SECRET_HERE",
+    "HR_USER_ID": "81835016-79d5-4a15-91b1-c104e2cd9adb",
+    "AZURE_STORAGE_CONNECTION_STRING": "YOUR_STORAGE_CONNECTION_STRING",
+    "STORAGE_ACCOUNT": "aidevelopement",
+    "TRANSCRIPT_CONTAINER": "transcripts",
+    "OUTPUT_CONTAINER": "pipeline-outputs",
+    "AZURE_OPENAI_ENDPOINT": "https://foundary-1-lokesh.cognitiveservices.azure.com/",
+    "AZURE_OPENAI_KEY": "YOUR_OPENAI_KEY_HERE",
+    "AZURE_OPENAI_DEPLOYMENT": "gpt-4.1",
+    "DAYS_TO_LOOK_BACK": "7"
+  }
+}

@@ -8,19 +8,166 @@ Outputs:
 3. critical_alerts.csv - Critical/High risk cases for immediate stakeholder action
 4. va_signals_detail.csv - Detailed signal data for deep analysis
 5. stakeholder_review.csv - Formatted for email notifications via Power Automate
+6. client_feedback_form.xlsx - Excel file with table for Power Automate
+7. coach_performance_summary.csv - Coach/HR performance metrics
 """
 
 import json
 import csv
 import os
+import hashlib
 from datetime import datetime
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Azure Storage Configuration
+STORAGE_CONNECTION_STRING = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
+OUTPUT_CONTAINER = "pipeline-outputs"
+
+# SharePoint Configuration - BT Group plc site
+SHAREPOINT_SITE_ID = os.getenv('SHAREPOINT_SITE_ID', 'bt2685218p1.sharepoint.com,8470aef2-afc9-4665-8730-e63c87b0ebac,66af7ccb-d9d6-41da-b647-1c62bc4fd46e')
+SHAREPOINT_DRIVE_ID = os.getenv('SHAREPOINT_DRIVE_ID', 'b!8q5whMmvZUaHMOY8h7DrrMt8r2bW2dpBtkccYrxP1G6UufIavqAUT4u5gAnnEB1q')
+SHAREPOINT_FOLDER = os.getenv('SHAREPOINT_FOLDER', 'Client Feedback')
+
+# Azure AD for Graph API (SharePoint)
+TENANT_ID = os.getenv('AZURE_TENANT_ID')
+CLIENT_ID = os.getenv('AZURE_CLIENT_ID')
+CLIENT_SECRET = os.getenv('AZURE_CLIENT_SECRET')
 
 # Paths
 OUTPUT_DIR = Path(__file__).parent.parent / "output"
 BATCH_RESULTS = OUTPUT_DIR / "batch_analysis_results_20260107_011511.json"
 ANALYSIS_HISTORY = OUTPUT_DIR / "checkin_analysis_history.json"
 PENDING_SUGGESTIONS = OUTPUT_DIR / "pending_suggestions.json"
+
+
+def get_blob_service():
+    """Get Azure Blob Storage service client."""
+    from azure.storage.blob import BlobServiceClient
+    return BlobServiceClient.from_connection_string(STORAGE_CONNECTION_STRING)
+
+
+def upload_to_azure_blob(filepath, blob_name=None, container=OUTPUT_CONTAINER):
+    """Upload file to Azure Blob Storage."""
+    if not STORAGE_CONNECTION_STRING:
+        print(f"   ⚠️ Skipping Azure upload (no connection string)")
+        return None
+    
+    try:
+        blob_service = get_blob_service()
+        container_client = blob_service.get_container_client(container)
+        
+        # Create container if it doesn't exist
+        try:
+            container_client.create_container()
+        except:
+            pass
+        
+        blob_name = blob_name or filepath.name
+        blob_path = f"csv/{datetime.now().strftime('%Y%m%d')}/{blob_name}"
+        blob_client = container_client.get_blob_client(blob_path)
+        
+        with open(filepath, 'rb') as f:
+            blob_client.upload_blob(f, overwrite=True)
+        
+        # Also upload to 'latest' folder
+        latest_blob = container_client.get_blob_client(f"latest/{blob_name}")
+        with open(filepath, 'rb') as f:
+            latest_blob.upload_blob(f, overwrite=True)
+        
+        print(f"   ☁️ Uploaded to Azure: {blob_path}")
+        return blob_path
+    except Exception as e:
+        print(f"   ⚠️ Azure upload failed: {e}")
+        return None
+
+
+def upload_to_sharepoint(filepath, folder_path=None):
+    """Upload file to SharePoint using Microsoft Graph API with app permissions.
+    
+    Requires SharePoint site ID and drive ID to be configured for app-only auth.
+    """
+    if not all([TENANT_ID, CLIENT_ID, CLIENT_SECRET]):
+        print(f"   ⚠️ Skipping SharePoint upload (missing credentials)")
+        return None
+    
+    if not SHAREPOINT_SITE_ID:
+        print(f"   ⚠️ Skipping SharePoint upload (SHAREPOINT_SITE_ID not configured)")
+        print(f"   💡 To enable SharePoint upload, add to .env:")
+        print(f"      SHAREPOINT_SITE_ID=your-site-id")
+        print(f"      SHAREPOINT_DRIVE_ID=your-drive-id (optional)")
+        return None
+    
+    try:
+        import requests
+        
+        # Get access token
+        token_url = f"https://login.microsoftonline.com/{TENANT_ID}/oauth2/v2.0/token"
+        token_data = {
+            'grant_type': 'client_credentials',
+            'client_id': CLIENT_ID,
+            'client_secret': CLIENT_SECRET,
+            'scope': 'https://graph.microsoft.com/.default'
+        }
+        token_response = requests.post(token_url, data=token_data)
+        access_token = token_response.json().get('access_token')
+        
+        if not access_token:
+            print(f"   ⚠️ Failed to get SharePoint access token")
+            return None
+        
+        headers = {
+            'Authorization': f'Bearer {access_token}',
+            'Content-Type': 'application/octet-stream'
+        }
+        
+        folder = folder_path or SHAREPOINT_FOLDER
+        filename = filepath.name
+        
+        # Use site-specific endpoint for app-only auth
+        if SHAREPOINT_DRIVE_ID:
+            # Use specific drive
+            upload_url = f"https://graph.microsoft.com/v1.0/sites/{SHAREPOINT_SITE_ID}/drives/{SHAREPOINT_DRIVE_ID}/root:/{folder}/{filename}:/content"
+        else:
+            # Use default document library
+            upload_url = f"https://graph.microsoft.com/v1.0/sites/{SHAREPOINT_SITE_ID}/drive/root:/{folder}/{filename}:/content"
+        
+        with open(filepath, 'rb') as f:
+            response = requests.put(upload_url, headers=headers, data=f)
+        
+        if response.status_code in [200, 201]:
+            web_url = response.json().get('webUrl', '')
+            print(f"   ✅ Uploaded to SharePoint: {folder}/{filename}")
+            print(f"   🔗 URL: {web_url}")
+            return web_url
+        else:
+            error_msg = response.text[:300] if response.text else 'Unknown error'
+            print(f"   ⚠️ SharePoint upload returned {response.status_code}")
+            print(f"      Error: {error_msg}")
+            return None
+            
+    except Exception as e:
+        print(f"   ⚠️ SharePoint upload failed: {e}")
+        return None
+
+
+def generate_meeting_id(source_file, va_name='', meeting_date=''):
+    """Generate a consistent Meeting ID based on source file.
+    
+    This creates a unique, stable ID that remains the same across pipeline runs,
+    enabling Power BI relationships and Power Automate status tracking.
+    """
+    if source_file:
+        file_hash = hashlib.md5(source_file.encode()).hexdigest()[:6].upper()
+        return f"MTG-{file_hash}"
+    elif va_name and meeting_date:
+        combined = f"{va_name}_{meeting_date}"
+        file_hash = hashlib.md5(combined.encode()).hexdigest()[:6].upper()
+        return f"MTG-{file_hash}"
+    return "MTG-UNKNOWN"
 
 
 def load_json(filepath):
@@ -205,7 +352,7 @@ def generate_critical_alerts():
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow([
-            'Priority', 'VA Name', 'Client', 'Meeting Date', 'Risk Level',
+            'Meeting ID', 'Priority', 'VA Name', 'Client', 'Meeting Date', 'Risk Level',
             'Signals Count', 'Executive Summary', 'Key Findings',
             'Escalation Reason', 'Immediate Actions Required',
             'Stakeholder', 'Review Status'
@@ -216,6 +363,10 @@ def generate_critical_alerts():
             if risk in ['critical', 'high']:
                 key = f"{record['va_name']}_{record['date']}"
                 detail = detail_lookup.get(key, {})
+                
+                # Generate Meeting ID
+                source_file = detail.get('source_file', '')
+                meeting_id = generate_meeting_id(source_file, record['va_name'], record['date'])
                 
                 # Determine priority
                 priority = 'P1 - CRITICAL' if risk == 'critical' else 'P2 - HIGH'
@@ -232,6 +383,7 @@ def generate_critical_alerts():
                         actions.append(sugg.get('suggestion', '')[:150])
                 
                 writer.writerow([
+                    meeting_id,
                     priority,
                     record['va_name'],
                     record['client_name'][:50] if record['client_name'] else 'Unknown',
@@ -265,12 +417,20 @@ def generate_signals_detail():
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow([
-            'Analysis ID', 'VA Name', 'Client', 'Meeting Date', 'Overall Risk',
+            'Meeting ID', 'Analysis ID', 'VA Name', 'Client', 'Meeting Date', 'Overall Risk',
             'Signal ID', 'Signal Category', 'Evidence', 'Confidence',
-            'VA Status', 'Client Health'
+            'VA Status', 'Client Health', 'Source File', 'Transcript Blob Link'
         ])
         
         for analysis in history.get('analyses', []):
+            source_file = analysis.get('source_file', '')
+            meeting_id = generate_meeting_id(
+                source_file, 
+                analysis.get('va_name', ''), 
+                analysis.get('meeting_date', '')
+            )
+            blob_link = analysis.get('transcript_blob_link', '')
+            
             for signal in analysis.get('detected_signals', []):
                 # Determine signal category from ID
                 signal_id = signal.get('signal_id', '')
@@ -284,6 +444,7 @@ def generate_signals_detail():
                     category = 'Other'
                 
                 writer.writerow([
+                    meeting_id,
                     analysis.get('analysis_id', ''),
                     analysis.get('va_name', 'Unknown'),
                     analysis.get('client_name', 'Unknown')[:50],
@@ -294,7 +455,9 @@ def generate_signals_detail():
                     signal.get('evidence', '')[:300],
                     signal.get('confidence', 'medium'),
                     analysis.get('va_status', ''),
-                    analysis.get('client_health', '')
+                    analysis.get('client_health', ''),
+                    source_file,
+                    blob_link
                 ])
                 signal_count += 1
     
@@ -519,10 +682,371 @@ def generate_all_in_one():
     print(f"   ✅ Saved: {output_file}")
 
 
-def main():
-    """Generate all CSV files."""
+def generate_client_feedback_form():
+    """Generate client feedback form as XLSX with Excel Table for Power Automate.
+    
+    Creates an Excel file with a proper Table that Power Automate can use
+    to trigger flows when rows are modified.
+    """
+    print("\n📝 Generating Client Feedback Form XLSX...")
+    
+    try:
+        import pandas as pd
+        from openpyxl import Workbook
+        from openpyxl.worksheet.table import Table, TableStyleInfo
+        from openpyxl.utils.dataframe import dataframe_to_rows
+    except ImportError:
+        print("   ⚠️ openpyxl/pandas not installed. Run: pip install openpyxl pandas")
+        return 0
+    
+    data = load_json(BATCH_RESULTS)
+    history = load_json(ANALYSIS_HISTORY) or {'analyses': []}
+    
+    if not data:
+        return 0
+    
+    # Create lookup for detailed info
+    detail_lookup = {}
+    for analysis in history.get('analyses', []):
+        key = f"{analysis.get('va_name', '')}_{analysis.get('meeting_date', '')}"
+        detail_lookup[key] = analysis
+    
+    # Prepare data rows
+    rows = []
+    headers = [
+        'Meeting_ID', 'VA_Name', 'Client', 'Meeting_Date', 'Risk_Level',
+        'Issue_Summary', 'AI_Recommendation',
+        'Client_Agrees', 'Client_Priority', 'Client_Suggestion', 
+        'Client_Action_Taken', 'Client_Notes', 'Reviewer_Name', 'Review_Date',
+        'Feedback_Status'
+    ]
+    
+    for record in data.get('processed', []):
+        risk = record['risk_level'].lower()
+        if risk in ['critical', 'high', 'medium']:
+            key = f"{record['va_name']}_{record['date']}"
+            detail = detail_lookup.get(key, {})
+            
+            source_file = detail.get('source_file', '')
+            meeting_id = generate_meeting_id(source_file, record['va_name'], record['date'])
+            
+            summary = detail.get('executive_summary', '')[:300]
+            top_suggestion = ''
+            for sugg in detail.get('ai_suggestions', [])[:1]:
+                top_suggestion = sugg.get('suggestion', '')[:300]
+            
+            rows.append({
+                'Meeting_ID': meeting_id,
+                'VA_Name': record['va_name'],
+                'Client': record['client_name'][:50] if record['client_name'] else 'Unknown',
+                'Meeting_Date': record['date'],
+                'Risk_Level': risk.upper(),
+                'Issue_Summary': summary,
+                'AI_Recommendation': top_suggestion,
+                'Client_Agrees': '',
+                'Client_Priority': '',
+                'Client_Suggestion': '',
+                'Client_Action_Taken': '',
+                'Client_Notes': '',
+                'Reviewer_Name': '',
+                'Review_Date': '',
+                'Feedback_Status': 'PENDING'
+            })
+    
+    # Create DataFrame
+    df = pd.DataFrame(rows)
+    
+    # Create Excel workbook with table
+    output_file = OUTPUT_DIR / "client_feedback_form.xlsx"
+    
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "ClientFeedback"
+    
+    # Write headers
+    for col_num, header in enumerate(headers, 1):
+        ws.cell(row=1, column=col_num, value=header)
+    
+    # Write data
+    for row_num, row_data in enumerate(rows, 2):
+        for col_num, header in enumerate(headers, 1):
+            ws.cell(row=row_num, column=col_num, value=row_data.get(header, ''))
+    
+    # Create Excel Table
+    if len(rows) > 0:
+        table_ref = f"A1:{chr(64 + len(headers))}{len(rows) + 1}"
+        table = Table(displayName="ClientFeedbackTable", ref=table_ref)
+        
+        # Add style
+        style = TableStyleInfo(
+            name="TableStyleMedium9",
+            showFirstColumn=False,
+            showLastColumn=False,
+            showRowStripes=True,
+            showColumnStripes=False
+        )
+        table.tableStyleInfo = style
+        ws.add_table(table)
+    
+    # Adjust column widths
+    column_widths = {
+        'A': 12, 'B': 15, 'C': 20, 'D': 12, 'E': 10,
+        'F': 40, 'G': 40, 'H': 12, 'I': 15, 'J': 30,
+        'K': 25, 'L': 25, 'M': 15, 'N': 12, 'O': 15
+    }
+    for col, width in column_widths.items():
+        ws.column_dimensions[col].width = width
+    
+    wb.save(output_file)
+    
+    print(f"   ✅ Saved: {output_file} ({len(rows)} items)")
+    print(f"   📊 Excel Table 'ClientFeedbackTable' created for Power Automate")
+    
+    # Also save CSV version for backup
+    csv_file = OUTPUT_DIR / "client_feedback_form.csv"
+    df.to_csv(csv_file, index=False)
+    
+    return len(rows), output_file
+
+
+def generate_coach_performance():
+    """Generate coach/HR performance analysis CSV.
+    
+    Analyzes coach behavior based on transcript evidence to evaluate:
+    - Communication quality
+    - Professionalism
+    - Empathy and support
+    - Follow-through on action items
+    - Coaching effectiveness
+    """
+    print("\n👔 Generating Coach Performance CSV...")
+    
+    history = load_json(ANALYSIS_HISTORY)
+    if not history:
+        return 0
+    
+    # Known coaches/HR (can be expanded)
+    known_coaches = ['Louise', 'Shey', 'Shey Geraldes']
+    
+    # Track coach metrics
+    coach_stats = {}
+    coach_meetings = {}  # Store meeting details per coach
+    
+    for analysis in history.get('analyses', []):
+        # Extract coach name from evidence in signals
+        coach_name = None
+        coach_evidence = []
+        
+        for signal in analysis.get('detected_signals', []):
+            evidence = signal.get('evidence', '')
+            for coach in known_coaches:
+                if coach.lower() in evidence.lower():
+                    # Normalize coach name
+                    if 'shey' in coach.lower():
+                        coach_name = 'Shey Geraldes'
+                    else:
+                        coach_name = coach
+                    coach_evidence.append(evidence)
+                    break
+        
+        # Also check positive indicators and findings for coach mentions
+        for finding in analysis.get('key_findings', []):
+            for coach in known_coaches:
+                if coach.lower() in finding.lower():
+                    if 'shey' in coach.lower():
+                        coach_name = 'Shey Geraldes'
+                    else:
+                        coach_name = coach
+                    coach_evidence.append(finding)
+        
+        for positive in analysis.get('positive_indicators', []):
+            for coach in known_coaches:
+                if coach.lower() in positive.lower():
+                    if 'shey' in coach.lower():
+                        coach_name = 'Shey Geraldes'
+                    else:
+                        coach_name = coach
+                    coach_evidence.append(f"[POSITIVE] {positive}")
+        
+        if coach_name:
+            if coach_name not in coach_stats:
+                coach_stats[coach_name] = {
+                    'total_meetings': 0,
+                    'critical_cases': 0,
+                    'high_cases': 0,
+                    'medium_cases': 0,
+                    'low_cases': 0,
+                    'escalations_handled': 0,
+                    'positive_mentions': 0,
+                    'negative_mentions': 0,
+                    'vas_coached': set()
+                }
+                coach_meetings[coach_name] = []
+            
+            stats = coach_stats[coach_name]
+            stats['total_meetings'] += 1
+            stats['vas_coached'].add(analysis.get('va_name', 'Unknown'))
+            
+            risk = analysis.get('overall_risk_level', 'low').lower()
+            if risk == 'critical':
+                stats['critical_cases'] += 1
+            elif risk == 'high':
+                stats['high_cases'] += 1
+            elif risk == 'medium':
+                stats['medium_cases'] += 1
+            else:
+                stats['low_cases'] += 1
+            
+            if analysis.get('escalation_needed'):
+                stats['escalations_handled'] += 1
+            
+            # Count positive vs negative mentions
+            for ev in coach_evidence:
+                if '[POSITIVE]' in ev or 'support' in ev.lower() or 'help' in ev.lower():
+                    stats['positive_mentions'] += 1
+                elif 'issue' in ev.lower() or 'problem' in ev.lower() or 'miss' in ev.lower():
+                    stats['negative_mentions'] += 1
+            
+            # Store meeting detail
+            source_file = analysis.get('source_file', '')
+            meeting_id = generate_meeting_id(source_file, analysis.get('va_name', ''), analysis.get('meeting_date', ''))
+            coach_meetings[coach_name].append({
+                'meeting_id': meeting_id,
+                'va_name': analysis.get('va_name', 'Unknown'),
+                'client': analysis.get('client_name', 'Unknown'),
+                'date': analysis.get('meeting_date', ''),
+                'risk': risk.upper(),
+                'evidence': ' | '.join(coach_evidence[:2])[:400]
+            })
+    
+    # Generate summary CSV
+    output_file = OUTPUT_DIR / "coach_performance_summary.csv"
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            'Coach Name', 'Total Meetings', 'VAs Coached', 
+            'Critical Cases', 'High Cases', 'Medium Cases', 'Low Cases',
+            'Escalations Handled', 'Positive Mentions', 'Negative Mentions',
+            'Professionalism Score', 'Performance Rating'
+        ])
+        
+        for coach, stats in coach_stats.items():
+            # Calculate professionalism score (0-100)
+            total_mentions = stats['positive_mentions'] + stats['negative_mentions']
+            if total_mentions > 0:
+                prof_score = int((stats['positive_mentions'] / total_mentions) * 100)
+            else:
+                prof_score = 50  # Neutral if no mentions
+            
+            # Performance rating based on metrics
+            if prof_score >= 80 and stats['escalations_handled'] > 0:
+                rating = 'EXCELLENT'
+            elif prof_score >= 60:
+                rating = 'GOOD'
+            elif prof_score >= 40:
+                rating = 'NEEDS IMPROVEMENT'
+            else:
+                rating = 'REQUIRES REVIEW'
+            
+            writer.writerow([
+                coach,
+                stats['total_meetings'],
+                len(stats['vas_coached']),
+                stats['critical_cases'],
+                stats['high_cases'],
+                stats['medium_cases'],
+                stats['low_cases'],
+                stats['escalations_handled'],
+                stats['positive_mentions'],
+                stats['negative_mentions'],
+                prof_score,
+                rating
+            ])
+    
+    print(f"   ✅ Saved: {output_file} ({len(coach_stats)} coaches)")
+    
+    # Generate detailed coach meetings CSV
+    detail_file = OUTPUT_DIR / "coach_performance_detail.csv"
+    detail_count = 0
+    with open(detail_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            'Meeting ID', 'Coach Name', 'VA Name', 'Client', 'Meeting Date',
+            'Risk Level', 'Evidence/Observations', 'Leadership Review Notes'
+        ])
+        
+        for coach, meetings in coach_meetings.items():
+            for m in meetings:
+                writer.writerow([
+                    m['meeting_id'],
+                    coach,
+                    m['va_name'],
+                    m['client'][:50],
+                    m['date'],
+                    m['risk'],
+                    m['evidence'],
+                    ''  # For leadership to fill
+                ])
+                detail_count += 1
+    
+    print(f"   ✅ Saved: {detail_file} ({detail_count} meeting records)")
+    return len(coach_stats), output_file, detail_file
+
+
+def upload_all_to_azure():
+    """Upload all output files to Azure Blob Storage."""
+    print("\n" + "=" * 70)
+    print("☁️ UPLOADING TO AZURE BLOB STORAGE")
     print("=" * 70)
-    print("🚀 GENERATING CSV FILES FOR POWER AUTOMATE & POWER BI")
+    
+    files_to_upload = [
+        "va_risk_summary.csv",
+        "va_signals_detail.csv", 
+        "critical_alerts.csv",
+        "kpi_dashboard_summary.csv",
+        "all_meetings_detail.csv",
+        "checkin_analysis_complete.csv",
+        "stakeholder_review.csv",
+        "pending_suggestions_review.csv",
+        "client_feedback_form.xlsx",
+        "client_feedback_form.csv",
+        "coach_performance_summary.csv",
+        "coach_performance_detail.csv"
+    ]
+    
+    uploaded = 0
+    for filename in files_to_upload:
+        filepath = OUTPUT_DIR / filename
+        if filepath.exists():
+            result = upload_to_azure_blob(filepath)
+            if result:
+                uploaded += 1
+    
+    print(f"\n   📊 Uploaded {uploaded}/{len(files_to_upload)} files to Azure")
+    return uploaded
+
+
+def upload_feedback_to_sharepoint():
+    """Upload client feedback form to SharePoint BT group documents."""
+    print("\n" + "=" * 70)
+    print("📤 UPLOADING CLIENT FEEDBACK TO SHAREPOINT")
+    print("=" * 70)
+    
+    xlsx_file = OUTPUT_DIR / "client_feedback_form.xlsx"
+    if xlsx_file.exists():
+        result = upload_to_sharepoint(xlsx_file, SHAREPOINT_FOLDER)
+        if result:
+            print(f"   ✅ Client feedback form available at: {result}")
+            return result
+    
+    print("   ⚠️ client_feedback_form.xlsx not found")
+    return None
+
+
+def main():
+    """Generate all CSV files and upload to Azure/SharePoint."""
+    print("=" * 70)
+    print("🚀 GENERATING CSV/XLSX FILES FOR POWER AUTOMATE & POWER BI")
     print("=" * 70)
     print(f"   Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
@@ -535,39 +1059,60 @@ def main():
     generate_kpi_summary()
     generate_all_in_one()
     
+    # Client feedback (XLSX with Excel Table) and coach performance
+    feedback_result = generate_client_feedback_form()
+    generate_coach_performance()
+    
+    # Upload to Azure Blob Storage
+    upload_all_to_azure()
+    
+    # Upload client feedback to SharePoint
+    sharepoint_url = upload_feedback_to_sharepoint()
+    
     print("\n" + "=" * 70)
-    print("✅ CSV GENERATION COMPLETE")
+    print("✅ GENERATION & UPLOAD COMPLETE")
     print("=" * 70)
     print(f"""
 📁 Output Files Created in {OUTPUT_DIR}:
 
    FOR POWER BI DASHBOARDS:
-   ├── va_risk_summary.csv          - VA risk scores & trends
-   ├── va_signals_detail.csv        - Signal-level analysis
-   ├── kpi_dashboard_summary.csv    - Executive KPIs
-   └── checkin_analysis_complete.csv - Full dataset
+   ├── va_risk_summary.csv            - VA risk scores & trends
+   ├── va_signals_detail.csv          - Signal-level analysis (with Meeting ID)
+   ├── critical_alerts.csv            - P1/P2 alerts (with Meeting ID)
+   ├── kpi_dashboard_summary.csv      - Executive KPIs
+   └── checkin_analysis_complete.csv  - Full dataset
 
    FOR POWER AUTOMATE EMAIL WORKFLOW:
-   ├── critical_alerts.csv          - P1/P2 alerts for immediate action
-   ├── stakeholder_review.csv       - Review items with approval tracking
+   ├── stakeholder_review.csv         - Review items with approval tracking
    └── pending_suggestions_review.csv - All suggestions pending review
 
-📧 POWER AUTOMATE SETUP:
-   1. Upload CSV files to SharePoint/OneDrive
-   2. Create Flow triggered on file update
-   3. Parse CSV and send email with:
-      - Link to SharePoint spreadsheet
-      - Summary of critical alerts
-      - Review deadline
+   FOR CLIENT FEEDBACK (XLSX WITH EXCEL TABLE):
+   └── client_feedback_form.xlsx      - Excel Table for Power Automate triggers
+       📍 Uploaded to SharePoint: {SHAREPOINT_FOLDER}
 
-📊 POWER BI SETUP:
-   1. Import CSV files as data sources
-   2. Create relationships on VA Name + Date
-   3. Build dashboards:
-      - Risk Distribution pie chart
-      - VA Risk Trend over time
-      - Signal Category breakdown
-      - KPI scorecards
+   FOR COACH/HR PERFORMANCE (LEADERSHIP):
+   ├── coach_performance_summary.csv  - Coach metrics & professionalism scores
+   └── coach_performance_detail.csv   - Meeting-level coach analysis
+
+☁️ AZURE BLOB STORAGE:
+   Container: {OUTPUT_CONTAINER}
+   Path: csv/YYYYMMDD/ and latest/
+
+📤 SHAREPOINT:
+   Folder: {SHAREPOINT_FOLDER}
+   File: client_feedback_form.xlsx
+
+📊 POWER AUTOMATE SETUP:
+   1. Add SharePoint connector
+   2. Trigger: "When a row is modified" on ClientFeedbackTable
+   3. Get Meeting_ID from modified row
+   4. Send notification/update Power BI dataset
+
+📊 POWER BI RELATIONSHIPS:
+   all_meetings_detail ─── Meeting ID ───> va_signals_detail
+   all_meetings_detail ─── Meeting ID ───> critical_alerts  
+   all_meetings_detail ─── Meeting ID ───> client_feedback_form
+   coach_performance_detail ─── Meeting ID ───> all_meetings_detail
     """)
 
 

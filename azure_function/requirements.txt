@@ -1,0 +1,8 @@
+azure-functions
+azure-identity
+azure-storage-blob
+azure-search-documents
+requests
+python-dotenv
+openpyxl
+pandas
